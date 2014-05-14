@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/themes/soria/layout"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="TabContainer.css"
+   text-time="2013-09-03T13:58:31.810389Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="91179b4dd532328979395f42d7c082bb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.758386Z"/>
+<entry
+   committed-rev="11"
+   name="TabContainer_rtl.css"
+   text-time="2013-09-03T13:58:31.815389Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="42c297a44061e609c0903c4c7df453fb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.764386Z"/>
+<entry
+   committed-rev="11"
+   name="ContentPane.css"
+   text-time="2013-09-03T13:58:31.822390Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="61019ac2ba4c9577dfd44828a889c60b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.771387Z"/>
+<entry
+   committed-rev="11"
+   name="SplitContainer.css"
+   text-time="2013-09-03T13:58:31.828390Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6000bf35c64e217260ebf0ffcd2cf40b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.778387Z"/>
+<entry
+   committed-rev="11"
+   name="BorderContainer.css"
+   text-time="2013-09-03T13:58:31.788388Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="932c76d92cd6e23965569bc70f8eb8c0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.628379Z"/>
+<entry
+   committed-rev="11"
+   name="AccordionContainer.css"
+   text-time="2013-09-03T13:58:31.796388Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d100f0f60e97ff64736b5952d92b132d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.633379Z"/>
+<entry
+   committed-rev="11"
+   name="AccordionContainer_rtl.css"
+   text-time="2013-09-03T13:58:31.803389Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="37c449d9528b8b5defef3959bc884891"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.637379Z"/>
+</wc-entries>

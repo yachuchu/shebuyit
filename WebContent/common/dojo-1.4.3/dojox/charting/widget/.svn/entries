@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/charting/widget"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Chart2D.js"
+   text-time="2013-09-03T14:01:22.703164Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dc9761a289f3eef96fc0d11946d2ba90"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:19.462978Z"/>
+<entry
+   committed-rev="11"
+   name="Chart2D.js.uncompressed.js"
+   text-time="2013-09-03T14:01:22.714164Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="71d038ebaa736b02bc52a0eda826eea0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:22.682162Z"/>
+<entry
+   committed-rev="11"
+   name="Sparkline.js"
+   text-time="2013-09-03T14:01:22.719164Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2effac829f76e60e585015e02eee553e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:22.691163Z"/>
+<entry
+   committed-rev="11"
+   name="Legend.js"
+   text-time="2013-09-03T14:01:22.697163Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="55b82cc54d0a2b69fc5111d0fc834827"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:17.275853Z"/>
+</wc-entries>

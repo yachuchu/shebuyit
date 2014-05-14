@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/kindeditor-4.0.1/asp.net"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="upload_json.ashx"
+   text-time="2013-09-03T14:01:42.273283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1237e8d43aee3977d19d22ffec4853ff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:42.246281Z"/>
+<entry
+   committed-rev="11"
+   name="file_manager_json.ashx"
+   text-time="2013-09-03T14:01:42.254282Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="840fb8232df7be71f902c03e5a1bdf4f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:41.926263Z"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README.txt"
+   text-time="2013-09-03T14:01:42.261282Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fa49cc57748adcd811e3f863435a19d2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:42.236281Z"/>
+<entry
+   committed-rev="11"
+   name="demo.aspx"
+   text-time="2013-09-03T14:01:42.267283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="05097ecfa32578fe99db72d0abfe24dd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:42.242281Z"/>
+</wc-entries>

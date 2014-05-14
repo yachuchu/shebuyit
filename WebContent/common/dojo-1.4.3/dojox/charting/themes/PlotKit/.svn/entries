@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/charting/themes/PlotKit"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="blue.js"
+   text-time="2013-09-03T14:01:23.930234Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7094a025ae37fe3943f50192d9c7b54c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.902232Z"/>
+<entry
+   committed-rev="11"
+   name="purple.js"
+   text-time="2013-09-03T14:01:23.934234Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="946302a52faa9509b59e993ce4af3c75"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.906232Z"/>
+<entry
+   committed-rev="11"
+   name="cyan.js"
+   text-time="2013-09-03T14:01:23.940234Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="287f83a646a44a4355cf2704cdf61eff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.909233Z"/>
+<entry
+   committed-rev="11"
+   name="red.js"
+   text-time="2013-09-03T14:01:23.946235Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c58214306854a8d55b232a7af2910b53"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.914233Z"/>
+<entry
+   committed-rev="11"
+   name="orange.js"
+   text-time="2013-09-03T14:01:23.950235Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1ab4f1d4caa60b27ca678d26adaabeca"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.917233Z"/>
+<entry
+   committed-rev="11"
+   name="green.js"
+   text-time="2013-09-03T14:01:23.954235Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4a71b18fc7398f9b0c23458663ed0850"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.921233Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:23.959235Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bad45d73533fa62e0789053f147c0698"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.924233Z"/>
+</wc-entries>

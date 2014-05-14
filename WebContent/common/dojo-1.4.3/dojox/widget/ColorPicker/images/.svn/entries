@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/ColorPicker/images"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="hueHandle.png"
+   text-time="2013-09-03T14:01:08.242336Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="16bcdc0f9211981bfeabf5ef3c833245"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:07.913318Z"/>
+<entry
+   committed-rev="11"
+   name="pickerPointer.png"
+   text-time="2013-09-03T14:01:08.247337Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3e7e658485ebcf7a6fecd03e1cc4563a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:07.922318Z"/>
+<entry
+   committed-rev="11"
+   name="hue.png"
+   text-time="2013-09-03T14:01:08.252337Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="aec8e649814b3c565c83290b0190cd3b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:08.059326Z"/>
+<entry
+   committed-rev="11"
+   name="underlay.png"
+   text-time="2013-09-03T14:01:08.258337Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9dd228057407938f2c4f1b19a8c4793a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:08.235336Z"/>
+</wc-entries>

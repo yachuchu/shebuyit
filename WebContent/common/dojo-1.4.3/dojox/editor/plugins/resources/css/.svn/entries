@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/editor/plugins/resources/css"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="FindReplace.css"
+   text-time="2013-09-03T14:01:34.208822Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="733e8c3f62276e824a9692b6e85bfa51"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.120817Z"/>
+<entry
+   committed-rev="11"
+   name="Save.css"
+   text-time="2013-09-03T14:01:34.215822Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b7420e99f6bc8e0b7312f9208eb9bfec"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.123817Z"/>
+<entry
+   committed-rev="11"
+   name="InsertEntity.css"
+   text-time="2013-09-03T14:01:34.131817Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fbeb8a4033b34f8c1d8834108f0a26c8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.086815Z"/>
+<entry
+   committed-rev="11"
+   name="PageBreak.css"
+   text-time="2013-09-03T14:01:34.136818Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="27956c66e96147d1215f0600b8ab308f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.089815Z"/>
+<entry
+   committed-rev="11"
+   name="Preview.css"
+   text-time="2013-09-03T14:01:34.187820Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b0a5d41a416a53bc76504f2060958a02"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.095815Z"/>
+<entry
+   committed-rev="11"
+   name="Smiley.css"
+   text-time="2013-09-03T14:01:34.193821Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="34d2fc262bf33c3871190906bf1aa0dd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.108816Z"/>
+<entry
+   committed-rev="11"
+   name="ShowBlockNodes.css"
+   text-time="2013-09-03T14:01:34.198821Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fd84d5cd8ec51058c5a49283052a06d1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.114816Z"/>
+<entry
+   committed-rev="11"
+   name="Breadcrumb.css"
+   text-time="2013-09-03T14:01:34.203821Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f3169ecbeabcaf13195a35060a7e5ddb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.117816Z"/>
+</wc-entries>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing/resources"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="CrazyTruck.jpg"
+   text-time="2013-09-03T14:00:46.367085Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c519162f91729695a5eebaeff722769a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.347084Z"/>
+<entry
+   committed-rev="11"
+   name="drawing.css"
+   text-time="2013-09-03T14:00:46.374086Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3b01d94585d63ca9f556664d7ee62adf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.352084Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="toolbar.css"
+   text-time="2013-09-03T14:00:46.361085Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ba2135c7c56ac5d8624648a78d76014d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.307082Z"/>
+</wc-entries>

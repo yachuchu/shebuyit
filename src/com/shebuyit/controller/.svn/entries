@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/controller"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="OrderController.java"
+   text-time="2013-09-03T13:43:24.179476Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6907cea16ed000cf3419c9af6b67dad7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.981407Z"/>
+<entry
+   committed-rev="18"
+   name="QuickController.java"
+   text-time="2013-10-15T14:14:35.339809Z"
+   committed-date="2013-10-08T09:37:46.841612Z"
+   checksum="e0030956880832c430a2aacdddfd2dac"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-10-15T14:14:35.330809Z"
+   revision="23"/>
+<entry
+   committed-rev="11"
+   name="ItemController.java"
+   text-time="2013-09-03T13:43:24.189476Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="82021dfc2800343042383b5ff14c6a97"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:23.286424Z"/>
+<entry
+   committed-rev="11"
+   name="TranslationController.java"
+   text-time="2013-09-03T13:43:24.194476Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="92408ea6ff4b0bfacbb2f8e031695ac6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:23.324427Z"/>
+<entry
+   committed-rev="11"
+   name="UserController.java"
+   text-time="2013-09-03T13:43:24.200477Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a91f4787a4501dd4fea29d934c1f4920"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:23.347428Z"/>
+<entry
+   committed-rev="11"
+   name="ProductController.java"
+   text-time="2013-09-03T13:43:24.205477Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="83538b64f1ade496fbd6c5fec991b520"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:23.834456Z"/>
+<entry
+   committed-rev="11"
+   name="BaseMultiActionController.java"
+   text-time="2013-09-03T13:43:24.209477Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="37e835dafe22566e07004ec2e35b17a9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:23.839456Z"/>
+<entry
+   committed-rev="11"
+   name="DictController.java"
+   text-time="2013-09-03T13:43:24.215478Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7badaf4ef764b2452e4d5c1f452f31cd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:23.842456Z"/>
+<entry
+   committed-rev="23"
+   name="MainController.java"
+   text-time="2013-10-15T14:14:33.392698Z"
+   committed-date="2013-10-15T09:20:06.818151Z"
+   checksum="bbf46aed824c82b1d87516733001334b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-10-15T14:14:33.374697Z"
+   revision="23"/>
+<entry
+   committed-rev="32"
+   name="StorageController.java"
+   text-time="2013-11-12T11:55:34.045586Z"
+   committed-date="2013-11-12T07:49:06.946322Z"
+   checksum="1388e968363d734381f826a7a11dadca"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-11-12T11:55:34.024585Z"
+   revision="32"/>
+<entry
+   committed-rev="11"
+   name="LoginController.java"
+   text-time="2013-09-03T13:43:24.169475Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4a0d28fbcceb79bf2757763a53447f36"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.907403Z"/>
+<entry
+   committed-rev="37"
+   name="ShopController.java"
+   text-time="2013-11-13T13:32:53.785397Z"
+   committed-date="2013-11-13T09:57:24.028921Z"
+   checksum="060edc20ec9a6951698b85eb35f2765a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-11-13T13:32:53.776397Z"
+   revision="38"/>
+</wc-entries>

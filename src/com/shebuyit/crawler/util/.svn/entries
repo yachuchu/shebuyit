@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/crawler/util"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="37"
+   name="DataDictionary.java"
+   text-time="2013-11-13T13:33:00.248767Z"
+   committed-date="2013-11-13T09:57:24.028921Z"
+   checksum="1ca417bfb33f16e57dc15e00d95a223b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-11-13T13:33:00.238766Z"
+   revision="38"/>
+<entry
+   committed-rev="43"
+   name="DataUtils.java"
+   text-time="2013-12-24T13:53:27.610409Z"
+   committed-date="2013-12-04T02:34:30.499525Z"
+   checksum="3dc114a56896127e84efeeb1686d509a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-12-24T13:53:27.605409Z"
+   revision="44"/>
+<entry
+   committed-rev="43"
+   name="SystemConfig.java"
+   text-time="2013-12-24T13:53:29.068492Z"
+   committed-date="2013-12-04T02:34:30.499525Z"
+   checksum="316d489138ab6618c20e61f600e50eca"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-12-24T13:53:29.061492Z"
+   revision="44"/>
+<entry
+   committed-rev="11"
+   name="ToolUtils.java"
+   text-time="2013-09-03T13:43:21.971349Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ed4cd3c7022d0d7cd7defa5af05bd31f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:21.790339Z"/>
+</wc-entries>

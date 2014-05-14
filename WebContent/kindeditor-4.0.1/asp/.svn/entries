@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/kindeditor-4.0.1/asp"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="upload_json.asp"
+   text-time="2013-09-03T14:01:55.643048Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="14cca276d498fc852cc5fa1e92f4acfd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:55.623046Z"/>
+<entry
+   committed-rev="11"
+   name="file_manager_json.asp"
+   text-time="2013-09-03T14:01:55.647048Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ff64e77794598f8d26986cb0dd92dd72"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:55.626047Z"/>
+<entry
+   committed-rev="11"
+   name="demo.asp"
+   text-time="2013-09-03T14:01:55.654048Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="23fcd5a3706776b71094e97f1a6e4b33"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:55.630047Z"/>
+<entry
+   committed-rev="11"
+   name="UpLoad_Class.asp"
+   text-time="2013-09-03T14:01:55.659049Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e260c320904812496ec6214e9131d27b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:55.634047Z"/>
+<entry
+   committed-rev="11"
+   name="JSON_2.0.4.asp"
+   text-time="2013-09-03T14:01:55.664049Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="30e632b0ed5a5c564c62c11490f2dd85"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:55.637047Z"/>
+</wc-entries>

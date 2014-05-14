@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/RollingList"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="RollingList.html"
+   text-time="2013-09-03T14:01:12.268567Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="be0596ace15fa19dcc0f5fbd82eef2ba"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.254566Z"/>
+<entry
+   committed-rev="11"
+   name="RollingList.css"
+   text-time="2013-09-03T14:01:12.278567Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e7ed0eb65475ca8bab0dec79c231d8a0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.260566Z"/>
+</wc-entries>

@@ -1,0 +1,170 @@
+package com.shebuyit.crawler.parser;
+
+import java.util.Date;
+import java.util.List;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+import com.shebuyit.crawler.jsoup.Crawler;
+import com.shebuyit.po.Product;
+import com.shebuyit.service.IConfigService;
+import com.shebuyit.service.IDictService;
+import com.shebuyit.service.IProductService;
+import com.shebuyit.service.IShopService;
+
+public class StockCrawler extends Crawler{
+	
+	private IProductService productService;
+	
+	private IShopService shopService;
+	
+	private IConfigService configService;
+		
+	private IDictService dictService;
+	
+	private static StockCrawler stockCrawler;
+	
+	List<Product> productList;
+	
+	
+	
+	public IProductService getProductService() {
+		return productService;
+	}
+
+	public void setProductService(IProductService productService) {
+		this.productService = productService;
+	}
+	
+	public IShopService getShopService() {
+		return shopService;
+	}
+
+	public void setShopService(IShopService shopService) {
+		this.shopService = shopService;
+	}
+	
+	
+	public IConfigService getConfigService() {
+		return configService;
+	}
+
+	public void setConfigService(IConfigService configService) {
+		this.configService = configService;
+	}
+	
+	public IDictService getDictService() {
+		return dictService;
+	}
+
+	public void setDictService(IDictService dictService) {
+		this.dictService = dictService;
+	}
+
+	public void init()
+
+    {
+
+		stockCrawler = this;
+
+		stockCrawler.productService = this.productService;
+		
+		stockCrawler.configService = this.configService;
+		
+		stockCrawler.shopService = this.shopService;
+		
+		stockCrawler.dictService = this.dictService;
+
+    }
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		doStart(productList);
+	}
+	
+	private static int productNumber = 1;
+	
+	public void doStart(List<Product> productList) {
+		System.out.println("------StockCrawler---Start---------productList:"+productList.size());
+		for (Product product: productList) {
+			int stock = product.getStock();
+			if(stock==0){
+				continue;
+			}
+			parseProductInfoUrl(product);
+		}
+		System.out.println("------StockCrawler---End---------");
+					
+	}
+	
+	
+	
+
+	//解析product
+	public void parseProductInfoUrl(Product product) {	
+		String productURL = product.getSb_shop();
+		System.out.println("productUrl--------------" + productURL);
+		try {
+			String shopSku = product.getShopSku();			
+			if("1001".equals(shopSku)){
+				Thread.sleep(20000);
+				String content = super.doGet(productURL);
+				Document doc = Jsoup.parse(content);
+				Element productSKUE = doc.getElementById("is_show_stock");
+				String productStock = productSKUE.select("strong").text();
+				
+				boolean soldOut = content.contains("sold_out.jpg");
+				// 库存
+				//String productStock = productStockE.select("strong").text();
+				if("0".equals(productStock)||soldOut){
+					product.setStock(0);
+					product.setCreated_time(new Date());
+					stockCrawler.productService.update(product);
+				}
+			}else if("1002".equals(shopSku)){
+				String content = super.doGet(productURL);
+				Document doc = Jsoup.parse(content);
+				Element productStockE = doc.getElementById("new_addcart");
+				if(productStockE==null){
+					product.setStock(0);
+					product.setCreated_time(new Date());
+					stockCrawler.productService.update(product);
+				}
+			}else{
+				Thread.sleep(30000);
+				String content = super.doGet(productURL);
+				Document doc = Jsoup.parse(content);
+				Elements productSKUES = doc.getElementsByClass("sold-out-tit");
+				if(productSKUES!=null&&productSKUES.size()>0){
+						product.setStock(0);
+						product.setCreated_time(new Date());
+						stockCrawler.productService.update(product);
+				}
+				
+			}
+			
+			
+			
+			
+			
+		} catch (Exception e) {
+			System.out.println("------StockCrawler error:--"+e.getMessage());
+			e.printStackTrace();
+			
+		}		
+	}
+
+	public List<Product> getProductList() {
+		return productList;
+	}
+
+	public void setProductList(List<Product> productList) {
+		this.productList = productList;
+	}
+	
+	
+}

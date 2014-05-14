@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/grid/nls"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_cs.js"
+   text-time="2013-09-03T14:00:29.384114Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="90bea31ff8b0ef1a5c64b7c2dd8cbd94"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.946089Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_es.js"
+   text-time="2013-09-03T14:00:29.388114Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="69f7df6d3ff62bdc5c2ecacfd2740fdb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.950089Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_ko.js"
+   text-time="2013-09-03T14:00:29.398115Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7a6d3d1755e663aaba37abe9b0d2eb2d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.956089Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_hu.js"
+   text-time="2013-09-03T14:00:29.402115Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5925debada6a24d09a9895c731e34abe"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.960090Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_sk.js"
+   text-time="2013-09-03T14:00:29.420116Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="acc02a06bae267a33027c9f12ff990f6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.095097Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_ko-kr.js"
+   text-time="2013-09-03T14:00:29.308110Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d336113f977b807ca313caa516255342"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.771079Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_it-it.js"
+   text-time="2013-09-03T14:00:29.337111Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b7750b4ff2a83472de7e837f5c3eae35"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.791080Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_ru.js"
+   text-time="2013-09-03T14:00:29.446117Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="16d36f885ca666461b44e705eaedc8c7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.120099Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_he-il.js"
+   text-time="2013-09-03T14:00:29.369113Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="253ac8533cd84e8be3f3ebe3c9dfe3d9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.937088Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_nb.js"
+   text-time="2013-09-03T14:00:29.469119Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8dcd2975e32b8abc0b46e5db16ca13ed"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.132099Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_el.js"
+   text-time="2013-09-03T14:00:29.474119Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a90b7793bbd13a3daf95841a21a6c19e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.138100Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_ja-jp.js"
+   text-time="2013-09-03T14:00:29.379114Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e6f5920874e773f7ef8931fdbc4ebe99"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.944089Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_ar.js"
+   text-time="2013-09-03T14:00:29.479119Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="257578c1f2994b535f1028b984e5454b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.252106Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_en.js"
+   text-time="2013-09-03T14:00:29.486120Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ddc3c1ecb133e7c26a12daa28b3808b7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.256107Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_fr.js"
+   text-time="2013-09-03T14:00:29.268107Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ea3583a7a572765d9f775006f0a9ccb3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.617070Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_zh-tw.js"
+   text-time="2013-09-03T14:00:29.393114Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7114f75746b4c01f59ea3fe69e92c771"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.953089Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_nl.js"
+   text-time="2013-09-03T14:00:29.274108Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b870dd80260532329a9620ffe803e649"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.620070Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_pl.js"
+   text-time="2013-09-03T14:00:29.281108Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bcde098ec9cf1abc6029c0499b5ea2f6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.623070Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_th.js"
+   text-time="2013-09-03T14:00:29.288108Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bf7f1ac44d3fa5c1480f5d6b63da7968"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.628071Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_fr-fr.js"
+   text-time="2013-09-03T14:00:29.413116Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="176aeaca4e2b5cf4595dc8e29d3d9968"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.967090Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_es-es.js"
+   text-time="2013-09-03T14:00:29.407115Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dde83430c8e466c76e0594dc98cf190f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.963090Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_it.js"
+   text-time="2013-09-03T14:00:29.294109Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9b7d8a1be33364fee1ffc0f1b1a2a629"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.760078Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_de-de.js"
+   text-time="2013-09-03T14:00:29.425116Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="77c59ac6cf5b8294c82f370f665498f5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.102098Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_sl.js"
+   text-time="2013-09-03T14:00:29.298109Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ef1e78c1168d747f11d67bf3e3a5652b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.764078Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_zh-cn.js"
+   text-time="2013-09-03T14:00:29.430117Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="87085ccd3b2950af0e86479eeef68716"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.109098Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_nl-nl.js"
+   text-time="2013-09-03T14:00:29.436117Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d008fba54daa0e94557406544e7d66d0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.114098Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_zh.js"
+   text-time="2013-09-03T14:00:29.303109Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="faad0be30807ac794cd2de0621a119b2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.768079Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_ROOT.js"
+   text-time="2013-09-03T14:00:29.313110Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3292d0d2170f30a040677cdaed0b8fe3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.774079Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_ca.js"
+   text-time="2013-09-03T14:00:29.318110Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3e048752996e683e6e8a5048819f57fd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.778079Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_pt.js"
+   text-time="2013-09-03T14:00:29.322110Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="20dfb32cd218110caa5f0dfd118a5e93"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.782079Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_da.js"
+   text-time="2013-09-03T14:00:29.327111Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dc52d452b0494961e50cc9aec3b49fcf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.785080Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_pt-br.js"
+   text-time="2013-09-03T14:00:29.441117Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b0ce124004faaba25ef5f23556d32747"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.117099Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_tr.js"
+   text-time="2013-09-03T14:00:29.332111Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c252bab1f60079a4456f6237df220a40"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.788080Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_en-us.js"
+   text-time="2013-09-03T14:00:29.454118Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6fd684b44537b6b0d965cff25f6c0b63"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.123099Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_de.js"
+   text-time="2013-09-03T14:00:29.347112Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="98b233291c26e025cf9377161bdfe008"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.802081Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_sv.js"
+   text-time="2013-09-03T14:00:29.342111Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="feba753f473f68842f33ca456f5ae567"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.795080Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_en-gb.js"
+   text-time="2013-09-03T14:00:29.459118Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b1ba250406dc20452f4fe3b31e9a5a92"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.126099Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_ja.js"
+   text-time="2013-09-03T14:00:29.353112Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a3de90cd93122873179b8269447dbaf1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.807081Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_fi-fi.js"
+   text-time="2013-09-03T14:00:29.464118Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ddbe75f3ed9d6e806c251c92cb5dc399"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.129099Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_he.js"
+   text-time="2013-09-03T14:00:29.359112Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1e2354bf46532eb18b765c5cfe9b8507"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.812081Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_fi.js"
+   text-time="2013-09-03T14:00:29.364113Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1977b991739c06d6bf877608a2efb52f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.934088Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_xx.js"
+   text-time="2013-09-03T14:00:29.375113Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1ba29a2ef3f6b4e2f4de547067cdcf04"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.941089Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid_pt-pt.js"
+   text-time="2013-09-03T14:00:29.491120Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="880082684c7497823b18466e7f6b2836"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:29.260107Z"/>
+</wc-entries>

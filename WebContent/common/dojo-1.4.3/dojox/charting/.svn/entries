@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/charting"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Chart2D.js"
+   text-time="2013-09-03T14:01:24.322256Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e2621ac035eb0381a2425eb9c75135ee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:16.961835Z"/>
+<entry
+   name="action2d"
+   kind="dir"/>
+<entry
+   name="widget"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Chart3D.js"
+   text-time="2013-09-03T14:01:24.327256Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="76a442e5b2c1e3b54dff815d301a0459"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:16.965835Z"/>
+<entry
+   name="plot2d"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Element.js"
+   text-time="2013-09-03T14:01:24.332257Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="24be832cb45d37c9117ec606360cded5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:22.728165Z"/>
+<entry
+   name="plot3d"
+   kind="dir"/>
+<entry
+   name="themes"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Series.js"
+   text-time="2013-09-03T14:01:24.336257Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b02eb8db578a7bbfb9bd829bced479b6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.507210Z"/>
+<entry
+   committed-rev="11"
+   name="DataChart.js"
+   text-time="2013-09-03T14:01:24.341257Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1dc1fc14c0a1e4511cef5d8582af4bf0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:24.201249Z"/>
+<entry
+   name="scaler"
+   kind="dir"/>
+<entry
+   name="axis2d"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:24.312256Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c93caa3a9daa8b5c83eb2ed3f5e9b2e5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:16.671819Z"/>
+<entry
+   committed-rev="11"
+   name="Theme.js"
+   text-time="2013-09-03T14:01:24.317256Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7bf1b102ce8ed7776aa6e6fe2b68c146"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:16.801826Z"/>
+</wc-entries>

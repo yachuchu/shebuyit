@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/cldr/nls/hu"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="buddhist.js"
+   text-time="2013-09-03T13:57:51.425079Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8f4bff4d58bb1422bdb04f9cf5ff4068"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:51.395077Z"/>
+<entry
+   committed-rev="11"
+   name="number.js"
+   text-time="2013-09-03T13:57:51.400078Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9b8bdc4e4c502dc408c38af0d553da20"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:51.336074Z"/>
+<entry
+   committed-rev="11"
+   name="currency.js"
+   text-time="2013-09-03T13:57:51.405078Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ea3ea5a882a34f6070e4ad6c842695ac"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:51.340074Z"/>
+<entry
+   committed-rev="11"
+   name="hebrew.js"
+   text-time="2013-09-03T13:57:51.410078Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="82b412433c99657a3a77096204707e06"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:51.385077Z"/>
+<entry
+   committed-rev="11"
+   name="gregorian.js"
+   text-time="2013-09-03T13:57:51.416079Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1e5f739310394b736ea79cdfda9ea060"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:51.389077Z"/>
+<entry
+   committed-rev="11"
+   name="islamic.js"
+   text-time="2013-09-03T13:57:51.420079Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6cc335ba1a40834176e5c44e1b729fce"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:51.392077Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/WEB-INF/jsp/order"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="orderItem.jsp"
+   text-time="2013-09-03T13:54:49.373666Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="72c98048e4c708b7db9ec4e194794f4e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:49.233658Z"/>
+<entry
+   committed-rev="11"
+   name="order.jsp"
+   text-time="2013-09-03T13:54:49.385667Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5767cfce0e1f7c7f481b0d6a56053000"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:49.236659Z"/>
+<entry
+   committed-rev="11"
+   name="orderSearch.jsp"
+   text-time="2013-09-03T13:54:49.396668Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="31535c162c47e8128b08992192654442"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:49.360666Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing/tools/custom"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Equation.js"
+   text-time="2013-09-03T14:00:47.740164Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fecf7f2077f995b12328f6c14bbe7154"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:47.720163Z"/>
+<entry
+   committed-rev="11"
+   name="Axes.js"
+   text-time="2013-09-03T14:00:47.727163Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="340354d9011c62c1798cf9c028a74b47"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:47.560153Z"/>
+<entry
+   committed-rev="11"
+   name="Vector.js"
+   text-time="2013-09-03T14:00:47.733163Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f58381d6f195125ad2044c7281de233f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:47.716162Z"/>
+</wc-entries>

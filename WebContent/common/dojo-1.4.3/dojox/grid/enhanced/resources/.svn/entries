@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/grid/enhanced/resources"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="tundraEnhancedGrid.css"
+   text-time="2013-09-03T14:00:41.514808Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0d6dba5de387e8ba70eb86385ceec2ad"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.473805Z"/>
+<entry
+   committed-rev="11"
+   name="EnhancedGrid.css"
+   text-time="2013-09-03T14:00:41.520808Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f98d1885299edbe3d5e23d0f631e5673"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.476806Z"/>
+<entry
+   committed-rev="11"
+   name="EnhancedGrid_rtl.css"
+   text-time="2013-09-03T14:00:41.526808Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f60118e3e61374dcbd100192af5fd0d5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.480806Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans 	xmlns="http://www.springframework.org/schema/beans"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:aop="http://www.springframework.org/schema/aop"
+		xsi:schemaLocation="http://www.springframework.org/schema/beans 
+							http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
+							http://www.springframework.org/schema/aop 
+							http://www.springframework.org/schema/aop/spring-aop-2.0.xsd">
+	<!-- data source configuration -->
+	<bean id="dmDataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">  
+		<property name="driverClassName" value="com.mysql.jdbc.Driver"></property>  
+		<property name="url" value="jdbc:mysql://localhost:3306/crawlerdb?characterEncoding=UTF-8"></property>  
+		<property name="username" value="root"></property>  
+		<property name="password" value=""></property>
+	</bean>
+	
+	<bean id="entityManagerFactory"
+		class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
+		<property name="dataSource" ref="dmDataSource" />
+		<property name="jpaVendorAdapter">
+			<bean class="org.springframework.orm.jpa.vendor.OpenJpaVendorAdapter">
+				<property name="showSql" value="false" />
+				<property name="generateDdl" value="false" />
+				<property name="databasePlatform" value="org.apache.openjpa.jdbc.sql.MySQLDictionary" />
+			</bean>
+		</property>
+		<property name="loadTimeWeaver">
+			<bean class="org.springframework.instrument.classloading.SimpleLoadTimeWeaver" /> 
+			<!-- <bean class="org.springframework.instrument.classloading.InstrumentationLoadTimeWeaver"/> -->
+		</property>
+	</bean>
+	
+	<bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager"
+		lazy-init="true">
+		<property name="entityManagerFactory" ref="entityManagerFactory" />
+	</bean>
+	
+	<bean id="commonDAO" abstract="true">
+		<property name="entityManagerFactory" ref="entityManagerFactory" />
+	</bean>
+	
+	<!--bean id="parcelDAO" class="com.scacorp.tax.dao.impl.ParcelDAOImpl" parent="commonDAO" init-method="init" lazy-init="false"/-->
+    
+    <bean id="productDAO" class="com.shebuyit.dao.impl.ProductDAOImpl">  
+       <property name="entityManagerFactory" ref="entityManagerFactory"/>  
+    </bean>	
+    
+    <bean id="shopDAO" class="com.shebuyit.dao.impl.ShopDAOImpl">  
+       <property name="entityManagerFactory" ref="entityManagerFactory"/>  
+    </bean>	
+    
+    <bean id="configDAO" class="com.shebuyit.dao.impl.ConfigDAOImpl">  
+       <property name="entityManagerFactory" ref="entityManagerFactory"/>  
+    </bean>
+    
+    <bean id="dictDAO" class="com.shebuyit.dao.impl.DictDAOImpl">  
+       <property name="entityManagerFactory" ref="entityManagerFactory"/>  
+    </bean>
+    
+    <bean id="translationDAO" class="com.shebuyit.dao.impl.TranslationDAOImpl">  
+       <property name="entityManagerFactory" ref="entityManagerFactory"/>  
+    </bean>
+    
+    <bean id="userDAO" class="com.shebuyit.dao.impl.UserDAOImpl">  
+       <property name="entityManagerFactory" ref="entityManagerFactory"/>  
+    </bean>
+    
+    <bean id="orderDAO" class="com.shebuyit.dao.impl.OrderDAOImpl">  
+       <property name="entityManagerFactory" ref="entityManagerFactory"/>  
+    </bean>
+    
+    <bean id="orderItemDAO" class="com.shebuyit.dao.impl.OrderItemDAOImpl">  
+       <property name="entityManagerFactory" ref="entityManagerFactory"/>  
+    </bean>
+
+</beans>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/charting/plot3d"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Bars.js"
+   text-time="2013-09-03T14:01:23.539211Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1a44a504b4ea27492774fca7e1037495"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.520210Z"/>
+<entry
+   committed-rev="11"
+   name="Base.js"
+   text-time="2013-09-03T14:01:23.544212Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7092980277cb4b231b25ebdbcba5c8be"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.529211Z"/>
+<entry
+   committed-rev="11"
+   name="Cylinders.js"
+   text-time="2013-09-03T14:01:23.549212Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9245f8db4d6cea4f8c613b05e3467efd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.532211Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/_editor/nls/nb"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="LinkDialog.js"
+   text-time="2013-09-03T13:59:30.358738Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="94729ab5d137be3785ec4cdf4a51216e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:30.335737Z"/>
+<entry
+   committed-rev="11"
+   name="FontChoice.js"
+   text-time="2013-09-03T13:59:30.366738Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7e715caf376af34ae4a6fee90657a9f6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:30.339737Z"/>
+<entry
+   committed-rev="11"
+   name="commands.js"
+   text-time="2013-09-03T13:59:30.376739Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e2806d54f71ca218cb68268bad165d36"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:30.344737Z"/>
+</wc-entries>

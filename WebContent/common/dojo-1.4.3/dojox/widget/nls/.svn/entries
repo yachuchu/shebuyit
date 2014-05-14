@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/nls"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="zh"
+   kind="dir"/>
+<entry
+   name="ca"
+   kind="dir"/>
+<entry
+   name="pt"
+   kind="dir"/>
+<entry
+   name="da"
+   kind="dir"/>
+<entry
+   name="tr"
+   kind="dir"/>
+<entry
+   name="ru"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="ColorPicker.js"
+   text-time="2013-09-03T14:01:05.993208Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4d131ac579ef42bf5f0672f78ccf42a5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:04.016095Z"/>
+<entry
+   name="sv"
+   kind="dir"/>
+<entry
+   name="de"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="FilePicker.js"
+   text-time="2013-09-03T14:01:05.998208Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7ee54002a5f8972247276d34101988f5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:04.149102Z"/>
+<entry
+   name="ja"
+   kind="dir"/>
+<entry
+   name="he"
+   kind="dir"/>
+<entry
+   name="fi"
+   kind="dir"/>
+<entry
+   name="nb"
+   kind="dir"/>
+<entry
+   name="el"
+   kind="dir"/>
+<entry
+   name="ar"
+   kind="dir"/>
+<entry
+   name="pt-pt"
+   kind="dir"/>
+<entry
+   name="cs"
+   kind="dir"/>
+<entry
+   name="fr"
+   kind="dir"/>
+<entry
+   name="es"
+   kind="dir"/>
+<entry
+   name="ko"
+   kind="dir"/>
+<entry
+   name="nl"
+   kind="dir"/>
+<entry
+   name="zh-tw"
+   kind="dir"/>
+<entry
+   name="th"
+   kind="dir"/>
+<entry
+   name="pl"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Wizard.js"
+   text-time="2013-09-03T14:01:06.005208Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="238a4b11f3c5df33f1dc47beabbcea9d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:05.217163Z"/>
+<entry
+   name="it"
+   kind="dir"/>
+<entry
+   name="hu"
+   kind="dir"/>
+<entry
+   name="sk"
+   kind="dir"/>
+<entry
+   name="sl"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/editor/plugins/nls/zh-tw"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ShowBlockNodes.js"
+   text-time="2013-09-03T14:01:30.287597Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a585248c6edd614bd1362c2735eef472"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.212593Z"/>
+<entry
+   committed-rev="11"
+   name="Breadcrumb.js"
+   text-time="2013-09-03T14:01:30.291598Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1dc008eb1fc85b62315a4242fdd2fcc5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.215593Z"/>
+<entry
+   committed-rev="11"
+   name="TableDialog.js"
+   text-time="2013-09-03T14:01:30.297598Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c3c76d3df35fa65c53074a2ac9bc4676"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.217593Z"/>
+<entry
+   committed-rev="11"
+   name="FindReplace.js"
+   text-time="2013-09-03T14:01:30.302598Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0ce907d60acc6a9d1981b36f10c33834"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.220594Z"/>
+<entry
+   committed-rev="11"
+   name="latinEntities.js"
+   text-time="2013-09-03T14:01:30.308599Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e342170610fdac9b720712748b3375a3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.251595Z"/>
+<entry
+   committed-rev="11"
+   name="Save.js"
+   text-time="2013-09-03T14:01:30.257596Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9409e40f91e196b5c034d63202978c5c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.189592Z"/>
+<entry
+   committed-rev="11"
+   name="InsertEntity.js"
+   text-time="2013-09-03T14:01:30.264596Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="38ccdf00ef0eb3f89a5a448bd965cfa2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.194592Z"/>
+<entry
+   committed-rev="11"
+   name="PageBreak.js"
+   text-time="2013-09-03T14:01:30.271596Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="374107967ad8854495e91a21048df7ed"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.200592Z"/>
+<entry
+   committed-rev="11"
+   name="Preview.js"
+   text-time="2013-09-03T14:01:30.278597Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6e1367bb1419cbcde70920323255dbd5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.204593Z"/>
+<entry
+   committed-rev="11"
+   name="Smiley.js"
+   text-time="2013-09-03T14:01:30.282597Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a11a2b29af66228bc40ca55ffa0a917a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:30.206593Z"/>
+</wc-entries>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/av"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="widget"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="FLVideo.js"
+   text-time="2013-09-03T14:01:39.153104Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f96ad611482eaa55cf64763a9e1aa46b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.362059Z"/>
+<entry
+   committed-rev="11"
+   name="_Media.js"
+   text-time="2013-09-03T14:01:39.158105Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="58734368c7b76747958aa62b959e8dc7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.746081Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:39.164105Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5fd6025b7d9f3cdb16fbc88d457ac237"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.138104Z"/>
+<entry
+   committed-rev="11"
+   name="FLAudio.js"
+   text-time="2013-09-03T14:01:39.171105Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="050fbb418e3cd045617342cb13faed21"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.144104Z"/>
+</wc-entries>

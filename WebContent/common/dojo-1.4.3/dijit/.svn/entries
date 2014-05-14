@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="MenuBarItem.js"
+   text-time="2013-09-03T13:59:39.916284Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c14e862cb78fcd1d6f3beb743fe5d024"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:30.748328Z"/>
+<entry
+   name="themes"
+   kind="dir"/>
+<entry
+   name="_editor"
+   kind="dir"/>
+<entry
+   name="nls"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_Container.js"
+   text-time="2013-09-03T13:59:39.836280Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="98da27ef10be70675699da40204931e7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:07.608005Z"/>
+<entry
+   committed-rev="11"
+   name="MenuItem.js"
+   text-time="2013-09-03T13:59:39.846280Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="00aa6981584b9f3a950512d84d92e8c9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.039315Z"/>
+<entry
+   committed-rev="11"
+   name="dijit.js.uncompressed.js"
+   text-time="2013-09-03T13:59:39.938286Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ce017cbcabcc3a16a49ac7c32e2ae15f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:51.526517Z"/>
+<entry
+   name="tree"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="MenuSeparator.js"
+   text-time="2013-09-03T13:59:39.943286Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8311917a85df28aebcce9a6795b7b4b8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:53.217613Z"/>
+<entry
+   committed-rev="11"
+   name="MenuBar.js"
+   text-time="2013-09-03T13:59:39.959287Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ac5bbe754ac7ccf2b0c36df2891e62b2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:54.573691Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all.js.uncompressed.js"
+   text-time="2013-09-03T13:59:39.970288Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9dcd91b1b7f2438c095f97abfbb16686"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:14.218815Z"/>
+<entry
+   committed-rev="11"
+   name="CheckedMenuItem.js"
+   text-time="2013-09-03T13:59:39.974288Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4dcc0c62d9aeb5b04278ad214eae4196"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:14.229815Z"/>
+<entry
+   committed-rev="11"
+   name="Tooltip.js"
+   text-time="2013-09-03T13:59:39.979288Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c789daef14e08d5e297b0912515e34c9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:14.533833Z"/>
+<entry
+   committed-rev="11"
+   name="PopupMenuBarItem.js"
+   text-time="2013-09-03T13:59:39.872282Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c9e4dcd6d98108e9c72ba12e572c109e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:23.987942Z"/>
+<entry
+   name="_base"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Dialog.js"
+   text-time="2013-09-03T13:59:39.882283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="26293a59dc6d600b3cc789519a3c8608"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:29.756272Z"/>
+<entry
+   name="layout"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_DialogMixin.js"
+   text-time="2013-09-03T13:59:39.896283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d6d9be705300677233b73e31c299a4b2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:30.086290Z"/>
+<entry
+   committed-rev="11"
+   name="DialogUnderlay.js"
+   text-time="2013-09-03T13:59:39.891283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6562c6c4ae0dc641af4835ad85c4db93"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:29.934282Z"/>
+<entry
+   committed-rev="11"
+   name="dijit.js"
+   text-time="2013-09-03T13:59:40.001289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="91aa77b33a9fc98d84d0f1fd917bd95c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:21.092208Z"/>
+<entry
+   committed-rev="11"
+   name="Menu.js"
+   text-time="2013-09-03T13:59:39.903284Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a8b19e6a320d637e1611f94064c594f3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:30.566318Z"/>
+<entry
+   committed-rev="11"
+   name="LICENSE"
+   text-time="2013-09-03T13:59:39.910284Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d1d7d802f88f374b77446c5480aff287"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:30.741328Z"/>
+<entry
+   committed-rev="11"
+   name="PopupMenuItem.js"
+   text-time="2013-09-03T13:59:40.011290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="97e474ca9a5887da4a2aa3c797c93ab6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:21.744245Z"/>
+<entry
+   committed-rev="11"
+   name="_Calendar.js"
+   text-time="2013-09-03T13:59:40.017290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="80342a2f742ee6cf275cb43e0c74e60a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:21.750245Z"/>
+<entry
+   committed-rev="11"
+   name="Calendar.js"
+   text-time="2013-09-03T13:59:39.922285Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="47c7708e8ae5a6491fa0937e15b61282"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:30.916338Z"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T13:59:40.022291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9a48740c2ef08e3d45eb79cb66e640fe"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:21.801248Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all.js"
+   text-time="2013-09-03T13:59:40.031291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6f02bf281860168eae187e16d7fc985a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:30.290734Z"/>
+<entry
+   committed-rev="11"
+   name="TooltipDialog.js"
+   text-time="2013-09-03T13:59:40.036291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="88629bed53187920e3ed2c05bffa62a1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:39.830280Z"/>
+<entry
+   committed-rev="11"
+   name="_Templated.js"
+   text-time="2013-09-03T13:59:39.927285Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="032dfc8def7ae4085e775e91c26aa482"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:47.325276Z"/>
+<entry
+   committed-rev="11"
+   name="_Widget.js"
+   text-time="2013-09-03T13:59:39.841280Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2bcfe8cdbe395ed07265d9507b957305"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.017314Z"/>
+<entry
+   committed-rev="11"
+   name="ToolbarSeparator.js"
+   text-time="2013-09-03T13:59:39.931285Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3fbe444784b8b47693f28fb83e58d686"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:47.328277Z"/>
+<entry
+   name="_tree"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="TitlePane.js"
+   text-time="2013-09-03T13:59:39.852281Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="157f5ceaec9a8bcb045e799038f3b291"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.187324Z"/>
+<entry
+   committed-rev="11"
+   name="Declaration.js"
+   text-time="2013-09-03T13:59:39.857281Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="13008762078b302958b8a1c0c11c0813"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.190324Z"/>
+<entry
+   committed-rev="11"
+   name="Editor.js"
+   text-time="2013-09-03T13:59:39.948286Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="932857f676a299a665eba2d4f3acb8fc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:53.906653Z"/>
+<entry
+   committed-rev="11"
+   name="_HasDropDown.js"
+   text-time="2013-09-03T13:59:39.954287Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="76a3b75dfae558f54828db525fa3fd50"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:54.409682Z"/>
+<entry
+   name="form"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="ProgressBar.js"
+   text-time="2013-09-03T13:59:39.862281Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8400c4e1e7f298ab2aadd3a4cba328fc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:22.761872Z"/>
+<entry
+   committed-rev="11"
+   name="_TimePicker.js"
+   text-time="2013-09-03T13:59:39.867282Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7e7b24aa6c7d17ce98a3ef1b5fd80f75"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:23.984941Z"/>
+<entry
+   committed-rev="11"
+   name="InlineEditBox.js"
+   text-time="2013-09-03T13:59:39.877282Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5ce280a6571d869e888174da44c40e13"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:25.151008Z"/>
+<entry
+   committed-rev="11"
+   name="ColorPalette.js"
+   text-time="2013-09-03T13:59:39.985288Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a70849ad57ff22c0f43eeba321ba7322"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:15.013860Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_KeyNavContainer.js"
+   text-time="2013-09-03T13:59:39.990289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="88e8697f866421f03cbb70d97718304e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:15.873909Z"/>
+<entry
+   committed-rev="11"
+   name="Tree.js"
+   text-time="2013-09-03T13:59:39.994289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3ad94338b7f2e532c217129440465cfc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:17.190985Z"/>
+<entry
+   committed-rev="11"
+   name="Toolbar.js"
+   text-time="2013-09-03T13:59:39.886283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1a99cb32ebd7b078788e94a81000fddb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:29.929281Z"/>
+<entry
+   committed-rev="11"
+   name="_Contained.js"
+   text-time="2013-09-03T13:59:40.005290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f2700b731f62777e675d0f90bed143e6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:21.096208Z"/>
+</wc-entries>

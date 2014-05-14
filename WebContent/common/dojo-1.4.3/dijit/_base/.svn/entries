@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/_base"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="place.js"
+   text-time="2013-09-03T13:58:29.281244Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b2605fb8879af78ac9d9f561ba6419ec"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:28.579204Z"/>
+<entry
+   committed-rev="11"
+   name="sniff.js"
+   text-time="2013-09-03T13:58:29.285245Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a34d98bbb06be08d4b8a564a40be7e0a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:28.739213Z"/>
+<entry
+   committed-rev="11"
+   name="window.js"
+   text-time="2013-09-03T13:58:29.290245Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c0c37e4eff55e25cc2db5259589b17c5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:28.903223Z"/>
+<entry
+   committed-rev="11"
+   name="manager.js"
+   text-time="2013-09-03T13:58:29.295245Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cbdbd0b297e67560e3c9cc3926e21463"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:29.236242Z"/>
+<entry
+   committed-rev="11"
+   name="scroll.js"
+   text-time="2013-09-03T13:58:29.248243Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="352e1320de091a40f4bae0ef4442f487"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:25.318018Z"/>
+<entry
+   committed-rev="11"
+   name="focus.js"
+   text-time="2013-09-03T13:58:29.258243Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="db4f3dee6a476f345d6788033ac2e68c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:26.467083Z"/>
+<entry
+   committed-rev="11"
+   name="typematic.js"
+   text-time="2013-09-03T13:58:29.266244Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fcc9f1e5438148a112883131746a30bb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:26.621092Z"/>
+<entry
+   committed-rev="11"
+   name="wai.js"
+   text-time="2013-09-03T13:58:29.272244Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3fca476ab0600b533f6eabc355880269"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:27.420138Z"/>
+<entry
+   committed-rev="11"
+   name="popup.js"
+   text-time="2013-09-03T13:58:29.276244Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a5441b3e30e614fe0ca61505a1e73193"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:27.761157Z"/>
+</wc-entries>

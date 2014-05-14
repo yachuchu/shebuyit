@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/img/gallery"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="card01.jpg"
+   text-time="2013-09-03T13:43:31.479893Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4e78175254a40d43d424a0ffe9c806f0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:31.159875Z"/>
+<entry
+   committed-rev="11"
+   name="book01.jpg"
+   text-time="2013-09-03T13:43:31.483893Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a6ce6d6116711625b211c2432fa35720"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:31.311883Z"/>
+<entry
+   committed-rev="11"
+   name="leaflet01.jpg"
+   text-time="2013-09-03T13:43:31.488894Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d1ad9d722b8a43b082ac6b4c0a6cd213"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:31.468892Z"/>
+</wc-entries>

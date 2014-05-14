@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/kindeditor-4.0.1/plugins/template/html"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="1.html"
+   text-time="2013-09-03T14:01:45.073443Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a89d38d2debd524a7b1249e16aad3c81"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:45.061442Z"/>
+<entry
+   committed-rev="11"
+   name="2.html"
+   text-time="2013-09-03T14:01:45.078443Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6b60362cf924fb5378b9872a36ff4f9f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:45.065443Z"/>
+<entry
+   committed-rev="11"
+   name="3.html"
+   text-time="2013-09-03T14:01:45.083444Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="69cc106458edf021bc11500140121091"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:45.068443Z"/>
+</wc-entries>

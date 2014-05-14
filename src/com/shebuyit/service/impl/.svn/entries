@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/service/impl"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="TranslationServiceImpl.java"
+   text-time="2013-09-03T13:43:22.801397Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1d2c8a36d134862ae9bb49875f2f69df"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.652388Z"/>
+<entry
+   committed-rev="11"
+   name="UserServiceImpl.java"
+   text-time="2013-09-03T13:43:22.805397Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7c0cc20935d3fc817c001b9eb0766db9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.656388Z"/>
+<entry
+   committed-rev="11"
+   name="ProductServiceImpl.java"
+   text-time="2013-09-03T13:43:22.811397Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0aee8f03239eaf712a765aa120d63869"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.659389Z"/>
+<entry
+   committed-rev="11"
+   name="DictServiceImpl.java"
+   text-time="2013-09-03T13:43:22.815398Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9fa5731071b61ec853cf0d8683eec878"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.663389Z"/>
+<entry
+   committed-rev="11"
+   name="ConfigServiceImpl.java"
+   text-time="2013-09-03T13:43:22.820398Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7da86c0adfc0d86b9b57dae131434582"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.667389Z"/>
+<entry
+   committed-rev="11"
+   name="ShopServiceImpl.java"
+   text-time="2013-09-03T13:43:22.825398Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9d1a821cbbb2faf1e79ce992adcfa0d2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.781396Z"/>
+<entry
+   committed-rev="11"
+   name="OrderItemServiceImpl.java"
+   text-time="2013-09-03T13:43:22.789396Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b8834d070256f0629b60e3dbb313de80"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.645388Z"/>
+<entry
+   committed-rev="11"
+   name="OrderServiceImpl.java"
+   text-time="2013-09-03T13:43:22.795396Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="83d490530f40ccd25a46085fcfe81176"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:22.648388Z"/>
+</wc-entries>

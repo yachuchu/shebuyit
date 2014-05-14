@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/po"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Product.java"
+   text-time="2013-09-03T13:43:19.896231Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="13eef155e1433507331f1050b66c95d8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.655217Z"/>
+<entry
+   committed-rev="11"
+   name="ProductMedia.java"
+   text-time="2013-09-03T13:43:19.906231Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c0ae1c82c841b85167ed32319f1fee57"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.733221Z"/>
+<entry
+   committed-rev="11"
+   name="ProductOptionRow.java"
+   text-time="2013-09-03T13:43:19.916232Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="131c428d95923a36bbeaf20f1886e39b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.824226Z"/>
+<entry
+   committed-rev="11"
+   name="Dict.java"
+   text-time="2013-09-03T13:43:19.927232Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="47ca6fbd2038a3396c699ae2b35f8e55"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.832227Z"/>
+<entry
+   committed-rev="11"
+   name="Config.java"
+   text-time="2013-09-03T13:43:19.934233Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="74e9928a0a6edcfb74fb71cb82a579bc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.834227Z"/>
+<entry
+   committed-rev="11"
+   name="UserPrivilege.java"
+   text-time="2013-09-03T13:43:19.942233Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8d5d50032cd828230bf23b96d7967959"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.837227Z"/>
+<entry
+   committed-rev="11"
+   name="ProductOption.java"
+   text-time="2013-09-03T13:43:19.849228Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7a12021bef9c1a86a2d396bf0ae3c779"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.492207Z"/>
+<entry
+   committed-rev="11"
+   name="Shop.java"
+   text-time="2013-09-03T13:43:19.854228Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b51035335f75d333098ca7cdd6ad88ee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.496208Z"/>
+<entry
+   committed-rev="11"
+   name="OrderItem.java"
+   text-time="2013-09-03T13:43:19.863229Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b3541ec195c2b5137377f885bda24b5b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.503208Z"/>
+<entry
+   committed-rev="11"
+   name="Orders.java"
+   text-time="2013-09-03T13:43:19.871229Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="03e49c46528563a01d5fc95411cf8dfa"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.508208Z"/>
+<entry
+   committed-rev="11"
+   name="Translation.java"
+   text-time="2013-09-03T13:43:19.880230Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d9c7e88d3f6a63dc1db78575ba5f56a3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.512209Z"/>
+<entry
+   committed-rev="11"
+   name="User.java"
+   text-time="2013-09-03T13:43:19.886230Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4b522fcb2f94cb1c5053e9d56771410c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.520209Z"/>
+</wc-entries>

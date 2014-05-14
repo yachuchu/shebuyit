@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/lang/aspect"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="memoizer.js"
+   text-time="2013-09-03T14:01:26.887403Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e0f0f176addd789576776b7ca7738fce"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.728394Z"/>
+<entry
+   committed-rev="11"
+   name="cflow.js"
+   text-time="2013-09-03T14:01:26.894403Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="df07243d794a95f38b5f276254fb4990"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.735394Z"/>
+<entry
+   committed-rev="11"
+   name="memoizerGuard.js"
+   text-time="2013-09-03T14:01:26.900404Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="38436fbd4537dd9844e50d50b051debe"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.739394Z"/>
+<entry
+   committed-rev="11"
+   name="counter.js"
+   text-time="2013-09-03T14:01:26.746395Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="59cb99fa29742f37a5b374f79042273d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.711393Z"/>
+<entry
+   committed-rev="11"
+   name="timer.js"
+   text-time="2013-09-03T14:01:26.751395Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="848c34d29dd8e68bf1c60cb0987b6dfd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.714393Z"/>
+<entry
+   committed-rev="11"
+   name="tracer.js"
+   text-time="2013-09-03T14:01:26.875402Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="421388bc7a4362b9ed5ac256812ad4d2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.720393Z"/>
+<entry
+   committed-rev="11"
+   name="profiler.js"
+   text-time="2013-09-03T14:01:26.883403Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d8da628654f07afd1911f21ce9bbe5e4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.726394Z"/>
+</wc-entries>

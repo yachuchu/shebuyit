@@ -1,0 +1,1 @@
+({"redLabel":"r","valueLabel":"v","hexLabel":"hex","hueLabel":"m","saturationLabel":"s","degLabel":"°","greenLabel":"v","blueLabel":"a"})

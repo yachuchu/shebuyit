@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/Dialog"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Dialog.html"
+   text-time="2013-09-03T14:01:12.183562Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e40be0a7d8f196349c91f1686a539c67"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.139559Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Dialog.css"
+   text-time="2013-09-03T14:01:12.189562Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f4937775c92e3de8170df3f75a896ce2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.174561Z"/>
+</wc-entries>

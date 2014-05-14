@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+	<!-- maps request URLs to Controller names -->
+	<bean class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMapping" />
+
+	<bean id="viewResolver"
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="viewClass"
+			value="org.springframework.web.servlet.view.JstlView" />
+		<property name="prefix" value="/WEB-INF/jsp/" />
+		<property name="suffix" value=".jsp" />
+	</bean>
+
+	<!-- Resource Bundle -->
+	<bean id="messageSource"
+		class="org.springframework.context.support.ResourceBundleMessageSource">
+		<property name="basenames">
+			<list>
+				<value>message</value>
+			</list>
+		</property>
+	</bean>
+	
+	<bean id="mainController" class="com.shebuyit.controller.MainController">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />
+		<property name="mainView" value="main/main" />
+	</bean>
+	
+	<bean id="loginController" class="com.shebuyit.controller.LoginController">
+		<property name="userService" ref="userService" />
+		<property name="loginView" value="main/login" />			
+	</bean>
+	
+	<bean id="productController" class="com.shebuyit.controller.ProductController">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />
+		<property name="configService" ref="configService" />
+		<property name="productSearchView" value="product/productSearch" />
+		<property name="productView" value="product/product" />
+		<property name="parserProductView" value="product/parserProduct" />
+				
+	</bean>
+	
+	<bean id="storageController" class="com.shebuyit.controller.StorageController">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />
+		<property name="storageSearchView" value="storage/storageSearch" />
+		<property name="storageView" value="storage/storage" />		
+	</bean>
+	
+	<bean id="shopController" class="com.shebuyit.controller.ShopController">
+		<property name="shopService" ref="shopService" />	
+		<property name="productService" ref="productService" />	
+		<property name="shopSearchView" value="shop/shopSearch" />
+		<property name="shopView" value="shop/shop" />		
+	</bean>
+	
+	<bean id="dictController" class="com.shebuyit.controller.DictController">
+		<property name="dictService" ref="dictService" />	
+		<property name="dictSearchView" value="dict/dictSearch" />
+		<property name="dictView" value="dict/dict" />		
+	</bean>
+	
+	<bean id="translationController" class="com.shebuyit.controller.TranslationController">
+		<property name="translationService" ref="translationService" />	
+		<property name="translationSearchView" value="translation/translationSearch" />
+		<property name="translationView" value="translation/translation" />
+		<property name="translationListView" value="translation/translationList" />				
+	</bean>
+	
+	<bean id="userController" class="com.shebuyit.controller.UserController">
+		<property name="userService" ref="userService" />	
+		<property name="userSearchView" value="user/userSearch" />
+		<property name="userView" value="user/user" />	
+		<property name="userInfoView" value="user/userInfo" />		
+	</bean>
+	
+	<bean id="quickController" class="com.shebuyit.controller.QuickController">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />
+		<property name="quickSearchView" value="quick/quickSearch" />
+		<property name="quickView" value="quick/quick" />		
+	</bean>
+	
+	<bean id="sheinsideCrawler" class="com.shebuyit.crawler.parser.SheinsideCrawler"  init-method="init">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />	
+		<property name="configService" ref="configService" />
+		<property name="dictService" ref="dictService" />
+	</bean>
+	
+	<bean id="sammydressCrawler" class="com.shebuyit.crawler.parser.SammydressCrawler"  init-method="init">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />	
+		<property name="configService" ref="configService" />
+		<property name="dictService" ref="dictService" />
+	</bean>
+	
+	<bean id="vanclCrawler" class="com.shebuyit.crawler.parser.VanclCrawler"  init-method="init">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />	
+		<property name="configService" ref="configService" />
+		<property name="dictService" ref="dictService" />
+	</bean>
+	
+	<bean id="taobaoCrawler" class="com.shebuyit.crawler.parser.TaobaoCrawler"  init-method="init">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />	
+		<property name="configService" ref="configService" />
+		<property name="dictService" ref="dictService" />
+	</bean>	
+	
+	<bean id="tianmaoCrawler" class="com.shebuyit.crawler.parser.TianmaoCrawler"  init-method="init">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />	
+		<property name="configService" ref="configService" />
+		<property name="dictService" ref="dictService" />
+	</bean>
+	
+	<bean id="tianmaoJewelryCrawler" class="com.shebuyit.crawler.parser.TianmaoJewelryCrawler"  init-method="init">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />	
+		<property name="configService" ref="configService" />
+		<property name="dictService" ref="dictService" />
+	</bean>
+	
+	<bean id="stockCrawler" class="com.shebuyit.crawler.parser.StockCrawler"  init-method="init">
+		<property name="productService" ref="productService" />	
+		<property name="shopService" ref="shopService" />	
+		<property name="configService" ref="configService" />
+		<property name="dictService" ref="dictService" />
+	</bean>	
+
+	<bean id="orderController" class="com.shebuyit.controller.OrderController">
+		<property name="orderService" ref="orderService" />	
+		<property name="productService" ref="productService" />
+		<property name="orderItemService" ref="orderItemService" />	
+		<property name="orderSearchView" value="order/orderSearch" />
+		<property name="orderView" value="order/order" />	
+		<property name="orderItemView" value="order/orderItem" />			
+	</bean>
+	
+	<bean id="itemController" class="com.shebuyit.controller.ItemController">
+		<property name="orderItemService" ref="orderItemService" />	
+		<property name="productService" ref="productService" />
+		<property name="itemSearchView" value="item/itemSearch" />
+		<property name="itemView" value="item/item" />			
+	</bean>
+
+</beans>

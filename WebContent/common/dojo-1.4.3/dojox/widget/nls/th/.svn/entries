@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/nls/th"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ColorPicker.js"
+   text-time="2013-09-03T14:01:05.147159Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4d131ac579ef42bf5f0672f78ccf42a5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:05.127158Z"/>
+<entry
+   committed-rev="11"
+   name="FilePicker.js"
+   text-time="2013-09-03T14:01:05.153160Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5ef51bede23a99fc136439b8bb9ca0c3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:05.133159Z"/>
+<entry
+   committed-rev="11"
+   name="Wizard.js"
+   text-time="2013-09-03T14:01:05.159160Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="da447c35ce8935190a8e5d929fd1fb64"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:05.140159Z"/>
+</wc-entries>

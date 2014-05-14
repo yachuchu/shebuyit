@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing/stencil"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Text.js"
+   text-time="2013-09-03T14:00:48.602213Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8d1e1c2ec0fb1cbb90b585031ce06b9b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:48.230192Z"/>
+<entry
+   committed-rev="11"
+   name="Line.js"
+   text-time="2013-09-03T14:00:48.612214Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bdbf1412e1cc8707ed12dd81d8da3e5f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:48.234192Z"/>
+<entry
+   committed-rev="11"
+   name="_Base.js"
+   text-time="2013-09-03T14:00:48.618214Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3aad911f0926a6bf7b771a55d7f9d53a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:48.406202Z"/>
+<entry
+   committed-rev="11"
+   name="Path.js"
+   text-time="2013-09-03T14:00:48.625214Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="68627de8e74ae605667b39ff9607bb58"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:48.561211Z"/>
+<entry
+   committed-rev="11"
+   name="Ellipse.js"
+   text-time="2013-09-03T14:00:48.629215Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9c64b296754a80a9a30b4dc042775a11"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:48.572211Z"/>
+<entry
+   committed-rev="11"
+   name="Rect.js"
+   text-time="2013-09-03T14:00:48.634215Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d5707b1122d7379933bc0bca41ff7665"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:48.579212Z"/>
+<entry
+   committed-rev="11"
+   name="Image.js"
+   text-time="2013-09-03T14:00:48.591212Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7813a1f49566cf3dd5a691031681911f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:48.123186Z"/>
+</wc-entries>

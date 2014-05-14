@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/crawler/parser"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="18"
+   name="HaoduoyiCrawler.java"
+   text-time="2013-10-10T08:08:01.014298Z"
+   committed-date="2013-10-08T09:37:46.841612Z"
+   checksum="cfb55569cba20b5c32a7468c818f9791"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-10-10T08:08:00.999297Z"
+   revision="18"/>
+<entry
+   committed-rev="43"
+   name="StockCrawler.java"
+   text-time="2013-12-24T13:53:26.105323Z"
+   committed-date="2013-12-04T02:34:30.499525Z"
+   checksum="1daa54917818eddc8a4a046677299013"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-12-24T13:53:26.101322Z"
+   revision="44"/>
+<entry
+   committed-rev="18"
+   name="VanclCrawler.java"
+   text-time="2013-10-10T08:11:14.303353Z"
+   committed-date="2013-10-08T09:37:46.841612Z"
+   checksum="8fedc6b78e2bd0024c734ba080bc1b19"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-10-10T08:11:14.294353Z"
+   revision="18"/>
+<entry
+   committed-rev="11"
+   name="TianmaoShopShoesCrawler.java"
+   text-time="2013-09-03T13:43:21.650331Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4e1438f453c8c10641723d6f1c53da2b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:21.274309Z"/>
+<entry
+   committed-rev="18"
+   name="TaobaoCrawler.java"
+   text-time="2013-10-10T08:08:05.393548Z"
+   committed-date="2013-10-08T09:37:46.841612Z"
+   checksum="0645c8571c3cb062edebe9347f4db9af"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-10-10T08:08:05.381548Z"
+   revision="18"/>
+<entry
+   committed-rev="42"
+   name="SammydressCrawler.java"
+   text-time="2013-11-14T06:17:17.405279Z"
+   committed-date="2013-11-15T01:20:08.488098Z"
+   checksum="eb31cbe93a9ef57e5eb808b4cb8227f6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-11-14T06:09:43.416312Z"
+   revision="42"/>
+<entry
+   committed-rev="36"
+   name="TianmaoCrawler.java"
+   text-time="2013-11-12T12:42:28.991592Z"
+   committed-date="2013-11-12T14:44:57.756721Z"
+   checksum="7c25b6839699dc7073b25be719f38d92"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-10-10T08:11:28.561169Z"
+   revision="36"/>
+<entry
+   committed-rev="18"
+   name="TianmaoJewelryCrawler.java"
+   text-time="2013-10-10T08:11:09.854099Z"
+   committed-date="2013-10-08T09:37:46.841612Z"
+   checksum="3a08c453c1e1db279065e0f5e788e21e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-10-10T08:11:09.844098Z"
+   revision="18"/>
+<entry
+   committed-rev="18"
+   name="TianmaoShopBottomsCrawler.java"
+   text-time="2013-10-10T08:11:12.828269Z"
+   committed-date="2013-10-08T09:37:46.841612Z"
+   checksum="37c00f10338e13dc843eae00aeb4e059"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-10-10T08:11:12.820269Z"
+   revision="18"/>
+<entry
+   committed-rev="46"
+   name="SheinsideCrawler.java"
+   text-time="2013-11-16T15:06:50.350189Z"
+   committed-date="2013-12-17T15:34:01.017170Z"
+   checksum="ab2561187c3d6f81560a7f04a3f532d7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-11-12T12:00:50.440683Z"
+   revision="46"/>
+</wc-entries>

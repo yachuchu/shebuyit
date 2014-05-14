@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/form/nls"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="zh"
+   kind="dir"/>
+<entry
+   name="pt"
+   kind="dir"/>
+<entry
+   name="ca"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="PasswordValidator.js"
+   text-time="2013-09-03T14:00:56.059640Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="43c34266673d0ceb2eed7547109fe791"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:55.516609Z"/>
+<entry
+   name="da"
+   kind="dir"/>
+<entry
+   name="tr"
+   kind="dir"/>
+<entry
+   name="ru"
+   kind="dir"/>
+<entry
+   name="sv"
+   kind="dir"/>
+<entry
+   name="de"
+   kind="dir"/>
+<entry
+   name="ja"
+   kind="dir"/>
+<entry
+   name="he"
+   kind="dir"/>
+<entry
+   name="fi"
+   kind="dir"/>
+<entry
+   name="nb"
+   kind="dir"/>
+<entry
+   name="el"
+   kind="dir"/>
+<entry
+   name="ar"
+   kind="dir"/>
+<entry
+   name="pt-pt"
+   kind="dir"/>
+<entry
+   name="cs"
+   kind="dir"/>
+<entry
+   name="es"
+   kind="dir"/>
+<entry
+   name="fr"
+   kind="dir"/>
+<entry
+   name="zh-tw"
+   kind="dir"/>
+<entry
+   name="nl"
+   kind="dir"/>
+<entry
+   name="ko"
+   kind="dir"/>
+<entry
+   name="th"
+   kind="dir"/>
+<entry
+   name="pl"
+   kind="dir"/>
+<entry
+   name="hu"
+   kind="dir"/>
+<entry
+   name="it"
+   kind="dir"/>
+<entry
+   name="sk"
+   kind="dir"/>
+<entry
+   name="sl"
+   kind="dir"/>
+</wc-entries>

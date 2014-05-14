@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/_base"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="html.js"
+   text-time="2013-09-03T13:57:38.393334Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="52577f7893549e57b4ea849f6493d7b7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:35.841188Z"/>
+<entry
+   committed-rev="11"
+   name="query.js"
+   text-time="2013-09-03T13:57:38.399334Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="103f5408148e91989584ea271c0c3952"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:36.357217Z"/>
+<entry
+   committed-rev="11"
+   name="window.js"
+   text-time="2013-09-03T13:57:38.404334Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bfe52aad2247dd861bff14cda5c94c32"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:36.521227Z"/>
+<entry
+   committed-rev="11"
+   name="json.js"
+   text-time="2013-09-03T13:57:38.408335Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6f0929698226f8bbf7a23603a1ef325f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:36.527227Z"/>
+<entry
+   committed-rev="11"
+   name="fx.js"
+   text-time="2013-09-03T13:57:38.414335Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5afd814f92ea16673e950812a0c18d53"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:36.699237Z"/>
+<entry
+   committed-rev="11"
+   name="array.js"
+   text-time="2013-09-03T13:57:38.423335Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4aae9c26d12e8848602ee89e99d97032"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:37.011255Z"/>
+<entry
+   committed-rev="11"
+   name="Color.js"
+   text-time="2013-09-03T13:57:38.418335Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5dbaa24bf86b66b5b866d990498ff151"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:36.856246Z"/>
+<entry
+   committed-rev="11"
+   name="Deferred.js"
+   text-time="2013-09-03T13:57:38.500340Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="14537a00543b69188d349070982b6533"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:37.173264Z"/>
+<entry
+   committed-rev="11"
+   name="lang.js"
+   text-time="2013-09-03T13:57:38.518341Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a48edfb8d5e2f7269c2f3e00e3923ef6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:38.027313Z"/>
+<entry
+   committed-rev="11"
+   name="event.js"
+   text-time="2013-09-03T13:57:38.511341Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="944df15dcdde3753f2be229676c048b4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:38.022313Z"/>
+<entry
+   committed-rev="11"
+   name="NodeList.js"
+   text-time="2013-09-03T13:57:38.507340Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="afd0c44b2858e706578029fc3a99b2e9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:37.510283Z"/>
+<entry
+   committed-rev="11"
+   name="query-sizzle.js"
+   text-time="2013-09-03T13:57:38.526341Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="aad48a742e499ce68a9fefe747f8321c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:38.343331Z"/>
+<entry
+   committed-rev="11"
+   name="browser.js"
+   text-time="2013-09-03T13:57:38.531342Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f71f406370759e870e49e9bcbab74cb0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:38.349331Z"/>
+<entry
+   committed-rev="11"
+   name="connect.js"
+   text-time="2013-09-03T13:57:38.360332Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="89b4f1700b539fe80654b9d657c95878"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:32.932021Z"/>
+<entry
+   name="_loader"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="declare.js"
+   text-time="2013-09-03T13:57:38.376333Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b83d913caf2077d0649faa8e0fb5a862"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:34.591116Z"/>
+<entry
+   committed-rev="11"
+   name="xhr.js"
+   text-time="2013-09-03T13:57:38.386333Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c06bb8c5e485482bd405e88801ace1e7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:35.035142Z"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing/annotations"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Angle.js"
+   text-time="2013-09-03T14:00:46.550096Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9b2e52dde7c21edbca25cd92537371cf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.522094Z"/>
+<entry
+   committed-rev="11"
+   name="Arrow.js"
+   text-time="2013-09-03T14:00:46.530095Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2441b2a3920d09d0421088b1c6e12d43"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.405087Z"/>
+<entry
+   committed-rev="11"
+   name="BoxShadow.js"
+   text-time="2013-09-03T14:00:46.536095Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e15bc28b92ec496556186c67e28dda6e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.510093Z"/>
+<entry
+   committed-rev="11"
+   name="Label.js"
+   text-time="2013-09-03T14:00:46.544095Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e259b38d0950bd90ef8f9d0e366563f8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.516094Z"/>
+</wc-entries>

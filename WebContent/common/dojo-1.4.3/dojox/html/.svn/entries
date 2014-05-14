@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/html"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ellipsis.js"
+   text-time="2013-09-03T13:59:45.600610Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d090949bf88ffe9957d9b0ee24186a81"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:44.237532Z"/>
+<entry
+   committed-rev="11"
+   name="entities.js"
+   text-time="2013-09-03T13:59:45.605610Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4d82dfcc6de13194275d556873547c79"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:44.409541Z"/>
+<entry
+   committed-rev="11"
+   name="metrics.js"
+   text-time="2013-09-03T13:59:45.610610Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0666a28dc4a84f7ad5631354220a187a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:44.741560Z"/>
+<entry
+   committed-rev="11"
+   name="format.js"
+   text-time="2013-09-03T13:59:45.618611Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6a9ac27bb74dc695d7d4f5af1554b77d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:45.083580Z"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T13:59:45.625611Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b5329afcb09027ff3a615c626db0b187"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:45.573608Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T13:59:45.584609Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="90fdda263f5e7738e069b70aca7b893a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:43.926514Z"/>
+<entry
+   committed-rev="11"
+   name="styles.js"
+   text-time="2013-09-03T13:59:45.591609Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="87fc986ad4cf4a62123985fc058e5f29"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:44.224531Z"/>
+</wc-entries>

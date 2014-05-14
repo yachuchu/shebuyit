@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/dao"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="IDictDAO.java"
+   text-time="2013-09-03T13:43:24.596499Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e9f80512f771dd3ef9427f5af6ff9213"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.267481Z"/>
+<entry
+   name="impl"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="IConfigDAO.java"
+   text-time="2013-09-03T13:43:24.601500Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3679b53a5ee7828b6807ad9dbfd9882f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.557497Z"/>
+<entry
+   committed-rev="11"
+   name="IShopDAO.java"
+   text-time="2013-09-03T13:43:24.562497Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="87de11f2111db92d86cb7a9fd994e6c6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.246479Z"/>
+<entry
+   committed-rev="11"
+   name="IOrderItemDAO.java"
+   text-time="2013-09-03T13:43:24.567498Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="07a1d2aa87043424d37bd5b853c6dc92"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.249480Z"/>
+<entry
+   committed-rev="11"
+   name="IOrderDAO.java"
+   text-time="2013-09-03T13:43:24.572498Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3e98f7d947666d77b9427f79d762e863"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.253480Z"/>
+<entry
+   committed-rev="11"
+   name="ITranslationDAO.java"
+   text-time="2013-09-03T13:43:24.576498Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="31c9a12eeb9bf764691f179b293b781d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.256480Z"/>
+<entry
+   committed-rev="11"
+   name="IUserDAO.java"
+   text-time="2013-09-03T13:43:24.580498Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="61b714e942219dc837ccec0afb8fac4e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.259480Z"/>
+<entry
+   committed-rev="11"
+   name="IProductDAO.java"
+   text-time="2013-09-03T13:43:24.588499Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0128aafe93617b4065df09ab57e2577c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.263480Z"/>
+</wc-entries>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/charting/themes"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="GreySkies.js"
+   text-time="2013-09-03T14:01:24.067242Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f18884eba1e0ad9edb28ddc797d1b8c4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.638217Z"/>
+<entry
+   committed-rev="11"
+   name="Adobebricks.js"
+   text-time="2013-09-03T14:01:24.072242Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="731b5e48fdf52ee1cfc2cd576088de35"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.641217Z"/>
+<entry
+   committed-rev="11"
+   name="Algae.js"
+   text-time="2013-09-03T14:01:24.078242Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7581e703847ae0dc2b66385e09000fce"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.889231Z"/>
+<entry
+   name="PlotKit"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Midwest.js"
+   text-time="2013-09-03T14:01:24.085243Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3aaf6bed1581b9bdf349e91858ade742"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.969236Z"/>
+<entry
+   committed-rev="11"
+   name="Harmony.js"
+   text-time="2013-09-03T14:01:24.092243Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7b339ffb695ed7fe504fb7716d449da4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.973236Z"/>
+<entry
+   committed-rev="11"
+   name="Dollar.js"
+   text-time="2013-09-03T14:01:24.104244Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="98ed445fd4694b96d89fec7800b90886"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.980237Z"/>
+<entry
+   committed-rev="11"
+   name="Ireland.js"
+   text-time="2013-09-03T14:01:24.115244Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0fcb377b90836fbe7cb62586683f7c9a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.983237Z"/>
+<entry
+   committed-rev="11"
+   name="BlueDusk.js"
+   text-time="2013-09-03T14:01:24.133245Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="af8afab0a8cb8ceee4a0b6c7a4d98ad3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.987237Z"/>
+<entry
+   committed-rev="11"
+   name="PurpleRain.js"
+   text-time="2013-09-03T14:01:24.146246Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4c06e4e3bb8f1248b35820b10a195cc7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.990237Z"/>
+<entry
+   committed-rev="11"
+   name="IndigoNation.js"
+   text-time="2013-09-03T14:01:24.157247Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1db8b48a48b798f5f5e5d295cebaa5d8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.992237Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:24.168247Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="80ea362077d3fd6c4961d8772603fa5f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.995237Z"/>
+<entry
+   committed-rev="11"
+   name="CubanShirts.js"
+   text-time="2013-09-03T14:01:24.176248Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6c262e4724344cc760b6ecdf8af27e62"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.998238Z"/>
+<entry
+   committed-rev="11"
+   name="Distinctive.js"
+   text-time="2013-09-03T14:01:24.181248Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bde2f3fc618a9be9cb55c23eae0f3e3b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:24.001238Z"/>
+<entry
+   committed-rev="11"
+   name="Desert.js"
+   text-time="2013-09-03T14:01:24.007238Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cbd2c6fb56539e140acd9b0b84f3e380"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.574213Z"/>
+<entry
+   committed-rev="11"
+   name="Tufte.js"
+   text-time="2013-09-03T14:01:24.011238Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="03599d43b9aabe2a1561b374333f8e7a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.578214Z"/>
+<entry
+   committed-rev="11"
+   name="SageToLime.js"
+   text-time="2013-09-03T14:01:24.018239Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="11c42eb3291d821821a4239c64309c2e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.581214Z"/>
+<entry
+   committed-rev="11"
+   name="Shrooms.js"
+   text-time="2013-09-03T14:01:24.028239Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ab40894827965bb1a6eb2f0e76e6fc68"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.589214Z"/>
+<entry
+   committed-rev="11"
+   name="WatersEdge.js"
+   text-time="2013-09-03T14:01:24.023239Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0dc7fa8a55e623cd642d16f084109c91"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.585214Z"/>
+<entry
+   committed-rev="11"
+   name="MiamiNice.js"
+   text-time="2013-09-03T14:01:24.032240Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ef10260e8e49f0fdfbd59b0be010dbf0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.592214Z"/>
+<entry
+   committed-rev="11"
+   name="Grasshopper.js"
+   text-time="2013-09-03T14:01:24.039240Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7669c601c0ace0db162058c904485f11"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.618216Z"/>
+<entry
+   name="ET"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Wetland.js"
+   text-time="2013-09-03T14:01:24.044240Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="baa6ce681d6d2369a29f1e5e4e0a0f22"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.621216Z"/>
+<entry
+   committed-rev="11"
+   name="Minty.js"
+   text-time="2013-09-03T14:01:24.048240Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="48f8d624e73cf237a1622199c762a2ed"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.624216Z"/>
+<entry
+   committed-rev="11"
+   name="Grasslands.js"
+   text-time="2013-09-03T14:01:24.058241Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a1be5316b0c62d0c6ff3f23ce50c3083"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.632217Z"/>
+<entry
+   committed-rev="11"
+   name="RoyalPurples.js"
+   text-time="2013-09-03T14:01:24.053241Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d7e83a0476b6ba354680822adad6bb3b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.627216Z"/>
+<entry
+   committed-rev="11"
+   name="Bahamation.js"
+   text-time="2013-09-03T14:01:24.062241Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="257b0546667f31ccdf8ed3edd13eed5e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.636217Z"/>
+</wc-entries>

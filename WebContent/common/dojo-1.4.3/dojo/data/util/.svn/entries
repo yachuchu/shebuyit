@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/data/util"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="filter.js"
+   text-time="2013-09-03T13:58:03.311759Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ef616d517e7988551528a0488e928bad"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:03.254756Z"/>
+<entry
+   committed-rev="11"
+   name="sorter.js"
+   text-time="2013-09-03T13:58:03.316759Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a71ba9c28306095697ca66f8d49d81e4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:03.257756Z"/>
+<entry
+   committed-rev="11"
+   name="simpleFetch.js"
+   text-time="2013-09-03T13:58:03.325760Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b558eb1bbe1155af7b8adccf2141faab"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:03.289758Z"/>
+</wc-entries>

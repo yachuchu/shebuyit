@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/kindeditor-4.0.1/php"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="JSON.php"
+   text-time="2013-09-03T14:01:41.901262Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3ce5a187c2869122f7cbcd14eec99447"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:41.873260Z"/>
+<entry
+   committed-rev="11"
+   name="upload_json.php"
+   text-time="2013-09-03T14:01:41.906262Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f7bdb4274bb4d2d4b751c35d979389a9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:41.878260Z"/>
+<entry
+   committed-rev="11"
+   name="file_manager_json.php"
+   text-time="2013-09-03T14:01:41.889261Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3d10382a20f3670e4ee7e11202019980"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:41.521240Z"/>
+<entry
+   committed-rev="11"
+   name="demo.php"
+   text-time="2013-09-03T14:01:41.895261Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b352cf4d4dda294817c0c4f71ef23e2c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:41.525240Z"/>
+</wc-entries>

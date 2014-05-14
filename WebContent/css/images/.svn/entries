@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/css/images"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ui-bg_inset-soft_95_fef1ec_1x100.png"
+   text-time="2013-09-03T14:01:40.214165Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="61cef242cc2b5e1118607c302b87cbc9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.958150Z"/>
+<entry
+   committed-rev="11"
+   name="ui-icons_2e83ff_256x240.png"
+   text-time="2013-09-03T14:01:40.223166Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2b99a5e48d3c3957d03027d36a25e8bb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:40.131160Z"/>
+<entry
+   committed-rev="11"
+   name="ui-icons_888888_256x240.png"
+   text-time="2013-09-03T14:01:40.141161Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9c46d7cab43e22a14bad26d2d4806d80"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.868145Z"/>
+<entry
+   committed-rev="11"
+   name="ui-bg_glass_55_fbf9ee_1x400.png"
+   text-time="2013-09-03T14:01:40.147161Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f8f4558e0b92ff2cd6136781533902ec"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.872146Z"/>
+<entry
+   committed-rev="11"
+   name="ui-bg_glass_75_dadada_1x400.png"
+   text-time="2013-09-03T14:01:40.153162Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c12c6510dad3ebfa64c8a30e959a2469"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.876146Z"/>
+<entry
+   committed-rev="11"
+   name="ui-bg_glass_75_e6e6e6_1x400.png"
+   text-time="2013-09-03T14:01:40.162162Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f4254356c2a8c9a383205ef2c4de22c4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.879146Z"/>
+<entry
+   committed-rev="11"
+   name="ui-bg_glass_65_ffffff_1x400.png"
+   text-time="2013-09-03T14:01:40.166162Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e5a8f32e28fd5c27bf0fed33c8a8b9b5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.882146Z"/>
+<entry
+   committed-rev="11"
+   name="ui-bg_glass_75_ffffff_1x400.png"
+   text-time="2013-09-03T14:01:40.171163Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="97b10a98a6ab3ed7c668fe0ca62fd964"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.886146Z"/>
+<entry
+   committed-rev="11"
+   name="ui-bg_highlight-soft_75_cccccc_1x100.png"
+   text-time="2013-09-03T14:01:40.177163Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="72c593d16e998952cd8d798fee33c6f3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.889147Z"/>
+<entry
+   committed-rev="11"
+   name="ui-icons_cd0a0a_256x240.png"
+   text-time="2013-09-03T14:01:40.184163Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3f0f617bf49ae82ba81c56ff82ccdc10"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.933149Z"/>
+<entry
+   committed-rev="11"
+   name="ui-bg_flat_0_aaaaaa_40x100.png"
+   text-time="2013-09-03T14:01:40.191164Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2a44fbdb7360c60122bcf6dcef0387d8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.936149Z"/>
+<entry
+   committed-rev="11"
+   name="ui-icons_454545_256x240.png"
+   text-time="2013-09-03T14:01:40.196164Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="119dd0c2e94ad689de873ef39fd43e6e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.951150Z"/>
+<entry
+   committed-rev="11"
+   name="ui-icons_222222_256x240.png"
+   text-time="2013-09-03T14:01:40.206165Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ebe6b6902a408fbf9cac6379a1477525"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.955150Z"/>
+</wc-entries>

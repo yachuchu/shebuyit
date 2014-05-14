@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/gfx/resources"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="svg2gfx-simple.xsl"
+   text-time="2013-09-03T14:00:22.878742Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b46134e142c74ab57496450e883d5326"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:21.521664Z"/>
+<entry
+   committed-rev="11"
+   name="gfxSvgProxyFrame.html"
+   text-time="2013-09-03T14:00:22.888742Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="06d2cc6b50112fd6ad99fec5ad25d9da"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:21.524664Z"/>
+<entry
+   committed-rev="11"
+   name="Gillius.svg"
+   text-time="2013-09-03T14:00:22.897743Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3c50e0edbc7b0228a5b145ac82b8121b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:22.333711Z"/>
+<entry
+   committed-rev="11"
+   name="svg2gfx.xsl"
+   text-time="2013-09-03T14:00:22.905743Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4b1b76934901f4d664a0b94d53c89558"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:22.861741Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:22.911744Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="65ad0630bb7edb1b09ca1b4a124f82d5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:22.868741Z"/>
+</wc-entries>

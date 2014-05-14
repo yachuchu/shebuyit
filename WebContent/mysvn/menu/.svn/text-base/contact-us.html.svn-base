@@ -1,0 +1,40 @@
+
+<!--  style type="text/css">
+.ez1_head2{text-transform:none;font-size:13px;letter-spacing:0.07em;}
+.ez1{font-size: 12px; font-family: Arial;}
+.ez1_head1{font-size: 22px;background:#ff0000;color:#fff;text-align:center;}
+.duiqi1{text-align:justify;letter-spacing:0.04em;}
+.duiqi2{text-align:justify;font-family: Arial;letter-spacing:0.04em;font-size: 12px;margin:0px;}
+.duiqi1 a:link{color:#fd7e07;text-decoration: none;}
+.duiqi1 a:visited{color:#fd7e07}
+.duiqi1 a:hover{color:#888}
+.biaoge div{font-size: 12px; font-family: Arial;letter-spacing:0.04em;}
+.biaoge td{border-right:1px solid #ddd;border-bottom:1px solid #ddd;}
+</style-->
+<div class="ez1">
+<div style="text-align:center;"><h1 id="ezPagesHeading">Contact Us</h1></div>
+<br></br>
+        We always have someone on hand to answer your questions. We believe in the timeliness of customer service, and will do everything possible to satisfy our customers. If you have any problems, comments, or suggestions, please contact us.
+		<table boder="0" >
+		<tr>
+		<td style="vertical-align: middle;" width="80">
+		<img  alt="" src="{{media url="upload/home/customer.jpg"}}"> 
+		</td>
+		<td>
+			<h3 style="margin: 50px 0pt 10px;">Customer Service:</h3>
+           <p class="duiqi1"> For questions regarding order status , you can login to <a class="blue u" href="{{store url=customer/account}}">My Orders</a> , and other after-sales support, email to : <a href="mailto:support@shedressup.com">support@shedressup.com</a></p>
+		
+		</td>
+		</tr>
+		<tr>
+		<td style="vertical-align: middle;"width="80">
+		<img  alt="" src="{{media url="upload/home/email.jpg"}}"> 
+		</td>
+		<td>
+		 <h3 style="margin: 50px 0pt 10px;">Email:</h3>
+            <p class="duiqi1">Any question about products, retail or wholesale orders, feel free to contact us. 
+			<a href="mailto:support@shedressup.com">support@shedressup.com</a></p>
+		</td>
+		</tr>
+		</table>
+</div>

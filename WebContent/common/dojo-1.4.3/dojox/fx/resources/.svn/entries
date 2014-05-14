@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/fx/resources"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="shadowL.png"
+   text-time="2013-09-03T14:00:04.828709Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f0575bbff39ab88ccadbd3017630a5f9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.767706Z"/>
+<entry
+   committed-rev="11"
+   name="shadowBL.png"
+   text-time="2013-09-03T14:00:04.834710Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="72f2b32835df660ebba821ca6162a38d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.771706Z"/>
+<entry
+   committed-rev="11"
+   name="shadowTL.png"
+   text-time="2013-09-03T14:00:04.839710Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9825910136a7c2b49eca51f86c8f316a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.774706Z"/>
+<entry
+   committed-rev="11"
+   name="shadowB.png"
+   text-time="2013-09-03T14:00:04.780707Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7dd2cc4c1fd37bc7f925ffe70a859035"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.743705Z"/>
+<entry
+   committed-rev="11"
+   name="shadowR.png"
+   text-time="2013-09-03T14:00:04.785707Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e709c4520b03cbe465c87f47b474cab7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.746705Z"/>
+<entry
+   committed-rev="11"
+   name="shadowBR.png"
+   text-time="2013-09-03T14:00:04.815709Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="03f2ebe6a7cb2a57081c979470322903"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.755705Z"/>
+<entry
+   committed-rev="11"
+   name="shadowT.png"
+   text-time="2013-09-03T14:00:04.820709Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f43526cd33b8d85db91ff923e1c2a245"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.761706Z"/>
+<entry
+   committed-rev="11"
+   name="shadowTR.png"
+   text-time="2013-09-03T14:00:04.824709Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3e78026430b2b5833684d4716d897f93"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.764706Z"/>
+</wc-entries>

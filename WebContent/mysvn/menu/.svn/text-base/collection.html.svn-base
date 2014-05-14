@@ -1,0 +1,20 @@
+<div style="float: left; width: 928px;">
+<div class="nav-demo-block " style="width: 200px; float: left;">
+<h3 style="margin-top: -5px;"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=947">PARTY SEASON</a></h3>
+<a href="{{store url=dresses}}fashion-dresses.html?sb_style=947"><img style="float: left; margin: 0 20px 10px 0;" src="{{media url="upload/home/party-small.jpg"}}" alt="" /></a></div>
+<div class="nav-demo-block " style="width: 200px; float: left;">
+<h3 style="margin-top: -5px;"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=888">SEXY CHOICES</a></h3>
+<a href="{{store url=dresses}}fashion-dresses.html?sb_style=888"><img style="float: left; margin: 0 20px 10px 0;" src="{{media url="upload/home/sexy-small.jpg"}}" alt="" /></a></div>
+<div class="nav-demo-block " style="width: 200px; float: left;">
+<h3 style="margin-top: -5px;"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=878">VINTAGE TREND</a></h3>
+<a href="{{store url=dresses}}fashion-dresses.html?sb_style=878"><img style="float: left; margin: 0 20px 10px 0;" src="{{media url="upload/home/vintage-small.jpg"}}" alt="" /></a></div>
+<div class="nav-demo-block " style="width: 200px; float: left;">
+<h3 style="margin-top: -5px;"><a href="{{store url}}tops.html?sb_material=767">DENIM FASHION</a></h3>
+<a href="{{store url}}tops.html?sb_material=767"><img style="float: left; margin: 0 20px 10px 0;" src="{{media url="upload/home/denim-small.jpg"}}" alt="" /></a></div>
+</div>
+<div class="nav-demo-block " style="width: 200px; float: left;">
+<h3 style="margin-top: -5px;"><a href="{{store url=collection/animal.html}}">ANIMAL PRINT</a></h3>
+<a href="{{store url=collection/animal.html}}"><img style="float: left; margin: 0 20px 10px 0;" src="{{media url="upload/home/animal-samll.jpg"}}" alt="" /></a></div>
+<div class="nav-demo-block " style="width: 200px; float: left;">
+<h3 style="margin-top: -5px;"><a href="{{store url=collection/oversized.html}}">OVERSIZED</a></h3>
+<a href="{{store url=collection/oversized.html}}"><img style="float: left; margin: 0 20px 10px 0;" src="{{media url="upload/home/oversized-samll.jpg"}}" alt="" /></a></div>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/dao/impl"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ShopDAOImpl.java"
+   text-time="2013-09-03T13:43:24.510494Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0308442a217bb3c93c49598cde125b93"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.280481Z"/>
+<entry
+   committed-rev="11"
+   name="OrderItemDAOImpl.java"
+   text-time="2013-09-03T13:43:24.515495Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4daaebe2747fc3f0780b9471a56a28e6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.326484Z"/>
+<entry
+   committed-rev="11"
+   name="OrderDAOImpl.java"
+   text-time="2013-09-03T13:43:24.520495Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9e3b99de963b55fcbc3f1182a53164c6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.330484Z"/>
+<entry
+   committed-rev="11"
+   name="TranslationDAOImpl.java"
+   text-time="2013-09-03T13:43:24.525495Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="85447edbeb0f740c323670b5358c88c2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.335484Z"/>
+<entry
+   committed-rev="11"
+   name="UserDAOImpl.java"
+   text-time="2013-09-03T13:43:24.530496Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="64db5a21d9c7467c5cfb5123aaa74dba"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.339485Z"/>
+<entry
+   committed-rev="11"
+   name="ProductDAOImpl.java"
+   text-time="2013-09-03T13:43:24.534496Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="85b587db6e7459d6ce852386a8379743"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.342485Z"/>
+<entry
+   committed-rev="11"
+   name="DictDAOImpl.java"
+   text-time="2013-09-03T13:43:24.541496Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4f113ef68135e7727ab6118790644437"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.501494Z"/>
+<entry
+   committed-rev="11"
+   name="ConfigDAOImpl.java"
+   text-time="2013-09-03T13:43:24.545496Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b24f903df10a4245660adc64c21f46ba"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.505494Z"/>
+</wc-entries>

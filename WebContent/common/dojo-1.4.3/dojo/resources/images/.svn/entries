@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/resources/images"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="dndMove.png"
+   text-time="2013-09-03T13:58:03.944795Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fa959bb51d8ddb15e9d012a8dd9e9d92"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:03.781786Z"/>
+<entry
+   committed-rev="11"
+   name="dndNoCopy.png"
+   text-time="2013-09-03T13:58:03.949796Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b410a55565487121b08d46a17d86a9d5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:03.919794Z"/>
+<entry
+   committed-rev="11"
+   name="dndCopy.png"
+   text-time="2013-09-03T13:58:03.954796Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="48447a05ea6c467c4d2336e7fdecc739"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:03.925794Z"/>
+<entry
+   committed-rev="11"
+   name="dndNoMove.png"
+   text-time="2013-09-03T13:58:03.936795Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1ecdfdfd544b0d51696e0f98de00bf1c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:03.776786Z"/>
+</wc-entries>

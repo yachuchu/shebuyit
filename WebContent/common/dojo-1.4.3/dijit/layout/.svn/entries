@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/layout"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="AccordionContainer.js"
+   text-time="2013-09-03T13:59:20.484173Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fe5910f52859bae3104dde7eed943c54"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:19.413112Z"/>
+<entry
+   committed-rev="11"
+   name="AccordionPane.js"
+   text-time="2013-09-03T13:59:20.489173Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="00d5aee7a7bbceab4981f35ef309b38c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:19.419112Z"/>
+<entry
+   committed-rev="11"
+   name="ScrollingTabController.js"
+   text-time="2013-09-03T13:59:20.494174Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="259907bb1a1e60793c2c1f1fc3868ece"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:19.581121Z"/>
+<entry
+   committed-rev="11"
+   name="StackContainer.js"
+   text-time="2013-09-03T13:59:20.499174Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c86411512390b0e33a32a2c2405bd421"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:20.088150Z"/>
+<entry
+   committed-rev="11"
+   name="StackController.js"
+   text-time="2013-09-03T13:59:20.504174Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="373fcd1603333fb92ea97fd6247cfc95"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:20.259160Z"/>
+<entry
+   committed-rev="11"
+   name="TabContainer.js"
+   text-time="2013-09-03T13:59:20.509174Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="df9e5e2e403e3afbcee2ae52cbe787c2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:20.267161Z"/>
+<entry
+   committed-rev="11"
+   name="TabController.js"
+   text-time="2013-09-03T13:59:20.513175Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dfb12f648f138ae5cd405b37edc863f4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:20.431170Z"/>
+<entry
+   committed-rev="11"
+   name="ContentPane.js"
+   text-time="2013-09-03T13:59:20.443171Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6b09ded889600033aa7b99ebd071b541"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:17.872024Z"/>
+<entry
+   committed-rev="11"
+   name="SplitContainer.js"
+   text-time="2013-09-03T13:59:20.449171Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3426cc88545d62ea9b79b38b190b6106"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:18.193042Z"/>
+<entry
+   committed-rev="11"
+   name="BorderContainer.js"
+   text-time="2013-09-03T13:59:20.457171Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c2de8faf1cae179079ba56f2ed59172e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:18.681070Z"/>
+<entry
+   committed-rev="11"
+   name="LayoutContainer.js"
+   text-time="2013-09-03T13:59:20.463172Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="131fe4e23bc61eca60363a8e6b812c49"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:18.721072Z"/>
+<entry
+   committed-rev="11"
+   name="_LayoutWidget.js"
+   text-time="2013-09-03T13:59:20.469172Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c2d09c8b406f28e592bf5b3b95cfc8bd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:18.908083Z"/>
+<entry
+   committed-rev="11"
+   name="LinkPane.js"
+   text-time="2013-09-03T13:59:20.474172Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cb5ff9cb320b0f223b8bb55a0d7fe7e9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:18.911083Z"/>
+<entry
+   committed-rev="11"
+   name="_TabContainerBase.js"
+   text-time="2013-09-03T13:59:20.479173Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e35d046396c4130498b5099aec7c0e8c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:19.081093Z"/>
+</wc-entries>

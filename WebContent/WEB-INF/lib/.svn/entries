@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/WEB-INF/lib"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="db2jcc_license_cisuz.jar"
+   text-time="2013-09-03T13:57:31.149919Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7d86678ab0a12485b48d53a43acbb538"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:15.524026Z"/>
+<entry
+   committed-rev="11"
+   name="spring-2.5.6.jar"
+   text-time="2013-09-03T13:57:31.187922Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5ec5c83e6db768fae717ced1f183c852"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:30.595888Z"/>
+<entry
+   committed-rev="11"
+   name="jstl-1.1.2.jar"
+   text-time="2013-09-03T13:57:31.264926Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c2ced5f8505fe9d1cae685201e9cba07"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:30.769898Z"/>
+<entry
+   committed-rev="11"
+   name="httpclient-4.2.2.jar"
+   text-time="2013-09-03T13:57:30.787899Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="92d96394292efb6ab09e68eaa86d349a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:52.633853Z"/>
+<entry
+   committed-rev="11"
+   name="WDSOPClientSecurityUtilities.jar"
+   text-time="2013-09-03T13:57:30.794899Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3aa240336feb06e0e7a582f774beeff6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:52.804863Z"/>
+<entry
+   committed-rev="11"
+   name="commons-io-1.4.jar"
+   text-time="2013-09-03T13:57:30.801900Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b6a50c8a15ece8753e37cbe5700bf84f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:53.923927Z"/>
+<entry
+   committed-rev="11"
+   name="geronimo-jta_1.1_spec-1.1.jar"
+   text-time="2013-09-03T13:57:30.805900Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="25b479710f7ac269c6bf5bf016345ad9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:54.093936Z"/>
+<entry
+   committed-rev="11"
+   name="xstream-1.3.1.jar"
+   text-time="2013-09-03T13:57:30.813900Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4dfebec402e7606b2c1f66dec1773e8f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:02.162398Z"/>
+<entry
+   committed-rev="11"
+   name="commons-digester-1.8.jar"
+   text-time="2013-09-03T13:57:30.819901Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cf89c593f0378e9509a06fce7030aeba"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:04.318521Z"/>
+<entry
+   committed-rev="11"
+   name="commons-collections-3.2.1.jar"
+   text-time="2013-09-03T13:57:30.828901Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="13bc641afd7fd95e09b260f69c1e4c91"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:10.908898Z"/>
+<entry
+   committed-rev="11"
+   name="commons-httpclient-3.1.jar"
+   text-time="2013-09-03T13:57:30.835902Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8ad8c9229ef2d59ab9f59f7050e846a5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:15.199144Z"/>
+<entry
+   committed-rev="11"
+   name="ojdbc14.jar"
+   text-time="2013-09-03T13:57:30.850902Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a28ee417a523434db522fe593a41d7d0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:23.469617Z"/>
+<entry
+   committed-rev="11"
+   name="db2jcc.jar"
+   text-time="2013-09-03T13:57:30.870904Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ee07a08fcdd1a675f371cd612cfea2a2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:44.398814Z"/>
+<entry
+   committed-rev="11"
+   name="com.ibm.crl.id.sso.common.jar"
+   text-time="2013-09-03T13:57:30.875904Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3cd8395309a7a26c24ab25be6d31ea63"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:44.425815Z"/>
+<entry
+   committed-rev="11"
+   name="org.eclipse.higgins.saml2idp.saml2.jar"
+   text-time="2013-09-03T13:57:30.879904Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="50b6d615f5bedf0e9d488458144ddeb5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:44.568823Z"/>
+<entry
+   committed-rev="11"
+   name="httpcore-4.2.2.jar"
+   text-time="2013-09-03T13:57:30.885904Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="23019b3f95c2c39097c2fce3944bd503"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:45.898899Z"/>
+<entry
+   committed-rev="11"
+   name="microsoft-translator-java-api-0.6.1-jar-with-dependencies.jar"
+   text-time="2013-09-03T13:57:30.889905Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="759c6f2318cc676afdd9ab5aff37e8a6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:46.056908Z"/>
+<entry
+   committed-rev="11"
+   name="commons-fileupload-1.2.1.jar"
+   text-time="2013-09-03T13:57:30.894905Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5ad1ab0c8a813b45fe9014f54a341a2a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:46.225918Z"/>
+<entry
+   committed-rev="11"
+   name="servlet-api.jar"
+   text-time="2013-09-03T13:57:30.906906Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f732399c7467d4f6570b4eebf267d3e8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:46.918958Z"/>
+<entry
+   committed-rev="11"
+   name="WDSOPClient.jar"
+   text-time="2013-09-03T13:57:30.900905Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9cecdfd2238b68aefe85d0c1d3740327"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:46.740948Z"/>
+<entry
+   committed-rev="11"
+   name="commons-validator-1.3.1.jar"
+   text-time="2013-09-03T13:57:30.912906Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4fe711769d6d61f51c21d6c89d70e904"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:47.540993Z"/>
+<entry
+   committed-rev="11"
+   name="standard-1.1.2.jar"
+   text-time="2013-09-03T13:57:30.918906Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="65351d0487ad57edda9171bb3b46b98c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:49.333096Z"/>
+<entry
+   committed-rev="11"
+   name="log4j-1.2.15.jar"
+   text-time="2013-09-03T13:57:30.927907Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4d4609998fbc124ce6f0d1d48fca2614"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:55:51.851240Z"/>
+<entry
+   committed-rev="11"
+   name="aspectjweaver-1.6.0.jar"
+   text-time="2013-09-03T13:57:30.946908Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ce4cf473da900546a9f8592b75692fb6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:14.524537Z"/>
+<entry
+   committed-rev="11"
+   name="mysql-connector-java-5.1.22-bin.jar"
+   text-time="2013-09-03T13:57:30.957908Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2c069d69928c75cd28172fd33772a1db"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:18.850784Z"/>
+<entry
+   committed-rev="11"
+   name="wds-id-spclient.jar"
+   text-time="2013-09-03T13:57:30.962909Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="799a4dc398cf62d020ac67fbeae0338c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:19.337812Z"/>
+<entry
+   committed-rev="11"
+   name="JSON4J.jar"
+   text-time="2013-09-03T13:57:30.974909Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="554359568fbbda0846ce2189f291a4ff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:20.219863Z"/>
+<entry
+   committed-rev="11"
+   name="JsonUtil.jar"
+   text-time="2013-09-03T13:57:30.968909Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cac0592b2de68e9da5ebc57b5ab558f7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:19.837841Z"/>
+<entry
+   committed-rev="11"
+   name="json.jar"
+   text-time="2013-09-03T13:57:30.980910Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="da70f97a74d76b6a3bef9cc8ae0d89eb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:21.024909Z"/>
+<entry
+   committed-rev="11"
+   name="geronimo-jpa_3.0_spec-1.0.jar"
+   text-time="2013-09-03T13:57:30.986910Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="075a35cb73b87833d79a4236405ade5a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:21.530937Z"/>
+<entry
+   committed-rev="11"
+   name="Saml2.jar"
+   text-time="2013-09-03T13:57:30.990910Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a2af9b10b1eab82a5fde9ef6512f375a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:21.867957Z"/>
+<entry
+   committed-rev="11"
+   name="commons-io-1.3.2.jar"
+   text-time="2013-09-03T13:57:31.000911Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="903c04d1fb5d4dc81d95e4be93ff7ecd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:22.842012Z"/>
+<entry
+   committed-rev="11"
+   name="json_simple-1.1.jar"
+   text-time="2013-09-03T13:57:30.995911Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eb342044fc56be9ba49fbfc9789f1bb5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:21.870957Z"/>
+<entry
+   committed-rev="11"
+   name="db2jcc_license_cu.jar"
+   text-time="2013-09-03T13:57:31.004911Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="26bcde33c1f92ac245242c505d75061a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:22.851013Z"/>
+<entry
+   committed-rev="11"
+   name="httpclient-cache-4.2.2.jar"
+   text-time="2013-09-03T13:57:31.009911Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="95a1fb9bb9eeeeb7a84d694b1f6f607e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:24.694118Z"/>
+<entry
+   committed-rev="11"
+   name="commons-pool-1.3.jar"
+   text-time="2013-09-03T13:57:31.014912Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="01f9bed60e2f88372132d34040ee81bb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:25.664174Z"/>
+<entry
+   committed-rev="11"
+   name="SDMCLient.jar"
+   text-time="2013-09-03T13:57:31.019912Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5f26af66261c3dd1afb35d8e85817dba"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:26.196204Z"/>
+<entry
+   committed-rev="11"
+   name="commons-codec-1.3.jar"
+   text-time="2013-09-03T13:57:31.024912Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8e149c1053741c03736a52df83974dcc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:26.526223Z"/>
+<entry
+   committed-rev="11"
+   name="google-api-translate-java-0.97.jar"
+   text-time="2013-09-03T13:57:31.029913Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="90b4fc06fedaa13dd5a25b3642e5cdda"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:26.844241Z"/>
+<entry
+   committed-rev="11"
+   name="httpmime-4.2.2.jar"
+   text-time="2013-09-03T13:57:31.034913Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0f06d4299ae51a281c52dce61a68baf5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:27.006251Z"/>
+<entry
+   committed-rev="11"
+   name="antlr-2.7.6.jar"
+   text-time="2013-09-03T13:57:31.043913Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="97c6bb68108a3d68094eab0f67157962"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:31.868529Z"/>
+<entry
+   committed-rev="11"
+   name="serp-1.13.1.jar"
+   text-time="2013-09-03T13:57:31.050914Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f25cbd8e7d102a3f62cac34d8f623df5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:56:34.882701Z"/>
+<entry
+   committed-rev="11"
+   name="openjpa-1.2.2.jar"
+   text-time="2013-09-03T13:57:31.091916Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2198567c50d209728e4d5c7b29016f4b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:00.080142Z"/>
+<entry
+   committed-rev="11"
+   name="xmlsec-1.4.1.jar"
+   text-time="2013-09-03T13:57:31.100917Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="00668a1daf5d4eaffe593077ee497ed3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:02.228265Z"/>
+<entry
+   committed-rev="11"
+   name="commons-logging-1.1.1.jar"
+   text-time="2013-09-03T13:57:31.105917Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ed448347fc0104034aa14c8189bf37de"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:02.741295Z"/>
+<entry
+   committed-rev="11"
+   name="commons-lang-2.4.jar"
+   text-time="2013-09-03T13:57:31.112917Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="237a8e845441bad2e535c57d985c8204"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:06.360502Z"/>
+<entry
+   committed-rev="11"
+   name="sojo-optional-0.5.0.jar"
+   text-time="2013-09-03T13:57:31.117918Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fd3ce98549920a565edbb3b183d2d7b3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:07.998595Z"/>
+<entry
+   committed-rev="11"
+   name="spring-agent.jar"
+   text-time="2013-09-03T13:57:31.122918Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5f06d8a01174b60a07c4b1b87bb75648"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:08.149604Z"/>
+<entry
+   committed-rev="11"
+   name="spring-modules-validation.jar"
+   text-time="2013-09-03T13:57:31.129918Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2ebd8ba2c0369ea48c2971d3975f024e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:13.226894Z"/>
+<entry
+   committed-rev="11"
+   name="commons-beanutils-1.8.0.jar"
+   text-time="2013-09-03T13:57:31.136919Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d93127c2aa1815a25b13d971e974e9b1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:14.554970Z"/>
+<entry
+   committed-rev="11"
+   name="jsoup-1.7.1.jar"
+   text-time="2013-09-03T13:57:31.144919Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1b566b7bdd9ff74b9449f66b3d371370"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:15.514025Z"/>
+</wc-entries>

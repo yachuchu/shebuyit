@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/gauge"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="AnalogArcIndicator.js"
+   text-time="2013-09-03T14:01:14.038668Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7850bbf868180cea7c0482b16e763c9e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.617644Z"/>
+<entry
+   committed-rev="11"
+   name="_Gauge.js"
+   text-time="2013-09-03T14:01:14.045668Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a2abdd864ad89e9a5af41314c791d0d0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.921661Z"/>
+<entry
+   committed-rev="11"
+   name="AnalogArrowIndicator.js"
+   text-time="2013-09-03T14:01:14.052669Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a55044a0d6f8f100584179c7b3b4a139"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.945663Z"/>
+<entry
+   committed-rev="11"
+   name="AnalogNeedleIndicator.js"
+   text-time="2013-09-03T14:01:14.060669Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c0ab7037c60ab44a74781838a243943a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.955663Z"/>
+<entry
+   committed-rev="11"
+   name="_Gauge.html"
+   text-time="2013-09-03T14:01:14.001666Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="aef482dde77ef138aa1f8a2129648ae1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.601643Z"/>
+<entry
+   committed-rev="11"
+   name="BarIndicator.js"
+   text-time="2013-09-03T14:01:14.012666Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3ff62f22a235688625e78fe18103e29f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.605643Z"/>
+<entry
+   committed-rev="11"
+   name="_Gauge.css"
+   text-time="2013-09-03T14:01:14.023667Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d2c106b764b8bf94391ea40fae9c9f71"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.609643Z"/>
+<entry
+   committed-rev="11"
+   name="_Indicator.html"
+   text-time="2013-09-03T14:01:14.031668Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="de86f4113d5454e2486b2007cfaa4088"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.613644Z"/>
+</wc-entries>

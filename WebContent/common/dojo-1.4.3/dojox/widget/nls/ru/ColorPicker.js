@@ -1,0 +1,1 @@
+({"redLabel":"к","valueLabel":"я","hexLabel":"hex","hueLabel":"о","saturationLabel":"н","degLabel":"°","greenLabel":"з","blueLabel":"с"})

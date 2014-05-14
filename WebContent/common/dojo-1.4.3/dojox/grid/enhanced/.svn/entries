@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/grid/enhanced"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_Builder.js"
+   text-time="2013-09-03T14:00:41.557810Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a151162c9e38bb8f0deffed3a43f69db"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:37.891600Z"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   name="dnd"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_Plugin.js"
+   text-time="2013-09-03T14:00:41.563811Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="726ff21683a38deb8a52a86f9003ef3f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.458805Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   name="nls"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_Events.js"
+   text-time="2013-09-03T14:00:41.551810Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="62c387b6917587a22df38a1e8c5b9b4f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:37.886600Z"/>
+</wc-entries>

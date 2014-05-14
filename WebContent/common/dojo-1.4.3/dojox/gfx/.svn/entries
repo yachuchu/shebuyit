@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/gfx"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="matrix.js"
+   text-time="2013-09-03T14:00:23.393771Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="92b9df0cc028a3903b083142bbd80cb1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.472490Z"/>
+<entry
+   committed-rev="11"
+   name="attach.js"
+   text-time="2013-09-03T14:00:23.387771Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7c256e1da347a8a2bb3284af718dc4d0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.417487Z"/>
+<entry
+   committed-rev="11"
+   name="arc.js"
+   text-time="2013-09-03T14:00:23.398772Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1b282f29bce0f702302c8f065b85cfcd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.631499Z"/>
+<entry
+   committed-rev="11"
+   name="move.js"
+   text-time="2013-09-03T14:00:23.404772Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="858c2fa48b1019fb6bd2d90d09e7c203"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.635499Z"/>
+<entry
+   committed-rev="11"
+   name="VectorText.js"
+   text-time="2013-09-03T14:00:23.409772Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="21099d976dad81d37f8f1e3385f9cf9f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.959518Z"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T14:00:23.416773Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dbad82ed285172f6f95069b7aad1d939"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.132528Z"/>
+<entry
+   committed-rev="11"
+   name="canvas.js"
+   text-time="2013-09-03T14:00:23.423773Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8d208ebf116b255fdf21c0dc445f6bbf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.471547Z"/>
+<entry
+   committed-rev="11"
+   name="fx.js"
+   text-time="2013-09-03T14:00:23.429773Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="63af44ac7bfa4d2bdac9a9ffca399d9f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.499549Z"/>
+<entry
+   committed-rev="11"
+   name="decompose.js"
+   text-time="2013-09-03T14:00:23.435774Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4df8f6d71536e478a245ac9577705f2b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.648557Z"/>
+<entry
+   committed-rev="11"
+   name="silverlight_attach.js"
+   text-time="2013-09-03T14:00:23.441774Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b59fc8d62c9d719409937c913b05c0f5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.655557Z"/>
+<entry
+   committed-rev="11"
+   name="vml_attach.js"
+   text-time="2013-09-03T14:00:23.457775Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="05031ceef2dc9c4f2e1c880972c7aa2f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.852569Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:23.451775Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="019a23cb51eac712552a3e0b3b9463f2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.670558Z"/>
+<entry
+   committed-rev="11"
+   name="svg_attach.js"
+   text-time="2013-09-03T14:00:23.462775Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8c42a0a39107317f195416fbb38285f0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.982576Z"/>
+<entry
+   committed-rev="11"
+   name="Mover.js"
+   text-time="2013-09-03T14:00:23.467775Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e67a08d95337a19115deb956ef517588"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:19.985576Z"/>
+<entry
+   committed-rev="11"
+   name="Moveable.js"
+   text-time="2013-09-03T14:00:23.472776Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b567bd70dff77323880690bbf1037019"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:20.013578Z"/>
+<entry
+   committed-rev="11"
+   name="path.js"
+   text-time="2013-09-03T14:00:23.476776Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d492492c4b98a8ec033b6d92a3538728"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:20.169587Z"/>
+<entry
+   committed-rev="11"
+   name="silverlight.js"
+   text-time="2013-09-03T14:00:23.481776Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c7be01a5666e2698adba379a16b0c2ff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:20.478605Z"/>
+<entry
+   committed-rev="11"
+   name="vml.js"
+   text-time="2013-09-03T14:00:23.487777Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dae13ab61e8ec88e0d4b746b6e1cd736"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:20.954632Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="svg.js"
+   text-time="2013-09-03T14:00:23.492777Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="41e68cd76921a8363f09953c750b1220"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:21.489662Z"/>
+<entry
+   committed-rev="11"
+   name="canvas_attach.js"
+   text-time="2013-09-03T14:00:23.497777Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="868aa2db4e9bdaf4bb89e8bf7a9df4bb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:21.494663Z"/>
+<entry
+   committed-rev="11"
+   name="utils.js"
+   text-time="2013-09-03T14:00:23.502777Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f1de8373080c0949975ae02de0b93623"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:23.040751Z"/>
+<entry
+   committed-rev="11"
+   name="shape.js"
+   text-time="2013-09-03T14:00:23.507778Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="44526a2df183cf73f84e4d4476d5b852"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:23.380771Z"/>
+</wc-entries>

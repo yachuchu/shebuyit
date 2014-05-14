@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing/resources/images"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="tool_sprites.png"
+   text-time="2013-09-03T14:00:46.291081Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="86ef8aa982434d6bd21444483494eb7f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.280080Z"/>
+<entry
+   committed-rev="11"
+   name="tool_icons.png"
+   text-time="2013-09-03T14:00:46.298081Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="72e6ad0b6dfcb7d8b917f68772fc61b2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.284081Z"/>
+</wc-entries>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/image/resources"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Gallery.html"
+   text-time="2013-09-03T14:00:12.236133Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="66428412cf877608e0c69acdb015c3f0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:11.154071Z"/>
+<entry
+   committed-rev="11"
+   name="Lightbox.html"
+   text-time="2013-09-03T14:00:12.241133Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a2fd9256850d3b4b93cf68225d6b347d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:11.163072Z"/>
+<entry
+   committed-rev="11"
+   name="SlideShow.html"
+   text-time="2013-09-03T14:00:12.246134Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c21c2faec4f940e73bd931693abea8a7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:11.168072Z"/>
+<entry
+   committed-rev="11"
+   name="ThumbnailPicker.html"
+   text-time="2013-09-03T14:00:12.251134Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="88087676e8c035e012414107f067bfc3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:11.172072Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Gallery.css"
+   text-time="2013-09-03T14:00:12.255134Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f9ed94d6aa90d1b5e79066166d5d2153"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:12.206131Z"/>
+<entry
+   committed-rev="11"
+   name="Lightbox.css"
+   text-time="2013-09-03T14:00:12.263135Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eae3702d676db73afd7711d59eb22a04"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:12.209132Z"/>
+<entry
+   committed-rev="11"
+   name="Magnifier.css"
+   text-time="2013-09-03T14:00:12.269135Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1ed48322f59300449fb9281d64e67a6f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:12.212132Z"/>
+<entry
+   committed-rev="11"
+   name="SlideShow.css"
+   text-time="2013-09-03T14:00:12.275135Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f3468e5d75c5de576e7011f6ed9ecfc8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:12.215132Z"/>
+<entry
+   committed-rev="11"
+   name="ThumbnailPicker.css"
+   text-time="2013-09-03T14:00:12.282136Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="57bfece81792a15e2fea27d30d86c774"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:12.218132Z"/>
+<entry
+   committed-rev="11"
+   name="Badge.css"
+   text-time="2013-09-03T14:00:12.224132Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6b65e47b8172f8dfd04e7617d1a7db86"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:11.143071Z"/>
+<entry
+   committed-rev="11"
+   name="image.css"
+   text-time="2013-09-03T14:00:12.231133Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d6b7f1436ee95b1ecc6020b7e1ab4426"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:11.148071Z"/>
+</wc-entries>

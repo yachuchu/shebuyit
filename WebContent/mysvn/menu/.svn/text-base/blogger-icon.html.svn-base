@@ -1,0 +1,63 @@
+<script type="text/javascript">
+	function generate(){
+
+
+	 var imgValue = GetRadioValue("imgValue");
+
+	 if(imgValue==null){
+	 alert("Please Select a Icon");
+	 return;
+	 }
+	 var userId = document.getElementById("userId").value; 
+	 if(userId==null||userId==''){
+	 alert("Please Input Your Referral URL");
+	  return;
+	 }
+     var temp = '<a href ="'+userId+'"><img src="http://www.shechic.com/media/upload/home/'+imgValue+'.jpg"/></a>';
+	 document.getElementById("refferalUrl").value=temp;
+	}
+
+	function GetRadioValue(RadioName){
+		var obj;    
+		obj=document.getElementsByName(RadioName);
+		if(obj!=null){
+			var i;
+			for(i=0;i<obj.length;i++){
+				if(obj[i].checked){
+					return obj[i].value;            
+				}
+			}
+		}
+		return null;
+    }
+		
+</script>
+<div class="ez1">
+<div style="text-align:center;"><h1 id="ezPagesHeading">Fashion Blogger</h1></div>
+<br></br>
+
+<h3 style="margin: 50px 0pt 10px;">Please put our Promotion Icon on the frontpage of your blog.</h3>
+<table border="0" width="80%">
+<tr>
+<td style="text-align:center"><img src="{{media url="upload/home/img1.jpg"}}"></td>
+<td style="text-align:center"><img src="{{media url="upload/home/img2.jpg"}}"></td>
+</tr>
+<tr>
+<td style="text-align:center"><input type="radio" name="imgValue" value="img1" /></td>
+<td style="text-align:center"><input type="radio" name="imgValue" value="img2" /></td>
+</tr>
+<tr>
+<td style="text-align:center"><img src="{{media url="upload/home/img3.jpg"}}"></td>
+<td style="text-align:center"><img src="{{media url="upload/home/img4.jpg"}}"></td>
+</tr>
+<tr>
+<td style="text-align:center"><input type="radio" name="imgValue" value="img3" /></td>
+<td style="text-align:center"><input type="radio" name="imgValue" value="img4" /></td>
+</tr>
+</table>
+<br></br>
+Your Referral URL:<input type="text" id="userId" name="userId" >
+<input type="button" onclick="generate()" value="CREATE"/>
+<br></br>
+<textarea id="refferalUrl" name="refferalUrl" style="width:500px;height:150px;"></textarea>
+</div>

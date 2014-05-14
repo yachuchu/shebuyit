@@ -1,0 +1,1 @@
+({"descending":"Absteigend","sortingState":"${0} - ${1}","ascending":"Aufsteigend","nestedSort":"Verschachtelte Sortierung","unsorted":"Diese Spalte nicht sortieren","singleSort":"Einzelsortierung"})

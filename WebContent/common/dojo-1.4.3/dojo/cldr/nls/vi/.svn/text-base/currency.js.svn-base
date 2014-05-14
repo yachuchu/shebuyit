@@ -1,0 +1,1 @@
+({"EUR_displayName":"Euro","CHF_displayName":"Franc Thụy sĩ","HKD_displayName":"Đô-la Hồng Kông","GBP_displayName":"Bảng Anh","JPY_displayName":"Yên Nhật","CNY_displayName":"CNY","USD_displayName":"Đô-la Mỹ","CHF_symbol":"Fr.","JPY_symbol":"JP¥","HKD_symbol":"HK$","USD_symbol":"US$","CAD_symbol":"CA$","EUR_symbol":"€","CNY_symbol":"CN¥","GBP_symbol":"£","AUD_symbol":"AU$"})

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/form/manager"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_FormMixin.js"
+   text-time="2013-09-03T14:00:56.951691Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eabd7d52c9768d3692bb514ffb586efe"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:56.419660Z"/>
+<entry
+   committed-rev="11"
+   name="_ClassMixin.js"
+   text-time="2013-09-03T14:00:56.957691Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="993342d62802cba295abb35bce83a900"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:56.587670Z"/>
+<entry
+   committed-rev="11"
+   name="_DisplayMixin.js"
+   text-time="2013-09-03T14:00:56.961691Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="85e1e4336bd1d38d551eb2105e326541"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:56.593670Z"/>
+<entry
+   committed-rev="11"
+   name="_NodeMixin.js"
+   text-time="2013-09-03T14:00:56.967692Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ca6c703dfc3ef34acda661524e83d2f7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:56.928689Z"/>
+<entry
+   committed-rev="11"
+   name="_EnableMixin.js"
+   text-time="2013-09-03T14:00:56.976692Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="accef605a22812589a3212134f9d847f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:56.931690Z"/>
+<entry
+   committed-rev="11"
+   name="_ValueMixin.js"
+   text-time="2013-09-03T14:00:56.940690Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="948341ba425f011ae34f93f5ccca81a8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:56.124643Z"/>
+<entry
+   committed-rev="11"
+   name="_Mixin.js"
+   text-time="2013-09-03T14:00:56.945690Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="33f1bceb93f56059fdf74418c78a610d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:56.412660Z"/>
+</wc-entries>

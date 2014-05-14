@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/storage"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="AirEncryptedLocalStorageProvider.js"
+   text-time="2013-09-03T14:01:38.247053Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7ee6047cb207007e16eb01a9d997025f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:35.442892Z"/>
+<entry
+   committed-rev="11"
+   name="storage_dialog.swf"
+   text-time="2013-09-03T14:01:38.253053Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c92ae8014745806e9ed73ac353e49be6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:35.775911Z"/>
+<entry
+   committed-rev="11"
+   name="Storage.swf"
+   text-time="2013-09-03T14:01:38.257053Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b8a73bde8af026fd64f6d74b1e8cfc6b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:35.779912Z"/>
+<entry
+   committed-rev="11"
+   name="_common.js"
+   text-time="2013-09-03T14:01:38.262053Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="13a6492cfdc750d97312d0f2b11a1d38"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:35.783912Z"/>
+<entry
+   committed-rev="11"
+   name="storage_dialog.fla"
+   text-time="2013-09-03T14:01:38.270054Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ccf2713bfdf35248fe86e204b2d238d8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.191049Z"/>
+<entry
+   committed-rev="11"
+   name="Provider.js"
+   text-time="2013-09-03T14:01:38.275054Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0912914d6088066d143626dc06914b03"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.199050Z"/>
+<entry
+   committed-rev="11"
+   name="manager.js"
+   text-time="2013-09-03T14:01:38.281055Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="186ff53f9c5cf0cb337d24f623cc07c6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.204050Z"/>
+<entry
+   committed-rev="11"
+   name="AirFileStorageProvider.js"
+   text-time="2013-09-03T14:01:38.286055Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9edeb00bf36e98c1b3badfaefcc54514"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.208050Z"/>
+<entry
+   committed-rev="11"
+   name="Storage.as"
+   text-time="2013-09-03T14:01:38.291055Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0d27ab0c54acf102538bb063c6af67e7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.211051Z"/>
+<entry
+   committed-rev="11"
+   name="FlashStorageProvider.js"
+   text-time="2013-09-03T14:01:38.297055Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6b01e0e6dfaef881671a91f586f8becd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.215051Z"/>
+<entry
+   committed-rev="11"
+   name="buildFlashStorage.sh"
+   text-time="2013-09-03T14:01:38.222051Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ad9a2ae90c39295e3338cb7bf735f7f8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:35.138875Z"/>
+<entry
+   committed-rev="11"
+   name="AirDBStorageProvider.js"
+   text-time="2013-09-03T14:01:38.227051Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="54f92407000b83d1c5ffcf6e69daf6b4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:35.272883Z"/>
+<entry
+   committed-rev="11"
+   name="WhatWGStorageProvider.js"
+   text-time="2013-09-03T14:01:38.236052Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cb37fdc6bcdd5a6c3536a58204ff61f8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:35.297884Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:38.242052Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ee933ceeabf8779f5ad48697efd01555"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:35.330886Z"/>
+</wc-entries>

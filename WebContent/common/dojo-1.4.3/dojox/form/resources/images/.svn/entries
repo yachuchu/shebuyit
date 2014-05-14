@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/form/resources/images"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="soriaFolderSprite.gif"
+   text-time="2013-09-03T14:00:57.960748Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="50ea53ab3867e60d18c72d83b173d93a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.773738Z"/>
+<entry
+   committed-rev="11"
+   name="tundraFolderSprite.gif"
+   text-time="2013-09-03T14:00:57.966749Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a8ebe81f1763c06b4e12f2d697b83928"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.782738Z"/>
+<entry
+   committed-rev="11"
+   name="loading_wheel.gif"
+   text-time="2013-09-03T14:00:57.972749Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bf6afbf65298d8be350bd7d17feb2f3f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.940747Z"/>
+<entry
+   committed-rev="11"
+   name="rating_empty.gif"
+   text-time="2013-09-03T14:00:57.977749Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1eebdf967fa359d37bb97372c7266c9f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.944747Z"/>
+<entry
+   committed-rev="11"
+   name="nihiloFolderSprite.gif"
+   text-time="2013-09-03T14:00:57.984750Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1443d31863b2fdb2a1c0872764243a07"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.948748Z"/>
+<entry
+   committed-rev="11"
+   name="rating_full.gif"
+   text-time="2013-09-03T14:00:57.991750Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4ecc10fc59292c080ae21ebc8905a322"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.952748Z"/>
+</wc-entries>

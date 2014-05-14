@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/UpgradeBar"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="UpgradeBar.html"
+   text-time="2013-09-03T14:01:08.314341Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="685f6bd7cd0e31df8acb5f3e4161cb17"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:08.305340Z"/>
+<entry
+   committed-rev="11"
+   name="UpgradeBar.css"
+   text-time="2013-09-03T14:01:08.319341Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b5d499af001a54429aed28eaa990b4cf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:08.308340Z"/>
+</wc-entries>

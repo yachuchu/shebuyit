@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/kindeditor-4.0.1/themes/common"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="flash.gif"
+   text-time="2013-09-03T14:01:56.258083Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ad91c7d698631a05c26f920c3e28dfa1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:56.070072Z"/>
+<entry
+   committed-rev="11"
+   name="loading.gif"
+   text-time="2013-09-03T14:01:56.264083Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="394bafc3cc4dfb3a0ee48c1f54669539"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:56.074072Z"/>
+<entry
+   committed-rev="11"
+   name="rm.gif"
+   text-time="2013-09-03T14:01:56.269083Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7d80aaed95b7711387b0be1411abc8c3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:56.078072Z"/>
+<entry
+   committed-rev="11"
+   name="media.gif"
+   text-time="2013-09-03T14:01:56.273084Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6fe180acadeef4dad9e501c849d25094"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:56.240082Z"/>
+<entry
+   committed-rev="11"
+   name="blank.gif"
+   text-time="2013-09-03T14:01:56.247082Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="df3e567d6f16d040326c7a0ea29a4f41"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:56.062072Z"/>
+<entry
+   committed-rev="11"
+   name="anchor.gif"
+   text-time="2013-09-03T14:01:56.252082Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3f88c357d7731f82bd4a97f439247809"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:56.066072Z"/>
+</wc-entries>

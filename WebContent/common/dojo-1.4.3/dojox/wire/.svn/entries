@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/wire"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="TextAdapter.js"
+   text-time="2013-09-03T13:59:47.936743Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0cf42341fe21d1500983c573b811d4f5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:47.229703Z"/>
+<entry
+   committed-rev="11"
+   name="Wire.js"
+   text-time="2013-09-03T13:59:47.955744Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3bdebf85a95853258249ee2c221f8dfb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:47.392712Z"/>
+<entry
+   committed-rev="11"
+   name="XmlWire.js"
+   text-time="2013-09-03T13:59:47.961745Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="678849120ee8f139cdd05d6d8861e760"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:47.564722Z"/>
+<entry
+   committed-rev="11"
+   name="TableAdapter.js"
+   text-time="2013-09-03T13:59:47.966745Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0abd2bbcc317c28d3d6362ecf1e005aa"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:47.568722Z"/>
+<entry
+   committed-rev="11"
+   name="CompositeWire.js"
+   text-time="2013-09-03T13:59:47.972745Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3633a0b4c4f7819a4e31c56ddc395708"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:47.733732Z"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T13:59:47.976746Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="784d4e16134e0e04b0d2d4ad160ff671"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:47.897741Z"/>
+<entry
+   name="ml"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="DataWire.js"
+   text-time="2013-09-03T13:59:47.904741Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e7b983dabc4bc250d87a80240ead327e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:46.889683Z"/>
+<entry
+   committed-rev="11"
+   name="TreeAdapter.js"
+   text-time="2013-09-03T13:59:47.911742Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c7afd2b8f53a20dbc03cd0ddd784146b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:47.053693Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T13:59:47.919742Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="95eba283f54b4b2073f1b35dceb5818b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:47.058693Z"/>
+</wc-entries>

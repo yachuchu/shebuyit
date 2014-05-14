@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/cldr"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="LICENSE"
+   text-time="2013-09-03T13:58:00.085574Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="83f319a7861569b7a5075eb8a9354a86"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:00.065573Z"/>
+<entry
+   committed-rev="11"
+   name="supplemental.js"
+   text-time="2013-09-03T13:58:00.070574Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ec3bb4c24c78b4d78b82032e0b70631d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:39.590402Z"/>
+<entry
+   committed-rev="11"
+   name="monetary.js"
+   text-time="2013-09-03T13:58:00.075574Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4f340ffd4f4e29dc913d500c5cf5838f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:39.667407Z"/>
+<entry
+   name="nls"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T13:58:00.081574Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7469baf6326ab2a137bb3f71c52633c0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:00.061573Z"/>
+</wc-entries>

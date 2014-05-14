@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/_editor/nls"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="zh"
+   kind="dir"/>
+<entry
+   name="ca"
+   kind="dir"/>
+<entry
+   name="pt"
+   kind="dir"/>
+<entry
+   name="da"
+   kind="dir"/>
+<entry
+   name="tr"
+   kind="dir"/>
+<entry
+   name="ru"
+   kind="dir"/>
+<entry
+   name="sv"
+   kind="dir"/>
+<entry
+   name="de"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="LinkDialog.js"
+   text-time="2013-09-03T13:59:33.084894Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a976a213b3a7998866aece525b4a132d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:32.863881Z"/>
+<entry
+   name="ja"
+   kind="dir"/>
+<entry
+   name="he"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="FontChoice.js"
+   text-time="2013-09-03T13:59:33.091894Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3d60c2c01811108f127168e5ecca781c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:32.967887Z"/>
+<entry
+   name="fi"
+   kind="dir"/>
+<entry
+   name="nb"
+   kind="dir"/>
+<entry
+   name="el"
+   kind="dir"/>
+<entry
+   name="ar"
+   kind="dir"/>
+<entry
+   name="pt-pt"
+   kind="dir"/>
+<entry
+   name="cs"
+   kind="dir"/>
+<entry
+   name="fr"
+   kind="dir"/>
+<entry
+   name="es"
+   kind="dir"/>
+<entry
+   name="zh-tw"
+   kind="dir"/>
+<entry
+   name="nl"
+   kind="dir"/>
+<entry
+   name="ko"
+   kind="dir"/>
+<entry
+   name="th"
+   kind="dir"/>
+<entry
+   name="pl"
+   kind="dir"/>
+<entry
+   name="hu"
+   kind="dir"/>
+<entry
+   name="it"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="commands.js"
+   text-time="2013-09-03T13:59:33.077893Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="98329688465c15e1d4ee860de6efa481"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:31.818821Z"/>
+<entry
+   name="sk"
+   kind="dir"/>
+<entry
+   name="sl"
+   kind="dir"/>
+</wc-entries>

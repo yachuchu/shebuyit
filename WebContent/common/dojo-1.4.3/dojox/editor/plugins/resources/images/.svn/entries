@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/editor/plugins/resources/images"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="blockelems"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="uploadImageIcon.gif"
+   text-time="2013-09-03T14:01:34.011810Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e5429e2bba1f5f72c7bbef9fcb180fb8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:33.713793Z"/>
+<entry
+   committed-rev="11"
+   name="busy.gif"
+   text-time="2013-09-03T14:01:34.018811Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b65a36855de1aab3c0c92c168f11dfe8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:33.982809Z"/>
+<entry
+   committed-rev="11"
+   name="tableIcons.png"
+   text-time="2013-09-03T14:01:34.024811Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1e702c19c5aea4b79b687a1896bc5c4a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:33.991809Z"/>
+<entry
+   committed-rev="11"
+   name="cellpad.png"
+   text-time="2013-09-03T14:01:34.030811Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0b5b0564553d17075c023ddf853c3777"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:33.997810Z"/>
+<entry
+   committed-rev="11"
+   name="cellspace.png"
+   text-time="2013-09-03T14:01:34.005810Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="41c8e4acabd025d5fcd7f5187b664408"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:33.084757Z"/>
+</wc-entries>

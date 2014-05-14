@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/rpc"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="JsonRest.js"
+   text-time="2013-09-03T14:00:18.329482Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7c4de1bd96ce0afcbe5b661c8c160bec"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.121412Z"/>
+<entry
+   committed-rev="11"
+   name="ProxiedPath.js"
+   text-time="2013-09-03T14:00:18.341482Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="403bccd95df13166313755200a121ae4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.124413Z"/>
+<entry
+   name="SMDLibrary"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Rest.js"
+   text-time="2013-09-03T14:00:18.352483Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3d0de8f1d80aeca3d1a9fd8c1ee425b8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.292422Z"/>
+<entry
+   committed-rev="11"
+   name="Client.js"
+   text-time="2013-09-03T14:00:18.361483Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="04879b5e5063641dd7d89c18bce2a298"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.853454Z"/>
+<entry
+   committed-rev="11"
+   name="JsonRPC.js"
+   text-time="2013-09-03T14:00:18.370484Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2e7d40d89373007b1c39ad129394937a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.856455Z"/>
+<entry
+   committed-rev="11"
+   name="OfflineRest.js"
+   text-time="2013-09-03T14:00:18.379484Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6fed7fd84faa3093e5e43a8e14ae1ff5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.153472Z"/>
+<entry
+   committed-rev="11"
+   name="Service.js"
+   text-time="2013-09-03T14:00:18.385485Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="545a69caeb54ec397a06e507accc65d3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.158472Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:18.391485Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8e8fc059bb2077d891c7939685b9d0c7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.163472Z"/>
+<entry
+   committed-rev="11"
+   name="test.txt"
+   text-time="2013-09-03T14:00:18.397485Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="25a66cddc559b1014bfc715c40a67168"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:18.313481Z"/>
+</wc-entries>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/editor/plugins/resources/emoticons"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="emoticonOops.gif"
+   text-time="2013-09-03T14:01:32.984752Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d0dd024786b3c799fbeb7b5e2bccf4c7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.622731Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonAngry.gif"
+   text-time="2013-09-03T14:01:32.979751Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6cff23ef3396520e5747ff8221f7f2e7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.617731Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonHappy.gif"
+   text-time="2013-09-03T14:01:32.990752Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8c3ea2c3a3784e83dcd077f5ab9ce6bc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.627731Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonGoofy.gif"
+   text-time="2013-09-03T14:01:32.995752Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="aa5c80296e1e2c9ede753babcb317b85"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.633732Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonAngel.gif"
+   text-time="2013-09-03T14:01:32.999752Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2279fbf0c0a538e4d811cb67622b486e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.727737Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonFrown.gif"
+   text-time="2013-09-03T14:01:33.012753Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bee2a6eb117e30ac005489b3d7a15f9b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.737738Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonCrying.gif"
+   text-time="2013-09-03T14:01:33.004753Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c144d9cf5b88a90f578fc6b903e2bc16"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.732737Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonCool.gif"
+   text-time="2013-09-03T14:01:33.017754Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1074cd3772cce3124fd3d11aa40ed8ae"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.740738Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonLaughing.gif"
+   text-time="2013-09-03T14:01:33.022754Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ffb7e58586a570d328b200faf378ada5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.743738Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonGrin.gif"
+   text-time="2013-09-03T14:01:33.027754Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="465a667801e8f1bf0f011f7f4ccc0362"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.747738Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonYes.gif"
+   text-time="2013-09-03T14:01:33.033754Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cf6723b1e2bdfb180308d39529b1f01a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.899747Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonTongue.gif"
+   text-time="2013-09-03T14:01:33.040755Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1bd9258bb1e4fbafc37fa6fb4f52d069"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.932749Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonIdea.gif"
+   text-time="2013-09-03T14:01:33.046755Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="89715ef4189b64b11752c537748fb5b3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.936749Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonShy.gif"
+   text-time="2013-09-03T14:01:33.054756Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="406ed3875d9ca18265637d6497df2428"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.940749Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonWink.gif"
+   text-time="2013-09-03T14:01:32.947750Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f962137e8afebb9b11323d3d53a54832"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.586729Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonSmile.gif"
+   text-time="2013-09-03T14:01:32.952750Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8231e9a90d9c7094658dfb3c2cd3fac2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.593729Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonHalf.gif"
+   text-time="2013-09-03T14:01:32.958750Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5d86a46cb5b814208737e5e55f764d8e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.599730Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonNo.gif"
+   text-time="2013-09-03T14:01:32.975751Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1a2bd44321bd728fb23eff475dd735f8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.610730Z"/>
+<entry
+   committed-rev="11"
+   name="emoticonEyebrow.gif"
+   text-time="2013-09-03T14:01:32.967751Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="241c025185872b0ae8801d1277425b5b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:32.605730Z"/>
+</wc-entries>

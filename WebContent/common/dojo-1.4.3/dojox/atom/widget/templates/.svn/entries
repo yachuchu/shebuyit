@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/atom/widget/templates"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="FeedEntryEditor.html"
+   text-time="2013-09-03T14:00:49.508265Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0e1d65c5b47f0bb348c16ba2a182a4a8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:49.284252Z"/>
+<entry
+   committed-rev="11"
+   name="FeedViewerGrouping.html"
+   text-time="2013-09-03T14:00:49.515265Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="27278e8a5cf581895c1c91dec2b4d36d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:49.288252Z"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="FeedViewer.html"
+   text-time="2013-09-03T14:00:49.520266Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="baf56f0ced6d8044dcf443ef6d841aee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:49.291253Z"/>
+<entry
+   committed-rev="11"
+   name="FeedEntryViewer.html"
+   text-time="2013-09-03T14:00:49.525266Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="78d42ef083886be0803dc9234178a926"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:49.489264Z"/>
+<entry
+   committed-rev="11"
+   name="FeedViewerEntry.html"
+   text-time="2013-09-03T14:00:49.531266Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="74665b33dc930881cec2942de6ba6f21"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:49.492264Z"/>
+<entry
+   committed-rev="11"
+   name="EntryHeader.html"
+   text-time="2013-09-03T14:00:49.497264Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="99883d00b64b3f695f699083ebb2eaaf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:49.277252Z"/>
+<entry
+   committed-rev="11"
+   name="PeopleEditor.html"
+   text-time="2013-09-03T14:00:49.503265Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0a3db67e8f67b14fadeb12aeadf2f67c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:49.280252Z"/>
+</wc-entries>

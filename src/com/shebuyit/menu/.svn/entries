@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/menu"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="RoleXmlTool.java"
+   text-time="2013-09-03T13:43:24.848514Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c8ab6b78c6054153c2e8e825a93fbe55"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.626501Z"/>
+<entry
+   committed-rev="11"
+   name="RoleXmlToolUnused.java"
+   text-time="2013-09-03T13:43:24.855514Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5ea5aa76137bbd5af6761237e92d524a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.841513Z"/>
+</wc-entries>

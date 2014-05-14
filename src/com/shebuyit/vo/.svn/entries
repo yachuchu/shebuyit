@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/vo"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Product.java"
+   text-time="2013-09-03T13:43:25.402545Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c5a3172b75e69dd8b06f1943308397d3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.064526Z"/>
+<entry
+   committed-rev="11"
+   name="ProductMedia.java"
+   text-time="2013-09-03T13:43:25.408546Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e9457fb36d882d35f27f1f93da3a6405"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.068526Z"/>
+<entry
+   committed-rev="11"
+   name="ProductOptionRow.java"
+   text-time="2013-09-03T13:43:25.412546Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b3137c3c91cdc1910fdfb928504ea5d0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.177533Z"/>
+<entry
+   committed-rev="11"
+   name="BatchVO.java"
+   text-time="2013-09-03T13:43:25.417546Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="046f6ef5baee52404ecb6ce2005eebcd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.181533Z"/>
+<entry
+   committed-rev="11"
+   name="DojoGridVO.java"
+   text-time="2013-09-03T13:43:25.421547Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="44edb86e45d979b82a223f60c12da445"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.228536Z"/>
+<entry
+   committed-rev="11"
+   name="ValidationRuleVO.java"
+   text-time="2013-09-03T13:43:25.425547Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="be1873f4eddbdfa8f3206075233b3410"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.232536Z"/>
+<entry
+   committed-rev="11"
+   name="ProductOption.java"
+   text-time="2013-09-03T13:43:25.430547Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c3bdbf9be1e9ec08119a9c582fd5e731"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.234536Z"/>
+<entry
+   committed-rev="11"
+   name="UserPrivilegeVO.java"
+   text-time="2013-09-03T13:43:25.434547Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="515e89cb93ab7404f8a95b95b362933a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.340542Z"/>
+<entry
+   committed-rev="11"
+   name="ProductMediaAndOption.java"
+   text-time="2013-09-03T13:43:25.439548Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="50bdc4e4227d213298bf0f6dba311203"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:25.391545Z"/>
+<entry
+   committed-rev="11"
+   name="User.java"
+   text-time="2013-09-03T13:43:25.397545Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4427092651f322d97d139576e5865d77"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:24.895516Z"/>
+</wc-entries>

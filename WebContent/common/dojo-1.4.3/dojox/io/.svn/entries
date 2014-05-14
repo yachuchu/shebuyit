@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/io"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="xhrScriptPlugin.js"
+   text-time="2013-09-03T14:01:39.445121Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ff65c8140ae801516dba4108e4c86c44"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.195107Z"/>
+<entry
+   name="proxy"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="windowName.js"
+   text-time="2013-09-03T14:01:39.453122Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1ca6815ac48c12060b218769aba602c5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.262111Z"/>
+<entry
+   committed-rev="11"
+   name="xhrWindowNamePlugin.js"
+   text-time="2013-09-03T14:01:39.460122Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c2f3376391ac22ce33652a66b1515d19"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.266111Z"/>
+<entry
+   committed-rev="11"
+   name="httpParse.js"
+   text-time="2013-09-03T14:01:39.466122Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e2ca19ed2f243456b8476d5653d6c80f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.271111Z"/>
+<entry
+   committed-rev="11"
+   name="scriptFrame.js"
+   text-time="2013-09-03T14:01:39.483123Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="13d7e55f6b8ca3e2cf8c67e0c32f6155"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.275111Z"/>
+<entry
+   committed-rev="11"
+   name="OAuth.js"
+   text-time="2013-09-03T14:01:39.493124Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e081a8457a26cfd3b383565966e6890b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.278112Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:39.502124Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7dc7399a3d7aa0028523feda9320c836"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.281112Z"/>
+<entry
+   committed-rev="11"
+   name="xhrMultiPart.js"
+   text-time="2013-09-03T14:01:39.507125Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="75e4cd1120dab4ace24f060bd4f0545e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.432120Z"/>
+<entry
+   committed-rev="11"
+   name="xhrPlugins.js"
+   text-time="2013-09-03T14:01:39.515125Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8f9fb365733a1e9116065adf8029a786"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.437121Z"/>
+</wc-entries>

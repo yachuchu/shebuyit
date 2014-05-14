@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/flash"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="DojoExternalInterface.as"
+   text-time="2013-09-03T14:01:16.641817Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="60b78e6829b3a3d66dad694ee94eab29"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:16.281796Z"/>
+<entry
+   committed-rev="11"
+   name="ExpressInstall.as"
+   text-time="2013-09-03T14:01:16.646817Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="622f801ff476e6c36bb8c4a05305b61e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:16.286797Z"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T14:01:16.652818Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2afc34054c5b27b4fe4051d674d898d3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:16.630816Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:16.636817Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7d2dd3d111f953cf3105a08c8ad3fb63"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:16.212792Z"/>
+</wc-entries>

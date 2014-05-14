@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/themes/a11y"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="indeterminate_progress.gif"
+   text-time="2013-09-03T13:58:31.475370Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="906ab602736f1841e394408820904c3e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.457369Z"/>
+<entry
+   committed-rev="11"
+   name="colors3x4.png"
+   text-time="2013-09-03T13:58:31.481370Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6f81b520df0d98764e9689101028ff54"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.461369Z"/>
+<entry
+   committed-rev="11"
+   name="colors7x10.png"
+   text-time="2013-09-03T13:58:31.486371Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a5606392096aa3f5d046c5c60b718e26"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.465369Z"/>
+<entry
+   committed-rev="11"
+   name="README.txt"
+   text-time="2013-09-03T13:58:31.471370Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a789f751b383fd775f2c3508a9c35faa"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.454369Z"/>
+</wc-entries>

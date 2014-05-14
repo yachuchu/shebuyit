@@ -1,0 +1,1 @@
+({"descending":"降序","sortingState":"${0} - ${1}","ascending":"升序","nestedSort":"嵌套排序","unsorted":"请勿对此列排序","singleSort":"单一排序"})

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/rotator"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Wipe.js"
+   text-time="2013-09-03T14:01:11.878544Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e0697173e80f0a848487eefbc68cfb4b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:11.807540Z"/>
+<entry
+   committed-rev="11"
+   name="Pan.js"
+   text-time="2013-09-03T14:01:11.827542Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="43900828c7b14b9376a61c2f6040336f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:11.429519Z"/>
+<entry
+   committed-rev="11"
+   name="Fade.js"
+   text-time="2013-09-03T14:01:11.841542Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f9d1931162421a1614080514c18acc8f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:11.434519Z"/>
+<entry
+   committed-rev="11"
+   name="Slide.js"
+   text-time="2013-09-03T14:01:11.851543Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9a077f324bda0781700edddfda111c71"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:11.438519Z"/>
+<entry
+   committed-rev="11"
+   name="Controller.js"
+   text-time="2013-09-03T14:01:11.868544Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2456bd7aed2d819d373af118d90aae3c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:11.770538Z"/>
+</wc-entries>

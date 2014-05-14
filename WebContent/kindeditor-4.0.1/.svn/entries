@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/kindeditor-4.0.1"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="license.txt"
+   text-time="2013-09-03T14:01:56.332087Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0584ffec56b0fb98cb327af7f9e48f49"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.543413Z"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   name="asp"
+   kind="dir"/>
+<entry
+   name="themes"
+   kind="dir"/>
+<entry
+   name="php"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="kindeditor.js"
+   text-time="2013-09-03T14:01:56.320086Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5b0055886d205a437fba9440d5b28cd0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:41.501239Z"/>
+<entry
+   name="asp.net"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="kindeditor-min.js"
+   text-time="2013-09-03T14:01:56.326087Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7e6e279c2c2c24d4f7f4dfbe3751f26e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:42.712308Z"/>
+<entry
+   name="jsp"
+   kind="dir"/>
+<entry
+   name="attached"
+   kind="dir"/>
+<entry
+   name="examples"
+   kind="dir"/>
+</wc-entries>

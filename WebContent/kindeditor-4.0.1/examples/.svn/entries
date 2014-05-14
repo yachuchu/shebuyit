@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/kindeditor-4.0.1/examples"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="colorpicker.html"
+   text-time="2013-09-03T14:01:44.421406Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="75976c7a1508b56a4424d476cda4fcc1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.146390Z"/>
+<entry
+   committed-rev="11"
+   name="readonly.html"
+   text-time="2013-09-03T14:01:44.429406Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4d925f18040d3fd6804e4d570f3d44e1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.150390Z"/>
+<entry
+   committed-rev="11"
+   name="image-dialog.html"
+   text-time="2013-09-03T14:01:44.435407Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="23a00f73f36bb3817720e39748838c85"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.153390Z"/>
+<entry
+   committed-rev="11"
+   name="uploadbutton.html"
+   text-time="2013-09-03T14:01:44.443407Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="72b9dca088c7b0e2698ecd4999abc60d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.157391Z"/>
+<entry
+   committed-rev="11"
+   name="url-type.html"
+   text-time="2013-09-03T14:01:44.448407Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d28628062c3138395c41aa39a6ac589b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.161391Z"/>
+<entry
+   committed-rev="11"
+   name="total.html"
+   text-time="2013-09-03T14:01:44.452408Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="537f5518a7a8375ff395f0931625442a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.210394Z"/>
+<entry
+   committed-rev="11"
+   name="default.html"
+   text-time="2013-09-03T14:01:44.458408Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3e81575392c4ddf4ce93ebe37ad8682a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.213394Z"/>
+<entry
+   committed-rev="11"
+   name="node.html"
+   text-time="2013-09-03T14:01:44.462408Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7f4888b351ddb34b10e8fb2440746bcf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.216394Z"/>
+<entry
+   committed-rev="11"
+   name="file-manager.html"
+   text-time="2013-09-03T14:01:44.468408Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="617870143b011d1fc29a535f15062b4d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.220394Z"/>
+<entry
+   committed-rev="11"
+   name="simple.html"
+   text-time="2013-09-03T14:01:44.472409Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c694004bbef54296de106cb7c433482f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.224395Z"/>
+<entry
+   committed-rev="11"
+   name="index.css"
+   text-time="2013-09-03T14:01:44.478409Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5ef7f191bd84c8b3af38304b3ec46ea4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.227395Z"/>
+<entry
+   committed-rev="11"
+   name="dialog.html"
+   text-time="2013-09-03T14:01:44.484409Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="93d7d99c33c9c5c49d866291b3d085e6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.230395Z"/>
+<entry
+   committed-rev="11"
+   name="newline.html"
+   text-time="2013-09-03T14:01:44.489410Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b0b82cff0c831cce31dbcbc47fb31bd1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.365403Z"/>
+<entry
+   committed-rev="11"
+   name="dynamic-load.html"
+   text-time="2013-09-03T14:01:44.493410Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9d841f71690625ad5b68c7ba65376e14"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.369403Z"/>
+<entry
+   committed-rev="11"
+   name="word-count.html"
+   text-time="2013-09-03T14:01:44.499410Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d98925ddfd07812efbc05822cb2d4b8a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.373403Z"/>
+<entry
+   committed-rev="11"
+   name="custom-plugin.html"
+   text-time="2013-09-03T14:01:44.507411Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="aa9e684cec2678b9e7b22d1a69cb4688"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.388404Z"/>
+<entry
+   committed-rev="11"
+   name="filter-mode.html"
+   text-time="2013-09-03T14:01:44.513411Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a75d1874ed5e0b3c2e945fa5e1a975e9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.397404Z"/>
+<entry
+   committed-rev="11"
+   name="index.html"
+   text-time="2013-09-03T14:01:44.518411Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ffa1d81d3269a5777868cdf612fcbb88"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.402405Z"/>
+<entry
+   committed-rev="11"
+   name="custom-theme.html"
+   text-time="2013-09-03T14:01:44.409405Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a34167356c5a11fb8d19881d7786c2f5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.137390Z"/>
+<entry
+   committed-rev="11"
+   name="multi-language.html"
+   text-time="2013-09-03T14:01:44.413405Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cb5a93ed22c232ea3d5f93bf1270ff5e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:44.142390Z"/>
+</wc-entries>

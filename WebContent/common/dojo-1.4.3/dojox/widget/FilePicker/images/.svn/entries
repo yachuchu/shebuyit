@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/FilePicker/images"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="nihiloFileIcons.gif"
+   text-time="2013-09-03T14:01:13.474636Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f9c9495d68377d4dad58895fa3e145a5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.454635Z"/>
+<entry
+   committed-rev="11"
+   name="soriaFileIcons.gif"
+   text-time="2013-09-03T14:01:13.463635Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0dd2fdcf76caa4eaf69a93a78490c5d9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.447634Z"/>
+<entry
+   committed-rev="11"
+   name="tundraFileIcons.gif"
+   text-time="2013-09-03T14:01:13.467635Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8bff3b133ed98fbaafec502cacd39172"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.450634Z"/>
+</wc-entries>

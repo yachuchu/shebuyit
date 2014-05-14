@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/mysvn/CSV"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="1001--Product-2013-02-19-04-03.csv"
+   text-time="2013-09-03T13:47:59.787239Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c1a604dd97cf8481f696aa078ae56bbb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:45:24.785374Z"/>
+<entry
+   committed-rev="11"
+   name="1002--Product-2013-01-24-12-29.csv"
+   text-time="2013-09-03T13:47:59.834242Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="74144bc4c4645e8a61884562a18aab5a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:46:13.760175Z"/>
+<entry
+   committed-rev="11"
+   name="1002--Product.csv"
+   text-time="2013-09-03T13:47:59.883245Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="29220d719b128a7a9ce261317b26ad7e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:46:54.500505Z"/>
+<entry
+   committed-rev="11"
+   name="1001--Product-2013-01-24-11-23.csv"
+   text-time="2013-09-03T13:48:00.040254Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b85b68e63b2e2c5927596f98cde076c3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:47:51.911789Z"/>
+<entry
+   committed-rev="11"
+   name="1102--Product-2013-02-20-03-53.csv"
+   text-time="2013-09-03T13:48:00.091257Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eb745a08929f13cdfeddecd9e9add484"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:47:59.707235Z"/>
+</wc-entries>

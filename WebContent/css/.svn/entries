@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/css"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="custom.css"
+   text-time="2013-09-03T14:01:40.666191Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="550e586e14f916eba64e5ad3866fd672"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:40.477180Z"/>
+<entry
+   committed-rev="11"
+   name="jquery-ui-1.8.23.custom.css"
+   text-time="2013-09-03T14:01:40.671191Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2e788cac7c1931f5c85be9df005d3289"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:40.640190Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="style.css"
+   text-time="2013-09-03T14:01:40.648190Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8e07f9b2cca99e4d2b048fc7684d32d2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:40.293170Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.ui.all.css"
+   text-time="2013-09-03T14:01:40.653190Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e4530c1d90c27da948692a8d606eb872"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:40.297170Z"/>
+<entry
+   committed-rev="11"
+   name="demos.css"
+   text-time="2013-09-03T14:01:40.660191Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2e2ec04700af4ac5681a956cfe405c47"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:40.463179Z"/>
+</wc-entries>

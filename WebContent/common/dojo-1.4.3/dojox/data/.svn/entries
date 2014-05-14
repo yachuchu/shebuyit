@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/data"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="OpenSearchStore.js"
+   text-time="2013-09-03T14:00:01.981547Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0252607862a7b9c6bc5ce3d21824db0b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:53.741075Z"/>
+<entry
+   committed-rev="11"
+   name="CsvStore.js"
+   text-time="2013-09-03T14:00:01.986547Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2cfe72ae3acc2cc6cf3db22bb5bbc8d4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:54.421114Z"/>
+<entry
+   committed-rev="11"
+   name="CdfStore.js"
+   text-time="2013-09-03T14:00:01.991547Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9f5c82a329cf1f302559ca6618945810"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:54.762134Z"/>
+<entry
+   name="s3"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="AndOrReadStore.js"
+   text-time="2013-09-03T14:00:01.996547Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cdc4765dc8d4bf52264e26bbae0c2c85"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:55.552179Z"/>
+<entry
+   committed-rev="11"
+   name="XmlStore.js"
+   text-time="2013-09-03T14:00:02.018549Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b386464f400b54b670997b0b88059347"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:57.398284Z"/>
+<entry
+   committed-rev="11"
+   name="ServiceStore.js"
+   text-time="2013-09-03T14:00:02.013548Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4801a3608746eae7e92478144a2bad76"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:56.040207Z"/>
+<entry
+   committed-rev="11"
+   name="StoreExplorer.js"
+   text-time="2013-09-03T14:00:02.007548Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7d8bbc6753067dffd1258d9f260d6307"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:55.871197Z"/>
+<entry
+   committed-rev="11"
+   name="PicasaStore.js"
+   text-time="2013-09-03T14:00:02.002548Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cf46ba2554a47e939834ebc8176050de"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:55.710188Z"/>
+<entry
+   committed-rev="11"
+   name="QueryReadStore.js"
+   text-time="2013-09-03T14:00:02.023549Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eb68ffae7af5bfb9f9a0fd5e025d0dd2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:57.732304Z"/>
+<entry
+   committed-rev="11"
+   name="ItemExplorer.js"
+   text-time="2013-09-03T14:00:02.033550Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d9a8e35da8e77ddc2f5219fa77141ad5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:58.733361Z"/>
+<entry
+   committed-rev="11"
+   name="GoogleSearchStore.js"
+   text-time="2013-09-03T14:00:02.028549Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1d0528d8970004bf1233dd8e1847ebf1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:58.245333Z"/>
+<entry
+   committed-rev="11"
+   name="restListener.js"
+   text-time="2013-09-03T14:00:02.043550Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="99f615fde20aef9913b6ca8e785236b0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:58.800365Z"/>
+<entry
+   committed-rev="11"
+   name="WikipediaStore.js"
+   text-time="2013-09-03T14:00:02.037550Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c3a19344272eea9848071a8d7a9ff7b0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:58.741361Z"/>
+<entry
+   committed-rev="11"
+   name="OpmlStore.js"
+   text-time="2013-09-03T14:00:02.053551Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a958e0c4d0ca6b3c9d2c137e642342bd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:59.412400Z"/>
+<entry
+   committed-rev="11"
+   name="ClientFilter.js"
+   text-time="2013-09-03T14:00:02.048550Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7dc1a89f68502d42b2da21b09ed7a10e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:59.061380Z"/>
+<entry
+   committed-rev="11"
+   name="FlickrRestStore.js"
+   text-time="2013-09-03T14:00:02.058551Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="274a82e0aef609ca02fbd6336f5eaae7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:59.922429Z"/>
+<entry
+   committed-rev="11"
+   name="RailsStore.js"
+   text-time="2013-09-03T14:00:02.063551Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d3c7ff697e65418f8ba594a418b33d54"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:59.925429Z"/>
+<entry
+   committed-rev="11"
+   name="FlickrStore.js"
+   text-time="2013-09-03T14:00:02.068552Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dea08b3a7e61204b6dba4f31de2c8c3d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:00.104439Z"/>
+<entry
+   committed-rev="11"
+   name="css.js"
+   text-time="2013-09-03T14:00:02.073552Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f5d35232299e86896798d39b7ec71702"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:00.252448Z"/>
+<entry
+   committed-rev="11"
+   name="HtmlTableStore.js"
+   text-time="2013-09-03T14:00:02.078552Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f4d3c88c67a72b42419c1e8cb908c7f5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:00.418457Z"/>
+<entry
+   committed-rev="11"
+   name="CssRuleStore.js"
+   text-time="2013-09-03T14:00:02.086553Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b8186c4b133ef71424678e7dcb17356d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:00.729475Z"/>
+<entry
+   committed-rev="11"
+   name="AppStore.js"
+   text-time="2013-09-03T14:00:02.091553Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9d79ebeaf370a341d64681e9305b9dba"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:01.225503Z"/>
+<entry
+   committed-rev="11"
+   name="S3Store.js"
+   text-time="2013-09-03T14:00:02.096553Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="201d830ce7b4d1339fac882798f5617e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:01.236504Z"/>
+<entry
+   committed-rev="11"
+   name="KeyValueStore.js"
+   text-time="2013-09-03T14:00:02.100553Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e3f5aa067c60fbcd790332d12ef6c463"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:01.564523Z"/>
+<entry
+   committed-rev="11"
+   name="AtomReadStore.js"
+   text-time="2013-09-03T14:00:02.105554Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2d0eab4b1d21f6282193f82e9e3859f6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:01.910542Z"/>
+<entry
+   committed-rev="11"
+   name="JsonQueryRestStore.js"
+   text-time="2013-09-03T14:00:01.918543Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="076cae221f1e9685b5190bf2426beaaf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.658899Z"/>
+<entry
+   committed-rev="11"
+   name="PersevereStore.js"
+   text-time="2013-09-03T14:00:01.924543Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2df3a71e9b53c8f3c49ef3912f462bfc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.663899Z"/>
+<entry
+   committed-rev="11"
+   name="GoogleFeedStore.js"
+   text-time="2013-09-03T14:00:01.932544Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="93c63c31e411b2b0816a7b9d102abdb6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.669900Z"/>
+<entry
+   committed-rev="11"
+   name="dom.js"
+   text-time="2013-09-03T14:00:01.937544Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e29825979c99707d7c23edf2e118d1f8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.842909Z"/>
+<entry
+   committed-rev="11"
+   name="HtmlStore.js"
+   text-time="2013-09-03T14:00:01.942544Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6404eabac10eaecdd9087a80b44651e2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:51.182929Z"/>
+<entry
+   committed-rev="11"
+   name="CouchDBRestStore.js"
+   text-time="2013-09-03T14:00:01.947545Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="559cac7f97c0eb1cc7295fe125ed6a56"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:51.348938Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:01.951545Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2b147817030167418c0b988d433ec657"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:51.353939Z"/>
+<entry
+   committed-rev="11"
+   name="JsonRestStore.js"
+   text-time="2013-09-03T14:00:01.956545Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="86b77d70f2aa4d425e5d372f4c91f2e6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:52.168985Z"/>
+<entry
+   committed-rev="11"
+   name="CssClassStore.js"
+   text-time="2013-09-03T14:00:01.961545Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bcaf29dadc28676aa3a14bc91b3f74dc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:52.172986Z"/>
+<entry
+   committed-rev="11"
+   name="AndOrWriteStore.js"
+   text-time="2013-09-03T14:00:01.966546Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d1806f9c85723a92575d06122b2ed1d1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:53.054036Z"/>
+<entry
+   committed-rev="11"
+   name="FileStore.js"
+   text-time="2013-09-03T14:00:01.971546Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3a25d0890ad9ae098d356a7c3ef8a87f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:53.213045Z"/>
+<entry
+   committed-rev="11"
+   name="SnapLogicStore.js"
+   text-time="2013-09-03T14:00:01.975546Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5ec3422671cf1f46dfe191d2d65b5b29"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:53.380055Z"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

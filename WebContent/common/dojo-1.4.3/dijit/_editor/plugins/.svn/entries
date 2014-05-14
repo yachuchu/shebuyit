@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/_editor/plugins"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="AlwaysShowToolbar.js"
+   text-time="2013-09-03T13:59:37.397140Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1807b9f99194f53c2e6003c24fb71e5a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:37.170127Z"/>
+<entry
+   committed-rev="11"
+   name="NewPage.js"
+   text-time="2013-09-03T13:59:37.402141Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b8b707ff2f60f7d8c01575183c2bac15"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:37.332137Z"/>
+<entry
+   committed-rev="11"
+   name="TabIndent.js"
+   text-time="2013-09-03T13:59:37.340137Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="84867f301c8282af2d76ab09a629a3d8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:33.523919Z"/>
+<entry
+   committed-rev="11"
+   name="EnterKeyHandling.js"
+   text-time="2013-09-03T13:59:37.346137Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a4595d3ea7dcfdd898c080e933b2276c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:33.859938Z"/>
+<entry
+   committed-rev="11"
+   name="ViewSource.js"
+   text-time="2013-09-03T13:59:37.353138Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ce15d55dfd5a49654dd987f0764c550d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:34.357967Z"/>
+<entry
+   committed-rev="11"
+   name="Print.js"
+   text-time="2013-09-03T13:59:37.360138Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fd853451a432b00ca3788dda88a6b786"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:34.524976Z"/>
+<entry
+   committed-rev="11"
+   name="LinkDialog.js"
+   text-time="2013-09-03T13:59:37.367139Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="641b8100e80716f1a84ca5919bb74934"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:35.035005Z"/>
+<entry
+   committed-rev="11"
+   name="ToggleDir.js"
+   text-time="2013-09-03T13:59:37.372139Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7163ce0c678e6b6d156ff3ad6318973f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:35.041006Z"/>
+<entry
+   committed-rev="11"
+   name="FontChoice.js"
+   text-time="2013-09-03T13:59:37.378139Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b8d57089623ebf36ac54480c61950103"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:35.830051Z"/>
+<entry
+   committed-rev="11"
+   name="FullScreen.js"
+   text-time="2013-09-03T13:59:37.384140Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fa2c015fe29f5555b82e5ae308923be2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:36.841109Z"/>
+<entry
+   committed-rev="11"
+   name="TextColor.js"
+   text-time="2013-09-03T13:59:37.389140Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8a912437730079fd3745b5914321a98d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:36.845109Z"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/kindeditor-4.0.1/plugins/image/images"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="align_top.gif"
+   text-time="2013-09-03T14:01:45.418463Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="377c2c21feb98aa16c52753fef62f8be"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:45.400462Z"/>
+<entry
+   committed-rev="11"
+   name="refresh.gif"
+   text-time="2013-09-03T14:01:45.425463Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ce1ec2c40c69b0a2dd17a209d9ec00f2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:45.404462Z"/>
+<entry
+   committed-rev="11"
+   name="align_left.gif"
+   text-time="2013-09-03T14:01:45.430463Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4bad01be84e66e67efb72147e10a600b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:45.407462Z"/>
+<entry
+   committed-rev="11"
+   name="align_right.gif"
+   text-time="2013-09-03T14:01:45.413463Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8a356ffe0fbcf0e54df0a8e868203b19"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:45.396462Z"/>
+</wc-entries>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/js"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="invisible.js"
+   text-time="2013-09-03T14:01:39.830143Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8673663936081475cf4b6d75fceba2ce"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.784141Z"/>
+<entry
+   committed-rev="11"
+   name="common.js"
+   text-time="2013-09-03T14:01:39.792141Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5eabb51627a9b1ec2b353c8271fefd50"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.753139Z"/>
+<entry
+   committed-rev="11"
+   name="pageInfo.js"
+   text-time="2013-09-03T14:01:39.797141Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e6dbab8ae1fa4777053d0ff3f8a89467"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.756139Z"/>
+<entry
+   committed-rev="11"
+   name="layout.js"
+   text-time="2013-09-03T14:01:39.804142Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="efbf61605284e918ee9262f5fe53ca63"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.760139Z"/>
+<entry
+   committed-rev="11"
+   name="deployJava.js"
+   text-time="2013-09-03T14:01:39.810142Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5b737079c647f77b4d0989d63635b37c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.764139Z"/>
+<entry
+   committed-rev="11"
+   name="layout_2.js"
+   text-time="2013-09-03T14:01:39.814142Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1fceca70c53c91691a47dd118bd8ceee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.770140Z"/>
+<entry
+   committed-rev="11"
+   name="utils.js"
+   text-time="2013-09-03T14:01:39.819143Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="012bc1e3b59ac5e5f12418eb339f78cb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.773140Z"/>
+<entry
+   committed-rev="11"
+   name="xsltransform.js"
+   text-time="2013-09-03T14:01:39.825143Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="62002ad7daa35d37430d34d70935b622"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.779140Z"/>
+</wc-entries>

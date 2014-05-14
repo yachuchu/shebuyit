@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/cldr/nls/en-za"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="number.js"
+   text-time="2013-09-03T13:57:47.848875Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4f2409419edb99d53794734e03750f0c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:47.837874Z"/>
+<entry
+   committed-rev="11"
+   name="gregorian.js"
+   text-time="2013-09-03T13:57:47.843874Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4e6e2f896d496c433156358a74aa3118"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:47.834874Z"/>
+</wc-entries>

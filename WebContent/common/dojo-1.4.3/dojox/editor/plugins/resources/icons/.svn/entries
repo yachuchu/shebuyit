@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/editor/plugins/resources/icons"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="showBlockNodesDisabled.gif"
+   text-time="2013-09-03T14:01:34.495838Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="97b432f1e5b82f1da8ecd6c3cc6aa9ee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.317828Z"/>
+<entry
+   committed-rev="11"
+   name="findReplace.gif"
+   text-time="2013-09-03T14:01:34.515839Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c6fb2cc6a62cc0e2341461875b7f5765"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.353830Z"/>
+<entry
+   committed-rev="11"
+   name="replaceIconDisabled.gif"
+   text-time="2013-09-03T14:01:34.531840Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="11bdf0ca8684e952dac31c9ed03d3327"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.361830Z"/>
+<entry
+   committed-rev="11"
+   name="preview.gif"
+   text-time="2013-09-03T14:01:34.411833Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1fae4e36061dda035008c5a3346403de"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.270825Z"/>
+<entry
+   committed-rev="11"
+   name="pageBreak.gif"
+   text-time="2013-09-03T14:01:34.379831Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b68f762d6298fa15279bf070e66b547b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.245824Z"/>
+<entry
+   committed-rev="11"
+   name="findIconDisabled.gif"
+   text-time="2013-09-03T14:01:34.374831Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cc240fb86deb9f41fc1f2025861f77ae"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.241824Z"/>
+<entry
+   committed-rev="11"
+   name="showBlockNodes.gif"
+   text-time="2013-09-03T14:01:34.437835Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0893be9201010d02d35e1d33f82257fb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.278826Z"/>
+<entry
+   committed-rev="11"
+   name="replaceIcon.gif"
+   text-time="2013-09-03T14:01:34.433835Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="52c50fda9c43adeb6eada87f4215ac4f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.275825Z"/>
+<entry
+   committed-rev="11"
+   name="saveDisabled.gif"
+   text-time="2013-09-03T14:01:34.444835Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="affb9bb5f6e4f06ebdbb557c2adfee74"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.281826Z"/>
+<entry
+   committed-rev="11"
+   name="insertEntityDisabled.gif"
+   text-time="2013-09-03T14:01:34.454836Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0281a286392276caea5969e17e3af5ba"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.288826Z"/>
+<entry
+   committed-rev="11"
+   name="findIcon.gif"
+   text-time="2013-09-03T14:01:34.449835Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4ca9efc955b7cd54a3bb1f775012d96b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.285826Z"/>
+<entry
+   committed-rev="11"
+   name="save.gif"
+   text-time="2013-09-03T14:01:34.463836Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="41c5740a0c4cc831ec01ac7f4edfb0ee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.295827Z"/>
+<entry
+   committed-rev="11"
+   name="breadcrumbDown.gif"
+   text-time="2013-09-03T14:01:34.458836Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d75ec02a3e484c53e30ad3486bac53ca"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.291826Z"/>
+<entry
+   committed-rev="11"
+   name="insertEntity.gif"
+   text-time="2013-09-03T14:01:34.467836Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9e4bdaeaadeeaf11836027330d5df8a4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.299827Z"/>
+<entry
+   committed-rev="11"
+   name="smiley.gif"
+   text-time="2013-09-03T14:01:34.471837Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8231e9a90d9c7094658dfb3c2cd3fac2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.302827Z"/>
+<entry
+   committed-rev="11"
+   name="findReplaceDisabled.gif"
+   text-time="2013-09-03T14:01:34.476837Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="650568841bddb145289acf2ae0540faa"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.306827Z"/>
+<entry
+   committed-rev="11"
+   name="previewDisabled.gif"
+   text-time="2013-09-03T14:01:34.487838Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5648b764d2ba25e6d48b9fd5fa74db76"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.313828Z"/>
+<entry
+   committed-rev="11"
+   name="pageBreakDisabled.gif"
+   text-time="2013-09-03T14:01:34.481837Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="de6c9c12504ef80709d6cdd7473b4b6f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:34.310827Z"/>
+</wc-entries>

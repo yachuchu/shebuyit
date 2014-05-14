@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/wdsoppmstyle"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="common.css"
+   text-time="2013-09-03T13:57:32.228981Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="62716323b21cdf84020c3d4c6efb5c65"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:31.334930Z"/>
+<entry
+   committed-rev="11"
+   name="common2.css"
+   text-time="2013-09-03T13:57:32.233981Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0b4583d74c26049ff2179d1cf26a0e86"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:31.337930Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="basic.css"
+   text-time="2013-09-03T13:57:32.241982Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="454909f96fa02938bd7e8adef3a57d84"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:32.219981Z"/>
+<entry
+   committed-rev="11"
+   name="scatax_theme.css"
+   text-time="2013-09-03T13:57:32.246982Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a53c32c87993c5e4710dd4a7fb5100a7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:32.223981Z"/>
+</wc-entries>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/cometd"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="RestChannels.js"
+   text-time="2013-09-03T13:59:40.518319Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8912d61ccf2ff75d870eec098d408585"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.083294Z"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T13:59:40.522319Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="15a7a6682b9b8ceaa2f296fe9f0c3014"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.329308Z"/>
+<entry
+   committed-rev="11"
+   name="longPollTransportFormEncoded.js"
+   text-time="2013-09-03T13:59:40.529320Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bd4a90fa308bb28d9e6f9de0f6302150"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.336309Z"/>
+<entry
+   committed-rev="11"
+   name="HttpChannels.js"
+   text-time="2013-09-03T13:59:40.534320Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d66047f5c53898bde48b171f03e9ffab"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.344309Z"/>
+<entry
+   committed-rev="11"
+   name="timesync.js"
+   text-time="2013-09-03T13:59:40.539320Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b0fdb0546419fe74906424bbebe4585a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.484317Z"/>
+<entry
+   committed-rev="11"
+   name="ack.js"
+   text-time="2013-09-03T13:59:40.544320Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9d7b9b0d9a2b648a937949d8e816c273"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.489317Z"/>
+<entry
+   committed-rev="11"
+   name="longPollTransportJsonEncoded.js"
+   text-time="2013-09-03T13:59:40.548321Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="66b5e4ecf150d56c9cec0ceb1ec2ec6c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.493317Z"/>
+<entry
+   committed-rev="11"
+   name="callbackPollTransport.js"
+   text-time="2013-09-03T13:59:40.553321Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d7f259eb3f970ba737752d6596b1440b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.498318Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T13:59:40.557321Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eb1478ba09134d0629988ae943b16aea"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.503318Z"/>
+<entry
+   committed-rev="11"
+   name="longPollTransport.js"
+   text-time="2013-09-03T13:59:40.562321Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e6c0c1792162decbcff81eace39e9a7c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.507318Z"/>
+<entry
+   committed-rev="11"
+   name="timestamp.js"
+   text-time="2013-09-03T13:59:40.566322Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="de051ade03ae42a1b45f06e145be0096"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:40.512319Z"/>
+</wc-entries>

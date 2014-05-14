@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/grid/resources"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="nihiloGrid.css"
+   text-time="2013-09-03T14:00:42.055839Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="38e8bf4cbbe296b90bba67158d327629"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.811825Z"/>
+<entry
+   committed-rev="11"
+   name="Expando.html"
+   text-time="2013-09-03T14:00:42.060839Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4958ca56ae58eae1fe3d76e5f26dfa8b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.814825Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_Grid.html"
+   text-time="2013-09-03T14:00:42.064839Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0634ea20cd2206a30bf173c4958cd7db"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:42.015836Z"/>
+<entry
+   committed-rev="11"
+   name="soriaGrid.css"
+   text-time="2013-09-03T14:00:42.068839Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="864545f4af8d40ad366e6eb108e50941"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:42.019837Z"/>
+<entry
+   committed-rev="11"
+   name="tundraGrid.css"
+   text-time="2013-09-03T14:00:42.074840Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d03e3abba9a74d4ee477e7dec142fe5f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:42.024837Z"/>
+<entry
+   committed-rev="11"
+   name="Grid.css"
+   text-time="2013-09-03T14:00:42.032837Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="16fc497645c33b1e9a25dfcd2b5078c1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.643815Z"/>
+<entry
+   committed-rev="11"
+   name="Grid_rtl.css"
+   text-time="2013-09-03T14:00:42.037838Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="83ccbb06a8bb84425446faececab0250"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.798824Z"/>
+<entry
+   committed-rev="11"
+   name="View.html"
+   text-time="2013-09-03T14:00:42.048838Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="27fefe98fb21aa5cf29b95a1a7a4e9d0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.801824Z"/>
+</wc-entries>

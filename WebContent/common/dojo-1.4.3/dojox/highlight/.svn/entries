@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/highlight"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T13:59:50.638898Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d7302a658956f1524a4481ee6f2b3156"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:48.217759Z"/>
+<entry
+   name="languages"
+   kind="dir"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T13:59:50.631897Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3f2ab0d4ceb804ad2134724dbfa31ef3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:48.001747Z"/>
+</wc-entries>

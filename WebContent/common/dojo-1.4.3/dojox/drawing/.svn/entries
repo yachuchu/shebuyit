@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="tools"
+   kind="dir"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   name="stencil"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="defaults.js"
+   text-time="2013-09-03T14:00:48.683218Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cd1de8ac6599c77acaaec9d40e9d51ec"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:48.645216Z"/>
+<entry
+   name="library"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T14:00:48.653216Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c3b34089cb12dd01c4f02ceb48c207b1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.745050Z"/>
+<entry
+   committed-rev="11"
+   name="Drawing.js"
+   text-time="2013-09-03T14:00:48.659216Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="870e660d0237c9c149c9d9ef838bcf77"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.854056Z"/>
+<entry
+   name="manager"
+   kind="dir"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   name="annotations"
+   kind="dir"/>
+<entry
+   name="ui"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:48.673217Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="52f5d2ba983cc367cba2506222ba8332"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.386086Z"/>
+</wc-entries>

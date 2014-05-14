@@ -1,0 +1,30 @@
+<div style="float: left;width:928px">
+<ul class="blocklist">
+<li class="level1 nav-1-1 first parent"><a href="{{store url=bottoms/pants.html}}"> <span>Pants</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-1 first"><a href="{{store url=bottoms}}pants.html?sb_types=924"> <span>Leggings</span> </a></li>
+<li class="level2 nav-1-1-2"><a href="{{store url=bottoms}}pants.html?sb_types=925"> <span>Shorts</span> </a></li>
+<li class="level2 nav-1-1-3"><a href="{{store url=bottoms}}pants.html?sb_types=927"> <span>Jeans</span> </a></li>
+<li class="level2 nav-1-1-4"><a href="{{store url=bottoms}}pants.html?sb_types=879"> <span>Casual Pants</span> </a></li>
+<li class="level2 nav-1-1-5"><a href="{{store url=bottoms}}pants.html?sb_tyle=878"> <span>Vintage Pants</span> </a></li>
+<li class="level2 nav-1-1-6"><a href="{{store url=bottoms}}pants.html?sb_tyle=881"> <span>Fashion Pants</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-2 last parent"><a href="{{store url=bottoms/skirts.html}}"> <span>Skirts</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-2-1 first"><a href="{{store url=bottoms}}skirts.html?sb_style=878"> <span>Vintage Skirts</span> </a></li>
+<li class="level2 nav-1-2-2"><a href="{{store url=bottoms}}skirts.html?sb_style=881"> <span>Fashion Skirts</span> </a></li>
+<li class="level2 nav-1-2-3"><a href="{{store url=bottoms}}skirts.html?sb_style=887"> <span>Street Skirts</span> </a></li>
+<li class="level2 nav-1-2-4"><a href="{{store url=bottoms}}skirts.html?sb_dresses_length=751"> <span>Maxi Skirts</span> </a></li>
+<li class="level2 nav-1-2-5"><a href="{{store url=bottoms}}skirts.html?sb_dresses_length=750"> <span>Mini Skirts</span> </a></li>
+<li class="level2 nav-1-2-6"><a href="{{store url=bottoms}}skirts.html?sb_material=762"> <span>Chiffon Skirts</span> </a></li>
+<li class="level2 nav-1-2-6"><a href="{{store url=bottoms}}skirts.html?sb_silhouette=865"> <span>High Low Skirts</span> </a></li>
+
+</ul>
+</li>
+</ul>
+</div>
+<!--div class="right" style="border-left: 1px solid #EFEFEF;padding: 0 0 0 15px;width: 600px;">
+<h3 style="margin-top: -5px; text-align: left;">RECOMMENDATION</h3>
+<img style="float: left; margin: 0 20px 10px 0;" src="{{media url="upload/blanco/magento.png"}}" alt="" />Ultricies sociis 
+</div-->

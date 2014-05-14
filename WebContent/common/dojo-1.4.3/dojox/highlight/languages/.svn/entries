@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/highlight/languages"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="html.js"
+   text-time="2013-09-03T13:59:49.931857Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d9d622dd38f613433145fd8489fb14d3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.383826Z"/>
+<entry
+   committed-rev="11"
+   name="delphi.js"
+   text-time="2013-09-03T13:59:49.938858Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e3e7e5e823a9121e24b221e822657f6a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.552836Z"/>
+<entry
+   committed-rev="11"
+   name="_static.js"
+   text-time="2013-09-03T13:59:49.944858Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7cc7ffbf56d63c592d03856b3cdc9fb3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.557836Z"/>
+<entry
+   committed-rev="11"
+   name="javascript.js"
+   text-time="2013-09-03T13:59:49.954859Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4a3a4cb1a3af510d830f11acbbabb4c5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.561836Z"/>
+<entry
+   committed-rev="11"
+   name="_all.js"
+   text-time="2013-09-03T13:59:49.963859Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="144396712fa9e2f15bd98b6440f33fc4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.565836Z"/>
+<entry
+   committed-rev="11"
+   name="css.js"
+   text-time="2013-09-03T13:59:49.970860Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fd8f06c78b3029fc61c32f143761b216"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.878854Z"/>
+<entry
+   name="pygments"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="sql.js"
+   text-time="2013-09-03T13:59:49.886855Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="76f7f14ad129f92eff88476703c3700f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.044807Z"/>
+<entry
+   committed-rev="11"
+   name="xml.js"
+   text-time="2013-09-03T13:59:49.893855Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="517de8580eb047faac9d835f176f1404"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.048807Z"/>
+<entry
+   committed-rev="11"
+   name="python.js"
+   text-time="2013-09-03T13:59:49.901856Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="57a38bef3f7e1bd5ee5b18406fbc7758"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.051807Z"/>
+<entry
+   committed-rev="11"
+   name="cpp.js"
+   text-time="2013-09-03T13:59:49.908856Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="14dc7ae044680ee4771154ab7c2830f3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.214816Z"/>
+<entry
+   committed-rev="11"
+   name="django.js"
+   text-time="2013-09-03T13:59:49.914856Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="28f5662c71ec7ebfae17d4eb877db885"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.218817Z"/>
+<entry
+   committed-rev="11"
+   name="_dynamic.js"
+   text-time="2013-09-03T13:59:49.920857Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8ee7edfacfcfd7e1190a8670cc512e2f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.221817Z"/>
+<entry
+   committed-rev="11"
+   name="_www.js"
+   text-time="2013-09-03T13:59:49.925857Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a0871d113958ae03c964e7077db5d5c1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:49.224817Z"/>
+</wc-entries>

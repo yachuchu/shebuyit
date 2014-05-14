@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Standby.js"
+   text-time="2013-09-03T14:01:14.181676Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="73dc69fb977ddfb3038b15969a515ac5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:08.792368Z"/>
+<entry
+   name="Toaster"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Loader.js"
+   text-time="2013-09-03T14:01:14.285682Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b6bf941ba358e064970a64bbacf71f35"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.585642Z"/>
+<entry
+   name="SortList"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="FisheyeLite.js"
+   text-time="2013-09-03T14:01:14.205678Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dc4b491f214cfbaf070170f231682cd6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:10.072441Z"/>
+<entry
+   committed-rev="11"
+   name="AnalogGauge.js"
+   text-time="2013-09-03T14:01:14.214678Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3723a05f239d1705debcec493cf85548"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:10.227450Z"/>
+<entry
+   committed-rev="11"
+   name="ColorPicker.js"
+   text-time="2013-09-03T14:01:14.224679Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d8fce815c80da6f2bd019ae08e8145a3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:10.559469Z"/>
+<entry
+   name="FisheyeList"
+   kind="dir"/>
+<entry
+   name="gauge"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="FeedPortlet.js"
+   text-time="2013-09-03T14:01:14.244680Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f04d92a4fb7b744066dad5d0420ac83a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:11.247508Z"/>
+<entry
+   committed-rev="11"
+   name="BarGauge.js"
+   text-time="2013-09-03T14:01:14.290682Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7eb24024bfd03d101abcdc078e3c4bbd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:14.076670Z"/>
+<entry
+   name="nls"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Toaster.js"
+   text-time="2013-09-03T14:01:14.249680Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3514c3cb2465303698e543003bb97a75"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:11.926547Z"/>
+<entry
+   committed-rev="11"
+   name="SortList.js"
+   text-time="2013-09-03T14:01:14.130673Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7181d72062426aad5e4999057ab966ff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:06.177218Z"/>
+<entry
+   name="Dialog"
+   kind="dir"/>
+<entry
+   name="Wizard"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="PlaceholderMenuItem.js"
+   text-time="2013-09-03T14:01:14.254680Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c6ea4c829ac1bd3497e4deb5fca3142f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.241565Z"/>
+<entry
+   committed-rev="11"
+   name="Iterator.js"
+   text-time="2013-09-03T14:01:14.159675Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a4e1e4346511cb4488e1d3d122a03b57"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:07.209277Z"/>
+<entry
+   name="Standby"
+   kind="dir"/>
+<entry
+   name="Loader"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="DocTester.js"
+   text-time="2013-09-03T14:01:14.259681Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bda9c8fe64cff118772f3ac920fd2d35"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.337571Z"/>
+<entry
+   name="Calendar"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Pager.js"
+   text-time="2013-09-03T14:01:14.264681Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2a7b3f947a756cb59a38f08a4f0da959"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.751594Z"/>
+<entry
+   committed-rev="11"
+   name="Dialog.js"
+   text-time="2013-09-03T14:01:14.175676Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2150e707b77a61de81ebb6930fc82401"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:07.730307Z"/>
+<entry
+   committed-rev="11"
+   name="Roller.js"
+   text-time="2013-09-03T14:01:14.168675Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3456d7c8ee484f0ce2adf3714a775069"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:07.567298Z"/>
+<entry
+   name="ColorPicker"
+   kind="dir"/>
+<entry
+   name="FilePicker"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="RollingList.js"
+   text-time="2013-09-03T14:01:14.280682Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5daeaca29093e2bbf12afb114173fa38"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:13.272624Z"/>
+<entry
+   committed-rev="11"
+   name="DataPresentation.js"
+   text-time="2013-09-03T14:01:14.186676Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="02781bdb356c4b6694d71f84ef08e496"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:09.239393Z"/>
+<entry
+   committed-rev="11"
+   name="CalendarFx.js"
+   text-time="2013-09-03T14:01:14.192677Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="07ec39b101f03beb8a43b5c184f5266d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:09.243394Z"/>
+<entry
+   committed-rev="11"
+   name="Calendar.js"
+   text-time="2013-09-03T14:01:14.199677Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a1e3d48490f302d6532402968a4fb6e0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:10.064441Z"/>
+<entry
+   committed-rev="11"
+   name="UpgradeBar.js"
+   text-time="2013-09-03T14:01:14.232679Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2e1bb0019eb1f0a853d93bea77f73fe6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:10.726479Z"/>
+<entry
+   committed-rev="11"
+   name="FilePicker.js"
+   text-time="2013-09-03T14:01:14.238679Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="860c98c3e423edabf3f0818e6967ad52"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:10.901489Z"/>
+<entry
+   name="Portlet"
+   kind="dir"/>
+<entry
+   name="rotator"
+   kind="dir"/>
+<entry
+   name="DocTester"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:14.111672Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e0f4f4baa661e1b0532d33fd0afcb7bd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:06.021209Z"/>
+<entry
+   committed-rev="11"
+   name="AutoRotator.js"
+   text-time="2013-09-03T14:01:14.122673Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="99c4d6c0919ed7c0e24c0dbd143605ff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:06.121215Z"/>
+<entry
+   name="Pager"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="CalendarViews.js"
+   text-time="2013-09-03T14:01:14.138674Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a24b199a2a82377829922a463ab0f671"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:06.335227Z"/>
+<entry
+   name="RollingList"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="FisheyeList.js"
+   text-time="2013-09-03T14:01:14.147674Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c2007796f7664b108eb76b4e19c3095d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:06.673247Z"/>
+<entry
+   committed-rev="11"
+   name="Portlet.js"
+   text-time="2013-09-03T14:01:14.153675Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7ec36d6c1f6cbb10ed6d7037c85fd12b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:07.036267Z"/>
+<entry
+   committed-rev="11"
+   name="Rotator.js"
+   text-time="2013-09-03T14:01:14.163675Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c02e33bbeb090ad5b3c937967ff6d150"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:07.403288Z"/>
+<entry
+   committed-rev="11"
+   name="DynamicTooltip.js"
+   text-time="2013-09-03T14:01:14.269681Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a1b35c4a5020ba36d1cc31aedbf38921"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.755595Z"/>
+<entry
+   committed-rev="11"
+   name="Wizard.js"
+   text-time="2013-09-03T14:01:14.274681Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="022b7208634f02e628bd88d2584f09c2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.920604Z"/>
+<entry
+   name="UpgradeBar"
+   kind="dir"/>
+</wc-entries>

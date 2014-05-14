@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/nls"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_th.js"
+   text-time="2013-09-03T13:58:12.513285Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d2098d36fa92f45079c33b1810804eb2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.729126Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_pl.js"
+   text-time="2013-09-03T13:58:12.508285Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bb841b54d2d03017e69437b63b8a2313"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.564117Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_fr-fr.js"
+   text-time="2013-09-03T13:58:12.523286Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="150ddddd1917c354f90934dcd5c7a422"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.758128Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_it.js"
+   text-time="2013-09-03T13:58:12.518286Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c47f12877e7f4f183b7c8f6aee06a130"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.740127Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_sl.js"
+   text-time="2013-09-03T13:58:12.535287Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8694d4585c6d4016957d3cac5b8bc08b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.104148Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_de-de.js"
+   text-time="2013-09-03T13:58:12.529286Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ea5c982a142b96e0b33ddac5d37a6cc7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.097147Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_zh-cn.js"
+   text-time="2013-09-03T13:58:12.540287Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c73990797b71a1261562a9c863b61c48"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.110148Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_zh.js"
+   text-time="2013-09-03T13:58:12.545287Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5b400f9b7822f5c0d4294ed5bdb8b19d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.116148Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_pt.js"
+   text-time="2013-09-03T13:58:12.554288Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b2d6729193937880ad11c57f2db20012"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.259156Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_ROOT.js"
+   text-time="2013-09-03T13:58:12.550287Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e986e49095c943a776405366b7281748"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.123149Z"/>
+<entry
+   name="ja"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_en-us.js"
+   text-time="2013-09-03T13:58:12.559288Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5ac1bee9c0828982d816a5e5287b6f08"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.307159Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_en-gb.js"
+   text-time="2013-09-03T13:58:12.565288Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d126d31f532a0946e3ecf277e7be9e3c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.416165Z"/>
+<entry
+   name="fi"
+   kind="dir"/>
+<entry
+   name="nb"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="common.js"
+   text-time="2013-09-03T13:58:12.575289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="78ae978dfd75a9373c721678b988a599"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.504170Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_xx.js"
+   text-time="2013-09-03T13:58:12.570289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b5bd9d44b09d930af61f9f2fbd2c2596"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.500170Z"/>
+<entry
+   name="fr"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_pt-pt.js"
+   text-time="2013-09-03T13:58:12.580289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="35e01c1856b06449682a3080dc06beff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.614177Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_cs.js"
+   text-time="2013-09-03T13:58:12.584289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1e39048b5ab0155e2156252bbf33521b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.694181Z"/>
+<entry
+   name="nl"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_es.js"
+   text-time="2013-09-03T13:58:12.590290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d1ef2afa70ccb515e0da0377306c6440"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:10.894193Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_ko.js"
+   text-time="2013-09-03T13:58:12.595290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ee9bba7b1da71e807c5609b74c842ebf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:11.028200Z"/>
+<entry
+   name="zh"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_sk.js"
+   text-time="2013-09-03T13:58:12.602290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="946c4a6664c28fb6d4d6634c33c0d816"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:11.069203Z"/>
+<entry
+   name="ca"
+   kind="dir"/>
+<entry
+   name="ru"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_ko-kr.js"
+   text-time="2013-09-03T13:58:12.608291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9714c32b27d66589391387af37e679ea"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:11.448224Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_he-il.js"
+   text-time="2013-09-03T13:58:12.614291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6515c3eebd946bc70c9778dcd8a334db"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:11.538230Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_nb.js"
+   text-time="2013-09-03T13:58:12.619291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a7fe917a5c1f509bfd11315645ecc6a8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:11.543230Z"/>
+<entry
+   name="pt-pt"
+   kind="dir"/>
+<entry
+   name="cs"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_en.js"
+   text-time="2013-09-03T13:58:12.624292Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="96c004867d7fe9383b52bf87f7b460b1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:11.861248Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_ar.js"
+   text-time="2013-09-03T13:58:12.630292Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="374b98227e4b1685a425dcdcc20b793e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:11.865248Z"/>
+<entry
+   name="zh-tw"
+   kind="dir"/>
+<entry
+   name="ko"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_fr.js"
+   text-time="2013-09-03T13:58:12.636292Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b1f4444f2ea468429feb3bdc22ee6db1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:12.056259Z"/>
+<entry
+   name="sk"
+   kind="dir"/>
+<entry
+   name="sl"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_es-es.js"
+   text-time="2013-09-03T13:58:12.641293Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="14fa0c578b5a78b4a2cb65a0aa349a29"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:12.369277Z"/>
+<entry
+   name="da"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_nl-nl.js"
+   text-time="2013-09-03T13:58:12.382278Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f4185f5d035bc6a439c61e056140a3b3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:07.694010Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_ca.js"
+   text-time="2013-09-03T13:58:12.392278Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8359e938625cd96272f6a7c5edb77006"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:07.864019Z"/>
+<entry
+   committed-rev="11"
+   name="loading.js"
+   text-time="2013-09-03T13:58:12.418280Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="746b5bd4d98460e0fb3348a365289414"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.054030Z"/>
+<entry
+   name="de"
+   kind="dir"/>
+<entry
+   name="sv"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_da.js"
+   text-time="2013-09-03T13:58:12.405279Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6bc9fe1030960643196c426c81cf7e7d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:07.931023Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_pt-br.js"
+   text-time="2013-09-03T13:58:12.412280Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="33255280a97b968460f0edd866a8635f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.047030Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_tr.js"
+   text-time="2013-09-03T13:58:12.423280Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="502667e3499941ebb09c6a78a17c5f40"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.213039Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_sv.js"
+   text-time="2013-09-03T13:58:12.439281Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="af40d864729f76dbe6dde4e8be647c78"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.376049Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_de.js"
+   text-time="2013-09-03T13:58:12.431281Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d46b2ef234f96522c15751fc8d8230c1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.249041Z"/>
+<entry
+   name="he"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_fi-fi.js"
+   text-time="2013-09-03T13:58:12.450282Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4d8e397079cd5d47097d7e4e141d98f0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.570060Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_ja.js"
+   text-time="2013-09-03T13:58:12.444281Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6931481599192a1defae98df2d7b12b1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.564059Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_he.js"
+   text-time="2013-09-03T13:58:12.455282Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4fa0b6540eb37aff6261fc7186746168"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.729069Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_fi.js"
+   text-time="2013-09-03T13:58:12.460282Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b114f619c6122a2f10d2fff23bbf4a9e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.734069Z"/>
+<entry
+   name="pl"
+   kind="dir"/>
+<entry
+   name="th"
+   kind="dir"/>
+<entry
+   name="hu"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_hu.js"
+   text-time="2013-09-03T13:58:12.465283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c6493f034f8110a93223583a19066798"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:08.937081Z"/>
+<entry
+   name="pt"
+   kind="dir"/>
+<entry
+   name="tr"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_it-it.js"
+   text-time="2013-09-03T13:58:12.474283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="de664a08bb21c26048510372b2a10512"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.063088Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_ru.js"
+   text-time="2013-09-03T13:58:12.470283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e23b2966ef69f3f21d3f82e54301cd6d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.059088Z"/>
+<entry
+   name="el"
+   kind="dir"/>
+<entry
+   name="ar"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_el.js"
+   text-time="2013-09-03T13:58:12.479283Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c4823b367a140266d86f17a10989c5ec"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.243098Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_ja-jp.js"
+   text-time="2013-09-03T13:58:12.491284Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="53eb3d874a085a6249474645e73a4c86"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.387107Z"/>
+<entry
+   name="es"
+   kind="dir"/>
+<entry
+   name="it"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_zh-tw.js"
+   text-time="2013-09-03T13:58:12.504285Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="875eb2f4fe5b0973bf6b83ca2a071051"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.559116Z"/>
+<entry
+   committed-rev="11"
+   name="dijit-all_nl.js"
+   text-time="2013-09-03T13:58:12.498284Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8f4c6ac37000d8c97468a28f5527f4ff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:09.475112Z"/>
+</wc-entries>

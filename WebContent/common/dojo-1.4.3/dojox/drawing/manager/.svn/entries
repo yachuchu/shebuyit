@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing/manager"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Undo.js"
+   text-time="2013-09-03T14:00:46.207076Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cff3b19371d348b482c45c462e762e53"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.010065Z"/>
+<entry
+   committed-rev="11"
+   name="_registry.js"
+   text-time="2013-09-03T14:00:46.213076Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b59aebf865822bcc52d6f14e04b11f6c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.014065Z"/>
+<entry
+   committed-rev="11"
+   name="Mouse.js"
+   text-time="2013-09-03T14:00:46.220077Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="112c8326058d002d6ac2436d977f5ccc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.180075Z"/>
+<entry
+   committed-rev="11"
+   name="Canvas.js"
+   text-time="2013-09-03T14:00:46.227077Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b210e38cb0d6cd6e0c7c9cebc7e26663"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.183075Z"/>
+<entry
+   committed-rev="11"
+   name="keys.js"
+   text-time="2013-09-03T14:00:46.232078Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a3512aeee4cffb68f7a65f7b3cb6d9a6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.187075Z"/>
+<entry
+   committed-rev="11"
+   name="Anchors.js"
+   text-time="2013-09-03T14:00:46.238078Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="61a4039b734b97beadd37e0006d3ba6e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.192075Z"/>
+<entry
+   committed-rev="11"
+   name="StencilUI.js"
+   text-time="2013-09-03T14:00:46.243078Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="68dcbd573706536fb893937ce6ad0805"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.196075Z"/>
+<entry
+   committed-rev="11"
+   name="Stencil.js"
+   text-time="2013-09-03T14:00:46.202076Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fd865fb003f9db440951ecad02b7f253"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.867057Z"/>
+</wc-entries>

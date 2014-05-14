@@ -1,0 +1,29 @@
+
+<div class="ez1">
+<div style="text-align:center;"><h1 id="ezPagesHeading">How to Pay</h1></div>
+<br></br>
+<h3 class="ez1_head2">We accept a variety of payment methods</h3>
+<ul>
+	<li>• Credit/Debit Cards<img src="{{media url="upload/home/payment_card.jpg"}}" style="margin-left:10px;" /></li>	
+</ul>
+<p>&nbsp;</p>
+<ul>
+	<li>• PayPal<img src="{{media url="upload/home/paypalVerify.gif"}}" style="margin-left:10px;" /></li>
+</ul>
+
+<h3 class="ez1_head2">Is it safe to pay by credit card or debit card on your site?</h3>
+<p class="duiqi1">Yes! www.shedressup.com understands that the safety of your personal information is extremely important to you. We use a wide array of electronic and physical security measures and devices to protect your personal data from unauthorized access. Furthermore, we are not holding any card information for you as your information will be submitted to the third party&mdash;PayPal. For further information, please see our<a href="{{store url=privacy-policy}}"> Security Policy.</a> </p>
+
+<h3 class="ez1_head2">Do you charge customs duty on any countries?</h3>
+<p class="duiqi1">The buyer could be required by law to pay customs duty on order ship to Western Europe. The appropriate charges could be required when the customer receives the parcel. Although www.shedressup.com is always trying to minimize the amount of customs duty, it still highly depends on receiver's overnment customs policy.</p>
+
+<h2 class="ez1_head1" style="width: 80px; ">PayPal</h2>
+<h3 class="ez1_head2">(1)What is PayPal?</h3>
+<p class="duiqi1">PayPal is a payment method for online purchases enabling buyers and businesses to send and receive money online. As of today, PayPal has over 100 million member accounts in 190 countries and regions. One advantage of using PayPal payment method is that it offers faster, safer and easier checkouts and promises to protect customers from revealing their credit card and other financial information to the merchant. </p>
+
+<h3 class="ez1_head2">(2)How do I sign up for PayPal?</h3>
+<p class="duiqi1">You can sign up for a PayPal account by going to <a href="https://www.paypal.com/">https://www.paypal.com</a>. </p>
+
+<h3 class="ez1_head2">(3)How do I use a Paypal payment option?</h3>
+<p class="duiqi1">Existing PayPal users who would like to use PayPal payment method when placing an order can click on the "Checkout with PayPal" button when checking out. New PayPal users who would like to use PayPal as a payment method will be redirected to the PayPal website to sign up for an account and will be presented with the "Checkout with PayPal" option when they get back to the website. </p>
+</div>

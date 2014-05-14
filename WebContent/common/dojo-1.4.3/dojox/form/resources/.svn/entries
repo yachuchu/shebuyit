@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/form/resources"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_CheckedMultiSelectItem.html"
+   text-time="2013-09-03T14:00:58.472778Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="76c44232ef86ce3ada31af899f2a60d2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.274709Z"/>
+<entry
+   committed-rev="11"
+   name="ListInput.css"
+   text-time="2013-09-03T14:00:58.467777Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1a9841379b9838380ebe952ad1b3b980"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.270709Z"/>
+<entry
+   committed-rev="11"
+   name="FilePickerTextBox.css"
+   text-time="2013-09-03T14:00:58.462777Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c9007368be55e020333d3e97be651ae1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.105699Z"/>
+<entry
+   committed-rev="11"
+   name="RangeSlider.css"
+   text-time="2013-09-03T14:00:58.482778Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="05cef90c31ce398437a028aa6be5732c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.280709Z"/>
+<entry
+   committed-rev="11"
+   name="FileInput.css"
+   text-time="2013-09-03T14:00:58.476778Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4da20615d2073b65a33fff2263396f92"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.277709Z"/>
+<entry
+   committed-rev="11"
+   name="CheckedMultiSelect.css"
+   text-time="2013-09-03T14:00:58.486778Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="aba55b503d75046ebdf00b6a26ec4625"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.606728Z"/>
+<entry
+   committed-rev="11"
+   name="FileInputAuto.html"
+   text-time="2013-09-03T14:00:58.492779Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="aaae32dc0644eb70413d3f0942ad99b6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.614729Z"/>
+<entry
+   committed-rev="11"
+   name="VerticalRangeSlider.html"
+   text-time="2013-09-03T14:00:58.497779Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="754d304164af2af927cf04558488fe5b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.618729Z"/>
+<entry
+   committed-rev="11"
+   name="FilePickerTextBox.html"
+   text-time="2013-09-03T14:00:58.502779Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e8fd49e6714d2042a9dc78248655eeed"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.622729Z"/>
+<entry
+   committed-rev="11"
+   name="FileInput.html"
+   text-time="2013-09-03T14:00:58.513780Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2b23e6db08feadb77a32bf02837a009a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.630729Z"/>
+<entry
+   committed-rev="11"
+   name="FileUploader.css"
+   text-time="2013-09-03T14:00:58.507780Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4df3a0c2cebb2937611bc058c4ad22f8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.626729Z"/>
+<entry
+   committed-rev="11"
+   name="CheckedMultiSelect.html"
+   text-time="2013-09-03T14:00:58.518780Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8522fa1fcc5b7e98005085121cb76382"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.634730Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="BusyButton.css"
+   text-time="2013-09-03T14:00:58.523781Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a96c36a0b17603f8969e7f2a50ea404b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:58.004751Z"/>
+<entry
+   committed-rev="11"
+   name="uploader.swf"
+   text-time="2013-09-03T14:00:58.529781Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b05f2ed366b8940805345fc0d7464ee3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:58.428775Z"/>
+<entry
+   committed-rev="11"
+   name="Rating.css"
+   text-time="2013-09-03T14:00:58.447776Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="83e5e57668e50817aa55b90eb3cef127"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.003694Z"/>
+<entry
+   committed-rev="11"
+   name="PasswordValidator.html"
+   text-time="2013-09-03T14:00:58.438776Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="36caec9e3578e2f24b5accef951868ee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.000693Z"/>
+<entry
+   committed-rev="11"
+   name="HorizontalRangeSlider.html"
+   text-time="2013-09-03T14:00:58.455777Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c49b4f9d205609a756c4bfdda5dacaed"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:57.101699Z"/>
+</wc-entries>

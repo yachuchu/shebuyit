@@ -1,0 +1,1 @@
+({"descending":"Sestupně","sortingState":"${0} - ${1}","ascending":"Vzestupně","nestedSort":"Vnořené řazení","unsorted":"Neřadit tento sloupec","singleSort":"Jednoduché řazení"})

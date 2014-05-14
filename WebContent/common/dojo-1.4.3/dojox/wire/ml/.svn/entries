@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/wire/ml"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Transfer.js"
+   text-time="2013-09-03T13:59:46.779677Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="879299d254613d8d7e802923f755a13e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:46.571665Z"/>
+<entry
+   committed-rev="11"
+   name="DataStore.js"
+   text-time="2013-09-03T13:59:46.785677Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e921ecdf97aa81e303ae655a2e4105d5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:46.575665Z"/>
+<entry
+   committed-rev="11"
+   name="Data.js"
+   text-time="2013-09-03T13:59:46.791678Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bb2c4d47225040c4487e0a18a1f437db"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:46.728674Z"/>
+<entry
+   committed-rev="11"
+   name="Invocation.js"
+   text-time="2013-09-03T13:59:46.797678Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="66b6b2c9f03649ae7993bd279d401878"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:46.733674Z"/>
+<entry
+   committed-rev="11"
+   name="Action.js"
+   text-time="2013-09-03T13:59:46.756676Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d5d76c251679fa078e9b0024bec48d2b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:45.745618Z"/>
+<entry
+   committed-rev="11"
+   name="util.js"
+   text-time="2013-09-03T13:59:46.761676Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e26c55ba1ce267327d0a1ca140a1b1d2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:45.916628Z"/>
+<entry
+   committed-rev="11"
+   name="Service.js"
+   text-time="2013-09-03T13:59:46.773677Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6068d1691bc075bcbdca80b549f497f4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:46.417656Z"/>
+</wc-entries>

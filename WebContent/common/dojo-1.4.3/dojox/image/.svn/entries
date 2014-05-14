@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/image"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T14:00:13.438202Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="243772a081e8edb182f6b666421f8cbf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:10.487033Z"/>
+<entry
+   committed-rev="11"
+   name="LightboxNano.js"
+   text-time="2013-09-03T14:00:13.450203Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7a975be3cad1ed930bad39fc2d35fdd2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:10.586039Z"/>
+<entry
+   committed-rev="11"
+   name="FlickrBadge.js"
+   text-time="2013-09-03T14:00:13.458203Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6f7ac56716dd0c0a74740c02ff15e89d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:10.761049Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Gallery.js"
+   text-time="2013-09-03T14:00:13.464203Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="45d940d444a1a7fb61f53630fa717cb9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:11.111069Z"/>
+<entry
+   committed-rev="11"
+   name="MagnifierLite.js"
+   text-time="2013-09-03T14:00:13.469204Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a3412872879180b12a1abfb10d905b2e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:11.116069Z"/>
+<entry
+   committed-rev="11"
+   name="Lightbox.js"
+   text-time="2013-09-03T14:00:13.475204Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="82b92b828537cdcd61dad8fdd200886a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:12.464146Z"/>
+<entry
+   committed-rev="11"
+   name="Magnifier.js"
+   text-time="2013-09-03T14:00:13.481204Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="80c3aad3913e2110088edb7b3d313d97"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:12.470146Z"/>
+<entry
+   committed-rev="11"
+   name="SlideShow.js"
+   text-time="2013-09-03T14:00:13.486205Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8ef42d2ae4b5817ee6a1c65f6b5e9e6f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:12.964175Z"/>
+<entry
+   committed-rev="11"
+   name="ThumbnailPicker.js"
+   text-time="2013-09-03T14:00:13.492205Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f608cf6fdd251e48eb7aa5126d14aaa7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:13.119184Z"/>
+<entry
+   committed-rev="11"
+   name="Badge.js"
+   text-time="2013-09-03T14:00:13.497205Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="44f776ed1e3dce18b511d970fba305f6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:13.279193Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:13.503206Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5f1960a97b97e2c447fc66d724d1f15c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:13.425201Z"/>
+</wc-entries>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/grid/enhanced/dnd"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_DndEvents.js"
+   text-time="2013-09-03T14:00:41.138786Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5c2df1d29106859c7b638991b5344b4e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:39.656701Z"/>
+<entry
+   committed-rev="11"
+   name="_DndGrid.js"
+   text-time="2013-09-03T14:00:41.143787Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5a3d050ae3f6affaf5796206e44192b1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:39.779708Z"/>
+<entry
+   committed-rev="11"
+   name="_DndBuilder.js"
+   text-time="2013-09-03T14:00:41.149787Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e58c78077206ec4016b212c4086829da"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:39.782709Z"/>
+<entry
+   committed-rev="11"
+   name="_DndMover.js"
+   text-time="2013-09-03T14:00:41.154787Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8ddb6d8a1589fa20b36a0b22ca722de5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:39.958719Z"/>
+<entry
+   committed-rev="11"
+   name="_DndRowSelector.js"
+   text-time="2013-09-03T14:00:41.159787Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="93f35191f9b8b0e6e79ee8d640d323f4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:39.962719Z"/>
+<entry
+   committed-rev="11"
+   name="_DndSelectingManager.js"
+   text-time="2013-09-03T14:00:41.164788Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5f9573e024a6e8b4758189a833ca5cd7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:40.463748Z"/>
+<entry
+   committed-rev="11"
+   name="_DndFocusManager.js"
+   text-time="2013-09-03T14:00:41.169788Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5a10f73163f8373a96dbc3aa2bbb8442"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:40.600755Z"/>
+<entry
+   committed-rev="11"
+   name="_DndMovingManager.js"
+   text-time="2013-09-03T14:00:41.174788Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1b908e31a3c1102a63befa38ee6e9d14"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.129786Z"/>
+</wc-entries>

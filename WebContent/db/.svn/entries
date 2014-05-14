@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/db"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="db-dressup-local-WithoutProduct.sql.gz"
+   text-time="2013-09-03T13:54:48.561620Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="95df146d1e49bd905969cdb2857692df"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:48:05.869587Z"/>
+<entry
+   committed-rev="11"
+   name="crawlerdb.zip"
+   text-time="2013-09-03T13:54:48.587621Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a633db5d026208746155caacf855987f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:12.779573Z"/>
+<entry
+   committed-rev="11"
+   name="db-dressup-server-WithoutProduct.sql.gz"
+   text-time="2013-09-03T13:54:48.613623Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b46afd2e3176a37f445b353cc31ad3a3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:48.512617Z"/>
+</wc-entries>

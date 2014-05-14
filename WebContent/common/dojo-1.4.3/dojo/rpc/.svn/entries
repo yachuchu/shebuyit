@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/rpc"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="RpcService.js"
+   text-time="2013-09-03T13:58:05.508885Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b0603f3f20e916a99fcb8df9bdf9c145"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:05.456882Z"/>
+<entry
+   committed-rev="11"
+   name="JsonService.js"
+   text-time="2013-09-03T13:58:05.515885Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dee99bf3ff87bb8482cb91c0b65cadb3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:05.465882Z"/>
+<entry
+   committed-rev="11"
+   name="JsonpService.js"
+   text-time="2013-09-03T13:58:05.524886Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6207081ae75b5d5613b70241720111ff"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:05.475883Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/data/s3"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="proxy.example-php"
+   text-time="2013-09-03T13:59:54.791135Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c04b5725cbce15cda7483b1ce2277652"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:54.780135Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T13:59:54.786135Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e72528a7efd35c8a5b9ee26a5c96e7da"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:54.777134Z"/>
+</wc-entries>

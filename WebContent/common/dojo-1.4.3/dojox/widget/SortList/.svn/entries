@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/SortList"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="SortList.html"
+   text-time="2013-09-03T14:01:09.275396Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="490d3567557f5f0d6ec40332cb241cc7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:09.264395Z"/>
+<entry
+   committed-rev="11"
+   name="SortList.css"
+   text-time="2013-09-03T14:01:09.270395Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="910c28a872c25785572ddcb276dd699c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:09.258395Z"/>
+</wc-entries>

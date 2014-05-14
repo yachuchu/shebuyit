@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/cldr/nls/da"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="buddhist.js"
+   text-time="2013-09-03T13:57:39.860418Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8eb3daa8d7b655ab39d5393d14b418b6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:39.735411Z"/>
+<entry
+   committed-rev="11"
+   name="number.js"
+   text-time="2013-09-03T13:57:39.867418Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="02813fdc68c11b03d44c3b7a9fc20326"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:39.740411Z"/>
+<entry
+   committed-rev="11"
+   name="currency.js"
+   text-time="2013-09-03T13:57:39.873418Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6e08f29ed3e6bf69d3658de3c3da6853"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:39.743411Z"/>
+<entry
+   committed-rev="11"
+   name="gregorian.js"
+   text-time="2013-09-03T13:57:39.881419Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c44cc15863c6ec56d30dacf6ae9b205b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:39.832416Z"/>
+</wc-entries>

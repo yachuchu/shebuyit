@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/av/widget"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ProgressSlider.js"
+   text-time="2013-09-03T14:01:38.711079Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="27b74fa68fae0f1277d52278789f8668"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.377060Z"/>
+<entry
+   committed-rev="11"
+   name="Player.js"
+   text-time="2013-09-03T14:01:38.717080Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ad9fcac38da66183eab479a7a430ca10"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.380060Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="PlayButton.js"
+   text-time="2013-09-03T14:01:38.722080Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1913fbbdcea13dbab53ba94a75c45030"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.696078Z"/>
+<entry
+   committed-rev="11"
+   name="Status.js"
+   text-time="2013-09-03T14:01:38.727080Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fa412500eb61e0de12c30c198a42233b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.700079Z"/>
+<entry
+   committed-rev="11"
+   name="VolumeButton.js"
+   text-time="2013-09-03T14:01:38.735081Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4194cb2f2eca3d5a4c6072b61c4addf8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:38.703079Z"/>
+</wc-entries>

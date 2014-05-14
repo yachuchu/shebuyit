@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/sketch"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="SingleArrowAnnotation.js"
+   text-time="2013-09-03T14:00:10.390027Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="24b1ca2b501fb19773da46e10889e3a1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:10.276021Z"/>
+<entry
+   committed-rev="11"
+   name="Anchor.js"
+   text-time="2013-09-03T14:00:10.285021Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="28b7f421909edbe27d6344bf6b177ae4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:09.426972Z"/>
+<entry
+   committed-rev="11"
+   name="Annotation.js"
+   text-time="2013-09-03T14:00:10.293022Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4bde6a7b9c24c492ad7bd723f156ae4e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:09.432973Z"/>
+<entry
+   committed-rev="11"
+   name="UndoStack.js"
+   text-time="2013-09-03T14:00:10.305023Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5099d8c3b8d0b2fef0d45c0cef9c9f7c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:09.571981Z"/>
+<entry
+   committed-rev="11"
+   name="PreexistingAnnotation.js"
+   text-time="2013-09-03T14:00:10.312023Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="935198046fecdfb6a53976fbd8480ff4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:09.579981Z"/>
+<entry
+   committed-rev="11"
+   name="_Plugin.js"
+   text-time="2013-09-03T14:00:10.333024Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="07fac37933b118e2bf84d27dba825d72"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:09.598982Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="DoubleArrowAnnotation.js"
+   text-time="2013-09-03T14:00:10.348025Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b480ee7f51c094d6dbf3206b385acb04"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:09.784993Z"/>
+<entry
+   committed-rev="11"
+   name="LeadAnnotation.js"
+   text-time="2013-09-03T14:00:10.354025Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0ca068bbc2aa25c74c0631aa0e7ac1c4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:09.787993Z"/>
+<entry
+   committed-rev="11"
+   name="UnderlineAnnotation.js"
+   text-time="2013-09-03T14:00:10.360026Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eeeed39fc367ba0a93bf233f29c0ac72"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:09.942002Z"/>
+<entry
+   committed-rev="11"
+   name="Figure.js"
+   text-time="2013-09-03T14:00:10.369026Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fb1f643a9158173fe82992f4d26c230e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:10.110011Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:10.375027Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5068153334eafaf02fd9225121b1eb64"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:10.247019Z"/>
+<entry
+   committed-rev="11"
+   name="Slider.js"
+   text-time="2013-09-03T14:00:10.380027Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6578c7cb6d6fa8f1c332d209cad425de"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:10.250019Z"/>
+<entry
+   committed-rev="11"
+   name="Toolbar.js"
+   text-time="2013-09-03T14:00:10.385027Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9c9f8a97e0d1268ea84d8e5e8acc1aed"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:10.254020Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/date/buddhist"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Date.js"
+   text-time="2013-09-03T14:00:06.561809Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a0e502d5ad09fa017aef2a6315f3e0fc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:06.393799Z"/>
+<entry
+   committed-rev="11"
+   name="locale.js"
+   text-time="2013-09-03T14:00:06.569809Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8961cc6d57882c45f1885276515f4109"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:06.551808Z"/>
+</wc-entries>

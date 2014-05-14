@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/WEB-INF/jsp/dict"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="dictSearch.jsp"
+   text-time="2013-09-03T13:54:48.684627Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f1064d83f3368ecb57e6938e372517a2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:48.672626Z"/>
+<entry
+   committed-rev="11"
+   name="dict.jsp"
+   text-time="2013-09-03T13:54:48.680627Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="75148486a73c79467bc5f62575fb6969"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:54:48.649625Z"/>
+</wc-entries>

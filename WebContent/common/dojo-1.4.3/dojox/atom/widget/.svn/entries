@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/atom/widget"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="FeedViewer.js"
+   text-time="2013-09-03T14:00:55.318597Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ff42de81d5527b897dcef3b987275d7b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:49.792281Z"/>
+<entry
+   committed-rev="11"
+   name="FeedEntryViewer.js"
+   text-time="2013-09-03T14:00:55.323598Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3ad475849eb0f0ee57bbafff9e38bd12"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:50.124300Z"/>
+<entry
+   committed-rev="11"
+   name="FeedEntryEditor.js"
+   text-time="2013-09-03T14:00:55.330598Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="50121fa3d3f76360d9068b367831f83e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:50.820340Z"/>
+<entry
+   name="nls"
+   kind="dir"/>
+<entry
+   name="templates"
+   kind="dir"/>
+</wc-entries>

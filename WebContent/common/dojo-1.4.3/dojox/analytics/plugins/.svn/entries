@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/analytics/plugins"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="mouseOver.js"
+   text-time="2013-09-03T13:59:41.857396Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5c73283d30e0b8e3a84f1707e7137842"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.658384Z"/>
+<entry
+   committed-rev="11"
+   name="window.js"
+   text-time="2013-09-03T13:59:41.864396Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3f011b990624b1decb8ea68c9b6cf4c2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.665385Z"/>
+<entry
+   committed-rev="11"
+   name="consoleMessages.js"
+   text-time="2013-09-03T13:59:41.869396Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="22db22387c687dc788b329db888870f0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.817393Z"/>
+<entry
+   committed-rev="11"
+   name="dojo.js"
+   text-time="2013-09-03T13:59:41.874396Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="361b5a602935aa7e0a15076b4bbf90f5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.824394Z"/>
+<entry
+   committed-rev="11"
+   name="idle.js"
+   text-time="2013-09-03T13:59:41.835394Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d5a45479ee1d8d7001a36476baa205aa"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.559378Z"/>
+<entry
+   committed-rev="11"
+   name="mouseClick.js"
+   text-time="2013-09-03T13:59:41.848395Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9916a2aa921729bfcce345895c93f6f0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.561379Z"/>
+</wc-entries>

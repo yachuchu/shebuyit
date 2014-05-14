@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/cldr/nls"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="iw"
+   kind="dir"/>
+<entry
+   name="sr-latn"
+   kind="dir"/>
+<entry
+   name="sr-me"
+   kind="dir"/>
+<entry
+   name="en-be"
+   kind="dir"/>
+<entry
+   name="be"
+   kind="dir"/>
+<entry
+   name="yo"
+   kind="dir"/>
+<entry
+   name="bg"
+   kind="dir"/>
+<entry
+   name="de-at"
+   kind="dir"/>
+<entry
+   name="ja"
+   kind="dir"/>
+<entry
+   name="fr-be"
+   kind="dir"/>
+<entry
+   name="bn"
+   kind="dir"/>
+<entry
+   name="bo"
+   kind="dir"/>
+<entry
+   name="es-cl"
+   kind="dir"/>
+<entry
+   name="en-jm"
+   kind="dir"/>
+<entry
+   name="es-co"
+   kind="dir"/>
+<entry
+   name="en-bw"
+   kind="dir"/>
+<entry
+   name="en-za"
+   kind="dir"/>
+<entry
+   name="en-bz"
+   kind="dir"/>
+<entry
+   name="de-be"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="persian.js"
+   text-time="2013-09-03T13:58:00.037572Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="41d01623b0fe33bf7d9d999413284104"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:56.009341Z"/>
+<entry
+   name="ti-er"
+   kind="dir"/>
+<entry
+   name="ro"
+   kind="dir"/>
+<entry
+   name="zh-hk"
+   kind="dir"/>
+<entry
+   name="zh"
+   kind="dir"/>
+<entry
+   name="en-ca"
+   kind="dir"/>
+<entry
+   name="ca"
+   kind="dir"/>
+<entry
+   name="ru"
+   kind="dir"/>
+<entry
+   name="fr-ca"
+   kind="dir"/>
+<entry
+   name="ka"
+   kind="dir"/>
+<entry
+   name="es-sv"
+   kind="dir"/>
+<entry
+   name="zu"
+   kind="dir"/>
+<entry
+   name="fr-ch"
+   kind="dir"/>
+<entry
+   name="nso"
+   kind="dir"/>
+<entry
+   name="en-zw"
+   kind="dir"/>
+<entry
+   name="uz-arab"
+   kind="dir"/>
+<entry
+   name="se-fi"
+   kind="dir"/>
+<entry
+   name="sa"
+   kind="dir"/>
+<entry
+   name="kk"
+   kind="dir"/>
+<entry
+   name="cs"
+   kind="dir"/>
+<entry
+   name="kl"
+   kind="dir"/>
+<entry
+   name="es-do"
+   kind="dir"/>
+<entry
+   name="km"
+   kind="dir"/>
+<entry
+   name="kn"
+   kind="dir"/>
+<entry
+   name="en-sg"
+   kind="dir"/>
+<entry
+   name="ko"
+   kind="dir"/>
+<entry
+   name="sh"
+   kind="dir"/>
+<entry
+   name="si"
+   kind="dir"/>
+<entry
+   name="cy"
+   kind="dir"/>
+<entry
+   name="en-dsrt"
+   kind="dir"/>
+<entry
+   name="syr"
+   kind="dir"/>
+<entry
+   name="sk"
+   kind="dir"/>
+<entry
+   name="sl"
+   kind="dir"/>
+<entry
+   name="sr-latn-me"
+   kind="dir"/>
+<entry
+   name="de-ch"
+   kind="dir"/>
+<entry
+   name="so"
+   kind="dir"/>
+<entry
+   name="kw"
+   kind="dir"/>
+<entry
+   name="sq"
+   kind="dir"/>
+<entry
+   name="da"
+   kind="dir"/>
+<entry
+   name="sr"
+   kind="dir"/>
+<entry
+   name="ss"
+   kind="dir"/>
+<entry
+   name="it-it"
+   kind="dir"/>
+<entry
+   name="st"
+   kind="dir"/>
+<entry
+   name="de"
+   kind="dir"/>
+<entry
+   name="sv"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="gregorian.js"
+   text-time="2013-09-03T13:57:59.980568Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6d7a3e6bab259b287c3eedf107889fea"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:41.018484Z"/>
+<entry
+   name="sw"
+   kind="dir"/>
+<entry
+   name="es-ec"
+   kind="dir"/>
+<entry
+   name="ta"
+   kind="dir"/>
+<entry
+   name="zh-hans-hk"
+   kind="dir"/>
+<entry
+   name="te"
+   kind="dir"/>
+<entry
+   name="th"
+   kind="dir"/>
+<entry
+   name="sr-cyrl-ba"
+   kind="dir"/>
+<entry
+   name="es-es"
+   kind="dir"/>
+<entry
+   name="ti"
+   kind="dir"/>
+<entry
+   name="dz"
+   kind="dir"/>
+<entry
+   name="de-de"
+   kind="dir"/>
+<entry
+   name="haw"
+   kind="dir"/>
+<entry
+   name="tl"
+   kind="dir"/>
+<entry
+   name="lt"
+   kind="dir"/>
+<entry
+   name="tn"
+   kind="dir"/>
+<entry
+   name="lv"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="buddhist.js"
+   text-time="2013-09-03T13:58:00.009570Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="02636cbcce5e296593ffaad60e15a95c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:51.641092Z"/>
+<entry
+   name="zh-hant-mo"
+   kind="dir"/>
+<entry
+   name="fr-lu"
+   kind="dir"/>
+<entry
+   name="tr"
+   kind="dir"/>
+<entry
+   name="ts"
+   kind="dir"/>
+<entry
+   name="en-tt"
+   kind="dir"/>
+<entry
+   name="es-mx"
+   kind="dir"/>
+<entry
+   name="de-li"
+   kind="dir"/>
+<entry
+   name="es-us"
+   kind="dir"/>
+<entry
+   name="el"
+   kind="dir"/>
+<entry
+   name="gsw"
+   kind="dir"/>
+<entry
+   name="ar-qa"
+   kind="dir"/>
+<entry
+   name="en"
+   kind="dir"/>
+<entry
+   name="es-uy"
+   kind="dir"/>
+<entry
+   name="eo"
+   kind="dir"/>
+<entry
+   name="it-ch"
+   kind="dir"/>
+<entry
+   name="es"
+   kind="dir"/>
+<entry
+   name="mk"
+   kind="dir"/>
+<entry
+   name="et"
+   kind="dir"/>
+<entry
+   name="ml"
+   kind="dir"/>
+<entry
+   name="pa-pk"
+   kind="dir"/>
+<entry
+   name="eu"
+   kind="dir"/>
+<entry
+   name="el-cy"
+   kind="dir"/>
+<entry
+   name="mn"
+   kind="dir"/>
+<entry
+   name="hy-am-revised"
+   kind="dir"/>
+<entry
+   name="fa-af"
+   kind="dir"/>
+<entry
+   name="mo"
+   kind="dir"/>
+<entry
+   name="es-ni"
+   kind="dir"/>
+<entry
+   name="ar-ye"
+   kind="dir"/>
+<entry
+   name="mr"
+   kind="dir"/>
+<entry
+   name="ms"
+   kind="dir"/>
+<entry
+   name="uk"
+   kind="dir"/>
+<entry
+   name="es-ve"
+   kind="dir"/>
+<entry
+   name="zh-cn"
+   kind="dir"/>
+<entry
+   name="mt"
+   kind="dir"/>
+<entry
+   name="en-mt"
+   kind="dir"/>
+<entry
+   name="af-na"
+   kind="dir"/>
+<entry
+   name="uz-af"
+   kind="dir"/>
+<entry
+   name="fa"
+   kind="dir"/>
+<entry
+   name="ur"
+   kind="dir"/>
+<entry
+   name="en-us"
+   kind="dir"/>
+<entry
+   name="en-us-posix"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="hebrew.js"
+   text-time="2013-09-03T13:58:00.023571Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e36b5f4a3104ae1fe088a555c8fe58b8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:55.497312Z"/>
+<entry
+   name="zh-sg"
+   kind="dir"/>
+<entry
+   name="ur-in"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="coptic.js"
+   text-time="2013-09-03T13:58:00.027571Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0a145bf76167a364127de148313ddb1c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:55.752327Z"/>
+<entry
+   name="fi"
+   kind="dir"/>
+<entry
+   name="en-na"
+   kind="dir"/>
+<entry
+   name="nb"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="japanese.js"
+   text-time="2013-09-03T13:58:00.032571Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7c6d575e4c11990ce0938b6fcf3a5103"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:55.939337Z"/>
+<entry
+   name="ne"
+   kind="dir"/>
+<entry
+   name="fo"
+   kind="dir"/>
+<entry
+   name="sr-ba"
+   kind="dir"/>
+<entry
+   name="fr"
+   kind="dir"/>
+<entry
+   name="ar-jo"
+   kind="dir"/>
+<entry
+   name="nl"
+   kind="dir"/>
+<entry
+   name="ve"
+   kind="dir"/>
+<entry
+   name="nn"
+   kind="dir"/>
+<entry
+   name="no"
+   kind="dir"/>
+<entry
+   name="vi"
+   kind="dir"/>
+<entry
+   name="nr"
+   kind="dir"/>
+<entry
+   name="es-gt"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="ethiopic.js"
+   text-time="2013-09-03T13:58:00.041572Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9ec23e05669f1294feb79edd250ea37b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:56.060344Z"/>
+<entry
+   name="ko-kr"
+   kind="dir"/>
+<entry
+   name="sv-fi"
+   kind="dir"/>
+<entry
+   name="sw-ke"
+   kind="dir"/>
+<entry
+   name="ga"
+   kind="dir"/>
+<entry
+   name="en-nz"
+   kind="dir"/>
+<entry
+   name="en-gb"
+   kind="dir"/>
+<entry
+   name="ru-ua"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="islamic-civil.js"
+   text-time="2013-09-03T13:57:59.996569Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b1c2a337accc70927e0b86795233a26d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:48.800929Z"/>
+<entry
+   name="ja-jp"
+   kind="dir"/>
+<entry
+   name="el-polyton"
+   kind="dir"/>
+<entry
+   name="gl"
+   kind="dir"/>
+<entry
+   name="ar-sa"
+   kind="dir"/>
+<entry
+   name="pa-arab"
+   kind="dir"/>
+<entry
+   name="pt-pt"
+   kind="dir"/>
+<entry
+   name="es-pa"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="currency.js"
+   text-time="2013-09-03T13:58:00.047572Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="81167eaaa7e26f9dcc133a4ea5f117e2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.596432Z"/>
+<entry
+   name="zh-hant-hk"
+   kind="dir"/>
+<entry
+   name="zh-tw"
+   kind="dir"/>
+<entry
+   name="es-pe"
+   kind="dir"/>
+<entry
+   name="zh-hant"
+   kind="dir"/>
+<entry
+   name="es-hn"
+   kind="dir"/>
+<entry
+   name="om"
+   kind="dir"/>
+<entry
+   name="gu"
+   kind="dir"/>
+<entry
+   name="gv"
+   kind="dir"/>
+<entry
+   name="zh-hans-sg"
+   kind="dir"/>
+<entry
+   name="or"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="ethiopic-amete-alem.js"
+   text-time="2013-09-03T13:58:00.001570Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cde592cb40e1ec5638383050cc98a2d7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:49.800986Z"/>
+<entry
+   name="es-pr"
+   kind="dir"/>
+<entry
+   name="ha"
+   kind="dir"/>
+<entry
+   name="zh-mo"
+   kind="dir"/>
+<entry
+   name="ar-sy"
+   kind="dir"/>
+<entry
+   name="he"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="islamic.js"
+   text-time="2013-09-03T13:58:00.005570Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b1c2a337accc70927e0b86795233a26d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:50.149006Z"/>
+<entry
+   name="nl-be"
+   kind="dir"/>
+<entry
+   name="ar-lb"
+   kind="dir"/>
+<entry
+   name="es-py"
+   kind="dir"/>
+<entry
+   name="hi"
+   kind="dir"/>
+<entry
+   name="pa"
+   kind="dir"/>
+<entry
+   name="en-hk"
+   kind="dir"/>
+<entry
+   name="es-ar"
+   kind="dir"/>
+<entry
+   name="hr"
+   kind="dir"/>
+<entry
+   name="fil"
+   kind="dir"/>
+<entry
+   name="en-pk"
+   kind="dir"/>
+<entry
+   name="pl"
+   kind="dir"/>
+<entry
+   name="hu"
+   kind="dir"/>
+<entry
+   name="ar-dz"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="indian.js"
+   text-time="2013-09-03T13:57:59.986569Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6f57a4529c57885a35b76b2fb3d0b4d4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:42.440565Z"/>
+<entry
+   name="xh"
+   kind="dir"/>
+<entry
+   name="hy"
+   kind="dir"/>
+<entry
+   name="aa"
+   kind="dir"/>
+<entry
+   name="ar-tn"
+   kind="dir"/>
+<entry
+   name="az-cyrl"
+   kind="dir"/>
+<entry
+   name="ps"
+   kind="dir"/>
+<entry
+   name="pt"
+   kind="dir"/>
+<entry
+   name="pt-br"
+   kind="dir"/>
+<entry
+   name="kok"
+   kind="dir"/>
+<entry
+   name="af"
+   kind="dir"/>
+<entry
+   name="byn"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="chinese.js"
+   text-time="2013-09-03T13:58:00.013570Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3f8819e307b69cf83017f5a17472cd86"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:52.153121Z"/>
+<entry
+   name="id"
+   kind="dir"/>
+<entry
+   name="ar-ma"
+   kind="dir"/>
+<entry
+   name="en-ie"
+   kind="dir"/>
+<entry
+   name="am"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="roc.js"
+   text-time="2013-09-03T13:58:00.018571Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4662722c8b845bfa25cf92c6b136989d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:52.464139Z"/>
+<entry
+   name="ig"
+   kind="dir"/>
+<entry
+   name="ii"
+   kind="dir"/>
+<entry
+   name="en-shaw"
+   kind="dir"/>
+<entry
+   name="ar"
+   kind="dir"/>
+<entry
+   name="as"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="number.js"
+   text-time="2013-09-03T13:57:59.991569Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6732b4cbc73e003721fb135e9fcdc800"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:43.884648Z"/>
+<entry
+   name="en-au"
+   kind="dir"/>
+<entry
+   name="en-in"
+   kind="dir"/>
+<entry
+   name="in"
+   kind="dir"/>
+<entry
+   name="az"
+   kind="dir"/>
+<entry
+   name="is"
+   kind="dir"/>
+<entry
+   name="ms-bn"
+   kind="dir"/>
+<entry
+   name="it"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,77 @@
+<div style="float: left;width:928px">
+<ul class="blocklist">
+<li class="level1 nav-1-1 first parent"><span style="font-size: 16px;font-family: Georgia;color: #000000;">By Length</span>
+<ul class="level1">
+<li class="level2 nav-1-1-1 first"><a href="{{store url=dresses}}fashion-dresses.html?sb_dresses_length=749"> <span>Above Knee</span> </a></li>
+<li class="level2 nav-1-1-2"><a href="{{store url=dresses}}fashion-dresses.html?sb_dresses_length=750"> <span>Mini</span> </a></li>
+<li class="level2 nav-1-1-3"><a href="{{store url=dresses}}fashion-dresses.html?sb_dresses_length=751"> <span>Maxi</span> </a></li>
+<li class="level2 nav-1-1-4"><a href="{{store url=dresses}}fashion-dresses.html?sb_dresses_length=752"> <span>Knee Length</span> </a></li>
+<li class="level2 nav-1-1-5"><a href="{{store url=dresses}}fashion-dresses.html?sb_dresses_length=753"> <span>Tea length</span> </a></li>
+<li class="level2 nav-1-1-6"><a href="{{store url=dresses}}fashion-dresses.html?sb_dresses_length=754"> <span>Above Knee/Short</span> </a></li>
+<li class="level2 nav-1-1-7"><a href="{{store url=dresses}}fashion-dresses.html?sb_dresses_length=755"> <span>Long/Full Length</span> </a></li>
+</ul>
+</li>
+
+<li class="level1 nav-1-2 first parent"><span style="font-size: 16px;font-family: Georgia;color: #000000;"><span>By Style</span></span>
+<ul class="level1">
+<li class="level2 nav-1-2-1 first"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=947"><span>Party</span> </a></li>
+<li class="level2 nav-1-2-4"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=888"><span>Sexy</span></a></li>
+<li class="level2 nav-1-2-1 first"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=878"><span>Vintage</span> </a></li>
+<li class="level2 nav-1-2-2"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=879"><span>Casual</span></a></li>
+<li class="level2 nav-1-2-3"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=887"><span>Street</span></a></li>
+<li class="level2 nav-1-2-5"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=886"><span>Honey girl</span> </a></li>
+<li class="level2 nav-1-2-6"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=889"><span>Going Out</span> </a></li>
+<li class="level2 nav-1-2-7"><a href="{{store url=dresses}}fashion-dresses.html?sb_style=884"><span>Star Stalker</span> </a></li>
+</ul>
+</li>
+
+<li class="level1 nav-1-3 first parent"><span style="font-size: 16px;font-family: Georgia;color: #000000;">By Material</span>
+<ul class="level1">
+<li class="level2 nav-1-3-1 first"><a href="{{store url=dresses}}fashion-dresses.html?sb_material=762"><span>Chiffon</span> </a></li>
+<li class="level2 nav-1-3-2"><a href="{{store url=dresses}}fashion-dresses.html?sb_material=763"><span>Cotton</span></a></li>
+<li class="level2 nav-1-3-3"><a href="{{store url=dresses}}fashion-dresses.html?sb_material=764"><span>Polyester</span></a></li>
+<li class="level2 nav-1-3-4"><a href="{{store url=dresses}}fashion-dresses.html?sb_material=765"><span>Cotton Blends</span></a></li>
+<li class="level2 nav-1-3-5"><a href="{{store url=dresses}}fashion-dresses.html?sb_material=766"><span>Lace</span></a></li>
+<li class="level2 nav-1-3-6"><a href="{{store url=dresses}}fashion-dresses.html?sb_material=768"><span>Silk</span></a></li>
+</ul>
+</li>
+
+<li class="level1 nav-1-4 first parent"><span style="font-size: 16px;font-family: Georgia;color: #000000;">By Pattern Type</span>
+<ul class="level1">
+<li class="level2 nav-1-4-1 first"><a href="{{store url=dresses}}fashion-dresses.html?sb_pattern_type=829"><span>Plain</span> </a></li>
+<li class="level2 nav-1-4-2"><a href="{{store url=dresses}}fashion-dresses.html?sb_pattern_type=830"><span>Print</span></a></li>
+<li class="level2 nav-1-4-3"><a href="{{store url=dresses}}fashion-dresses.html?sb_pattern_type=831"><span>Color Block</span></a></li>
+<li class="level2 nav-1-4-4"><a href="{{store url=dresses}}fashion-dresses.html?sb_pattern_type=832"><span>Floral</span></a></li>
+<li class="level2 nav-1-4-5"><a href="{{store url=dresses}}fashion-dresses.html?sb_pattern_type=834"><span>Striped</span> </a></li>
+<li class="level2 nav-1-4-6"><a href="{{store url=dresses}}fashion-dresses.html?sb_pattern_type=833"><span>Polka Dot</span> </a></li>
+<li class="level2 nav-1-4-7"><a href="{{store url=dresses}}fashion-dresses.html?sb_pattern_type=838"><span>Geometric</span> </a></li>
+</ul>
+</li>
+
+<li class="level1 nav-1-5 first parent"><span style="font-size: 16px;font-family: Georgia;color: #000000;">By Neckline</span>
+<ul class="level1">
+<li class="level2 nav-1-5-1 first"><a href="{{store url=dresses}}fashion-dresses.html?sb_neckline=797"><span>Round Neck</span> </a></li>
+<li class="level2 nav-1-5-2"><a href="{{store url=dresses}}fashion-dresses.html?sb_neckline=798"><span>V neck</span></a></li>
+<li class="level2 nav-1-5-3"><a href="{{store url=dresses}}fashion-dresses.html?sb_neckline=807"><span>Tank</span></a></li>
+<li class="level2 nav-1-5-4"><a href="{{store url=dresses}}fashion-dresses.html?sb_neckline=804"><span>Boat Neck</span> </a></li>
+<li class="level2 nav-1-5-5"><a href="{{store url=dresses}}fashion-dresses.html?sb_neckline=803"><span>One Shoulder</span> </a></li>
+<li class="level2 nav-1-5-6"><a href="{{store url=dresses}}fashion-dresses.html?sb_neckline=800"><span>Spaghetti Strap</span></a></li>
+</ul>
+</li>
+
+<li class="level1 nav-1-6 first parent"><span style="font-size: 16px;font-family: Georgia;color: #000000;">By Sleeve Length</span>
+<ul class="level1">
+<li class="level2 nav-1-6-1 first"><a href="{{store url=dresses}}fashion-dresses.html?sb_sleeve_length=870"><span>Long Sleeve</span> </a></li>
+<li class="level2 nav-1-6-2"><a href="{{store url=dresses}}fashion-dresses.html?sb_sleeve_length=871"><span>Short Sleeve</span></a></li>
+<li class="level2 nav-1-6-3"><a href="{{store url=dresses}}fashion-dresses.html?sb_sleeve_length=872"><span>Sleeveless </span></a></li>
+<li class="level2 nav-1-6-4"><a href="{{store url=dresses}}fashion-dresses.html?sb_sleeve_length=873"><span>Half Sleeve</span></a></li>
+<li class="level2 nav-1-6-5"><a href="{{store url=dresses}}fashion-dresses.html?sb_sleeve_length=874"><span>Three Quarter Length Sleeve</span> </a></li>
+</ul>
+</li>
+
+</ul>
+</div>
+<!--div class="right" style="border-left: 1px solid #EFEFEF;padding: 0 0 0 15px;width: 600px;">
+<h3 style="margin-top: -5px; text-align: left;">RECOMMENDATION</h3>
+<img style="float: left; margin: 0 20px 10px 0;" src="{{media url="upload/blanco/magento.png"}}" alt="" />Ultricies sociis 
+</div-->

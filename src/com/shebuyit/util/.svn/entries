@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/util"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ITreeNodeObject.java"
+   text-time="2013-09-03T13:43:19.446205Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="23019ba0598185c00d1176cb08df1e93"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.428204Z"/>
+<entry
+   committed-rev="11"
+   name="Constant.java"
+   text-time="2013-09-03T13:43:19.454205Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e0040b34763a4a33decf4f2610b2fd56"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.431204Z"/>
+<entry
+   committed-rev="11"
+   name="TreeNodeObject.java"
+   text-time="2013-09-03T13:43:19.464206Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c17b64bf18a947f2840190e902be5968"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.437204Z"/>
+</wc-entries>

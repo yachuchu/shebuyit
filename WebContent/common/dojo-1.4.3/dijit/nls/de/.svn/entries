@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/nls/de"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="common.js"
+   text-time="2013-09-03T13:58:07.918022Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="04d7ca2b29813d7c9aa8c3eb964d7085"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:07.910022Z"/>
+<entry
+   committed-rev="11"
+   name="loading.js"
+   text-time="2013-09-03T13:58:07.923023Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b4ea832ac2fb1cd4126f7ff1b3f612c5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:07.913022Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/js/flot"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="jquery.flot.min.js"
+   text-time="2013-09-03T13:43:34.437062Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="894855595d743ec62595d0772f1424fe"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:34.423061Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.flot.selection.min.js"
+   text-time="2013-09-03T13:43:34.446063Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="23425f6f6015ee39f0d1e7cb901c3d44"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:34.428062Z"/>
+</wc-entries>

@@ -1,0 +1,1 @@
+({"descending":"降順","sortingState":"${0} - ${1}","ascending":"昇順","nestedSort":"入れ子ソート","unsorted":"この列をソートしない","singleSort":"単一ソート"})

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/dtl/contrib"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="html.js"
+   text-time="2013-09-03T14:00:16.819395Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="14ba166dfaf8e7c407915c78736d91d2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:16.759392Z"/>
+<entry
+   committed-rev="11"
+   name="data.js"
+   text-time="2013-09-03T14:00:16.770392Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ebda1933467d4f61060c95688fa947ee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:16.683387Z"/>
+<entry
+   committed-rev="11"
+   name="objects.js"
+   text-time="2013-09-03T14:00:16.774393Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2457f21b4ebb933b01046d48401dc54a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:16.692388Z"/>
+<entry
+   committed-rev="11"
+   name="dom.js"
+   text-time="2013-09-03T14:00:16.782393Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1766584950c9ea29ddf1d0607bbe1f64"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:16.711389Z"/>
+<entry
+   committed-rev="11"
+   name="dijit.js"
+   text-time="2013-09-03T14:00:16.811395Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d7d01a1798b15e125692ec6678cff91b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:16.725390Z"/>
+</wc-entries>

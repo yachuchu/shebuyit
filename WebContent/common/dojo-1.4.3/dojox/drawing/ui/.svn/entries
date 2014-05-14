@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing/ui"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="dom"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Tooltip.js"
+   text-time="2013-09-03T14:00:46.732106Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="424373c5dac15136e112af734a35fa49"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.572097Z"/>
+<entry
+   committed-rev="11"
+   name="Button.js"
+   text-time="2013-09-03T14:00:46.762108Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="223ee3259a3e644452b6c6711deafd0b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.576097Z"/>
+<entry
+   committed-rev="11"
+   name="Toolbar.js"
+   text-time="2013-09-03T14:00:46.779109Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="98e797faf963985f2716be590f385a26"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.580097Z"/>
+</wc-entries>

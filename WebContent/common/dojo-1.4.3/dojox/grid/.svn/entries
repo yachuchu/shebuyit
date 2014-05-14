@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/grid"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_ViewManager.js"
+   text-time="2013-09-03T14:00:45.463034Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5be60f50ad8ef14d787659f62785736d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.154016Z"/>
+<entry
+   committed-rev="11"
+   name="TreeSelection.js"
+   text-time="2013-09-03T14:00:45.468034Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="770052da7c1140d647f9e17ab94f524d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.158016Z"/>
+<entry
+   committed-rev="11"
+   name="TreeGrid.js"
+   text-time="2013-09-03T14:00:45.474034Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ba72451367f52f8e6f309a46035757ce"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.309025Z"/>
+<entry
+   committed-rev="11"
+   name="_RowSelector.js"
+   text-time="2013-09-03T14:00:45.479034Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6cf6d0eb3bfa39751c88298193a70d8b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.313025Z"/>
+<entry
+   committed-rev="11"
+   name="_FocusManager.js"
+   text-time="2013-09-03T14:00:45.326026Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1e51eb18cb48df80514696b3840d8611"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:24.032808Z"/>
+<entry
+   committed-rev="11"
+   name="_View.js"
+   text-time="2013-09-03T14:00:45.321025Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3669b65e08c996133c9c1cacdcb47c42"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:23.729790Z"/>
+<entry
+   committed-rev="11"
+   name="EnhancedGrid.js"
+   text-time="2013-09-03T14:00:45.334026Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e7980ba8f3f7e7815cfbd272ad75146e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:24.041808Z"/>
+<entry
+   committed-rev="11"
+   name="_Layout.js"
+   text-time="2013-09-03T14:00:45.340027Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="017457ce366605b4d6a397ca795e0552"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:24.201817Z"/>
+<entry
+   committed-rev="11"
+   name="util.js"
+   text-time="2013-09-03T14:00:45.345027Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="50c0580bcbb85084dde1f3e3a9fdf909"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:24.206818Z"/>
+<entry
+   committed-rev="11"
+   name="_EditManager.js"
+   text-time="2013-09-03T14:00:45.367028Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0a18169eee0d1ba7e65d588a1d6a63ca"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.605069Z"/>
+<entry
+   committed-rev="11"
+   name="DataSelection.js"
+   text-time="2013-09-03T14:00:45.362028Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dddaca3b8c78df5e22347297c8d107c2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.601069Z"/>
+<entry
+   committed-rev="11"
+   name="DataGrid.js"
+   text-time="2013-09-03T14:00:45.356027Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a35616c317f9f8740e1ba4b85bdba20e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:28.592069Z"/>
+<entry
+   committed-rev="11"
+   name="_Selector.js"
+   text-time="2013-09-03T14:00:45.350027Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="57307cd5adc01c0b7034f99a58057ac5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:24.210818Z"/>
+<entry
+   name="nls"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:45.378029Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e0b9a41c7dac9ec4dddd85263d738d46"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:34.176388Z"/>
+<entry
+   committed-rev="11"
+   name="compatGrid.tar.gz"
+   text-time="2013-09-03T14:00:45.373028Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ea3f1c53c8f77c84c35a00b2dd16f9fa"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:34.166387Z"/>
+<entry
+   committed-rev="11"
+   name="_Scroller.js"
+   text-time="2013-09-03T14:00:45.383029Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e3fc886f7c76ef6365c4eb9e604482ac"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:34.491406Z"/>
+<entry
+   committed-rev="11"
+   name="_Grid.js"
+   text-time="2013-09-03T14:00:45.391029Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c0fc9a80cb5113322a0d73743c084e65"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:35.382457Z"/>
+<entry
+   committed-rev="11"
+   name="_Builder.js"
+   text-time="2013-09-03T14:00:45.399030Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d86556b3450e86d1cf6e51bb6b6776cb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:36.033494Z"/>
+<entry
+   committed-rev="11"
+   name="Selection.js"
+   text-time="2013-09-03T14:00:45.405030Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d9b9039f01567eb5cb2cd5fc7df44b98"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:36.200504Z"/>
+<entry
+   committed-rev="11"
+   name="_CheckBoxSelector.js"
+   text-time="2013-09-03T14:00:45.415031Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="056574162e124aa917ca5e66cedb82e7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:36.203504Z"/>
+<entry
+   name="cells"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_TreeView.js"
+   text-time="2013-09-03T14:00:45.420031Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9691feb604341170b4f6343d1a99791f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:37.070554Z"/>
+<entry
+   name="enhanced"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="_RadioSelector.js"
+   text-time="2013-09-03T14:00:45.429032Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="54ad979d056ff8d2cd8994f3ccf8d759"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:41.628814Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="DataGrid.js.uncompressed.js"
+   text-time="2013-09-03T14:00:45.438032Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="66f7a729d3e17d354a5758dcb682d258"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:44.987006Z"/>
+<entry
+   committed-rev="11"
+   name="_RowManager.js"
+   text-time="2013-09-03T14:00:45.447033Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f86a8232d1dca243c71b95804937a289"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.000007Z"/>
+<entry
+   committed-rev="11"
+   name="cells.js"
+   text-time="2013-09-03T14:00:45.452033Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="98e380d089b5c2f166506957711b7f6d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.005007Z"/>
+<entry
+   committed-rev="11"
+   name="_Events.js"
+   text-time="2013-09-03T14:00:45.457033Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0527153b14b1650bd3289b288b5c00ad"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:45.149016Z"/>
+</wc-entries>

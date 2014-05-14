@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/math/random"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Secure.js"
+   text-time="2013-09-03T13:59:42.222416Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9231ddbda2c6e731a7a7a14a47a789bb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:42.196415Z"/>
+<entry
+   committed-rev="11"
+   name="Simple.js"
+   text-time="2013-09-03T13:59:42.227417Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="03c1b2de582363d60f6993d2ea489cee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:42.202415Z"/>
+<entry
+   committed-rev="11"
+   name="prng4.js"
+   text-time="2013-09-03T13:59:42.234417Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dc1d742c527b6f8f715d6e576d980ced"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:42.206415Z"/>
+</wc-entries>

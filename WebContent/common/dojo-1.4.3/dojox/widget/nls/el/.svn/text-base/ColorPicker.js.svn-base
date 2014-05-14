@@ -1,0 +1,1 @@
+({"redLabel":"κ","valueLabel":"τ","hexLabel":"δεκαεξαδικό","hueLabel":"α","saturationLabel":"ο","degLabel":"°","greenLabel":"π","blueLabel":"μ"})

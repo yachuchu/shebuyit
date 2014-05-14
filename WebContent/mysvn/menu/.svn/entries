@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/mysvn/menu"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="shipping-guide.html"
+   text-time="2013-09-03T13:43:41.381459Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="170da8d59357244af94625a139487d27"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.058327Z"/>
+<entry
+   committed-rev="11"
+   name="return-policy.html"
+   text-time="2013-09-03T13:43:41.386460Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="dd0788f3c10fcd6c4e3343980e1c8812"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.061327Z"/>
+<entry
+   committed-rev="11"
+   name="payment.html"
+   text-time="2013-09-03T13:43:41.393460Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="33ab0d1efd4767a9b7d3e5ac3f9da138"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.067327Z"/>
+<entry
+   committed-rev="11"
+   name="serverHome.html"
+   text-time="2013-09-03T13:43:41.399460Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9362365de0c02e0a937d55382d0c19bb"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.388345Z"/>
+<entry
+   committed-rev="11"
+   name="contact-us.html"
+   text-time="2013-09-03T13:43:41.403461Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8988c837ed650cbcf61aed66745157ac"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.544354Z"/>
+<entry
+   committed-rev="11"
+   name="Shoes.html"
+   text-time="2013-09-03T13:43:41.409461Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6555b65565022ce3f8c75cb4efaf1088"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.549355Z"/>
+<entry
+   committed-rev="11"
+   name="Jewelry.html"
+   text-time="2013-09-03T13:43:41.413461Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ac433bdc36da2a8fb3501d9161f60e6e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.552355Z"/>
+<entry
+   committed-rev="30"
+   name="points-program.html"
+   text-time="2013-12-24T13:56:21.414350Z"
+   committed-date="2013-11-12T07:42:44.743280Z"
+   checksum="f2ab5afbe7471e04cac5f38abfa42dd5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-12-24T13:56:21.410350Z"
+   revision="30"/>
+<entry
+   committed-rev="11"
+   name="privacy-security.html"
+   text-time="2013-09-03T13:43:41.418462Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="215f30b0bf4689e3aca65d9365cb30db"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.555355Z"/>
+<entry
+   committed-rev="11"
+   name="use-the-coupon-code.html"
+   text-time="2013-09-03T13:43:41.422462Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6de3181bad469f37a198d448752ed9b3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.709364Z"/>
+<entry
+   committed-rev="11"
+   name="verifi.html"
+   text-time="2013-09-03T13:43:41.435463Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="572bfc0498e7bd465f8da72c796f68b7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.717364Z"/>
+<entry
+   committed-rev="11"
+   name="keyword.html"
+   text-time="2013-09-03T13:43:41.428462Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="51858c8371e1be8d5b2756ec174aa9c1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.714364Z"/>
+<entry
+   committed-rev="30"
+   name="affiliate.html"
+   text-time="2013-12-24T13:56:16.957095Z"
+   committed-date="2013-11-12T07:42:44.743280Z"
+   checksum="5ee1bda3899bb3e7e6ea578dde5b993b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-12-24T13:56:16.952095Z"
+   revision="30"/>
+<entry
+   committed-rev="11"
+   name="tops.html"
+   text-time="2013-09-03T13:43:41.443463Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c6f4a8352dcafc462aa1a4a6ebee59ca"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.877373Z"/>
+<entry
+   committed-rev="11"
+   name="coupon-code-muchbuy.html"
+   text-time="2013-09-03T13:43:41.439463Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8e65bf737652fe979deec302c6a74b11"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.721364Z"/>
+<entry
+   committed-rev="11"
+   name="bottoms.html"
+   text-time="2013-09-03T13:43:41.448463Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="37bf6950335d1d886baa70a644cec25a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.882374Z"/>
+<entry
+   committed-rev="11"
+   name="new-year-coupon.html"
+   text-time="2013-09-03T13:43:41.454464Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="99f3f886212d9743b5878a8cee4c4fa1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:39.885374Z"/>
+<entry
+   committed-rev="11"
+   name="box.html"
+   text-time="2013-09-03T13:43:41.460464Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="92e75e78257fca45c1b804f0cef17695"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:40.053383Z"/>
+<entry
+   committed-rev="11"
+   name="help.html"
+   text-time="2013-09-03T13:43:41.466464Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="81a3808dfea15d2fef15d2bad05d0529"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:40.225393Z"/>
+<entry
+   committed-rev="11"
+   name="home.html"
+   text-time="2013-09-03T13:43:41.472465Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6dfcae11a94177f73748fce0aa5e8f38"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:40.871430Z"/>
+<entry
+   committed-rev="11"
+   name="daily-new.html"
+   text-time="2013-09-03T13:43:41.478465Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f1fd6c4afc845223eb8da4dd6d80fe6f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:40.874430Z"/>
+<entry
+   committed-rev="11"
+   name="collection.html"
+   text-time="2013-09-03T13:43:41.483465Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="302777f0b3aa866ddbd0d696a86217ca"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:41.025439Z"/>
+<entry
+   committed-rev="11"
+   name="size-charts.html"
+   text-time="2013-09-03T13:43:41.489466Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="86842d7829ea930c9f2594c6eee40dd6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:41.342457Z"/>
+<entry
+   committed-rev="11"
+   name="footer_shipping.html"
+   text-time="2013-09-03T13:43:41.355458Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e0581cc45faabdf3296e4df8bd4c625e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.559298Z"/>
+<entry
+   committed-rev="11"
+   name="about-us.html"
+   text-time="2013-09-03T13:43:41.350458Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="331ad727376b006ff507705531796771"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.556298Z"/>
+<entry
+   committed-rev="11"
+   name="mylist.phtml"
+   text-time="2013-09-03T13:43:41.360458Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="12d459b5c70387d03514b20755fd1578"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.729308Z"/>
+<entry
+   committed-rev="11"
+   name="choose-us.html"
+   text-time="2013-09-03T13:43:41.365459Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1a7129c88bc059f39609f3a940ab92c4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.734308Z"/>
+<entry
+   committed-rev="30"
+   name="blogger-icon.html"
+   text-time="2013-12-24T13:56:19.114218Z"
+   committed-date="2013-11-12T07:42:44.743280Z"
+   checksum="baf7b0852b37698f3b8f1aacf02eb817"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-12-24T13:56:19.109218Z"
+   revision="30"/>
+<entry
+   committed-rev="11"
+   name="Dresses.html"
+   text-time="2013-09-03T13:43:41.371459Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5327e92113ee255adbbaf70c4c0ec481"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.738308Z"/>
+<entry
+   committed-rev="11"
+   name="follow_us.html"
+   text-time="2013-09-03T13:43:41.376459Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3c32871f7c7dfc930818e3acf6bd842d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.896317Z"/>
+</wc-entries>

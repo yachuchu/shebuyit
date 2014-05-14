@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/date"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="islamic"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="buddhist.js"
+   text-time="2013-09-03T14:00:08.439916Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d195e55174b0ed451aa8ba50a1b5cecd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.066895Z"/>
+<entry
+   committed-rev="11"
+   name="php.js"
+   text-time="2013-09-03T14:00:08.444916Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0c8a0eba5a377f41b3c4c26fd736a963"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.405914Z"/>
+<entry
+   name="buddhist"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="relative.js"
+   text-time="2013-09-03T14:00:08.413914Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="105dd8f0fe5205f2404fc41bcfb55918"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:06.707817Z"/>
+<entry
+   committed-rev="11"
+   name="hebrew.js"
+   text-time="2013-09-03T14:00:08.418915Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3cb6229c8ee2da379d2e58f0e8d47e11"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:06.872826Z"/>
+<entry
+   name="hebrew"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="islamic.js"
+   text-time="2013-09-03T14:00:08.424915Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2e5d105166bc3b81a484f5f5ed234dd0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:07.750877Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:08.429915Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="20d1bc37a0659eaa67f4748983d43c6f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:07.758877Z"/>
+<entry
+   committed-rev="11"
+   name="posix.js"
+   text-time="2013-09-03T14:00:08.435916Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a608b025ab471358e8059b9328987f19"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:07.913886Z"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/atom/widget/nls/pl"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="FeedEntryViewer.js"
+   text-time="2013-09-03T14:00:51.552382Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e50355e8a582df61dc7b0a0e60b2d61b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:51.534381Z"/>
+<entry
+   committed-rev="11"
+   name="FeedViewerEntry.js"
+   text-time="2013-09-03T14:00:51.558382Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="205ef9d2ff5bad312130dcc9d8d2d51f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:51.537381Z"/>
+<entry
+   committed-rev="11"
+   name="PeopleEditor.js"
+   text-time="2013-09-03T14:00:51.564383Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a7be89e5678f7fa0b3ce0e0f10bc3d70"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:51.542381Z"/>
+<entry
+   committed-rev="11"
+   name="FeedEntryEditor.js"
+   text-time="2013-09-03T14:00:51.568383Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eed29d2bff756e9b63b64b80611e1e27"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:51.546381Z"/>
+</wc-entries>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/widget/Calendar"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Calendar.css"
+   text-time="2013-09-03T14:01:12.441577Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fd688451876475841dfd85935fb03f77"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.413575Z"/>
+<entry
+   committed-rev="11"
+   name="CalendarMonth.html"
+   text-time="2013-09-03T14:01:12.446577Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4d32adc47a4fad06ccee59b4b98e159a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.417575Z"/>
+<entry
+   committed-rev="11"
+   name="CalendarMonthYear.html"
+   text-time="2013-09-03T14:01:12.450577Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8be58facf9f496284d135e2206ab5363"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.420575Z"/>
+<entry
+   committed-rev="11"
+   name="CalendarDay.html"
+   text-time="2013-09-03T14:01:12.454577Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4eddb6435890a427aa6f6320b8ccdff2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.423576Z"/>
+<entry
+   committed-rev="11"
+   name="Calendar.html"
+   text-time="2013-09-03T14:01:12.430576Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a6f3956da90602adecce209d8472deac"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.352572Z"/>
+<entry
+   committed-rev="11"
+   name="CalendarYear.html"
+   text-time="2013-09-03T14:01:12.434576Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e2fbfceaa7c53ee252ce9573ea46c1c9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:12.355572Z"/>
+</wc-entries>

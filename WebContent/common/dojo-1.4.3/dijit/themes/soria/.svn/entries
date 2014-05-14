@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/themes/soria"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Common.css"
+   text-time="2013-09-03T13:58:34.646551Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b3529936112923dea7936d8fe988ec30"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.920395Z"/>
+<entry
+   committed-rev="11"
+   name="ProgressBar.css"
+   text-time="2013-09-03T13:58:34.652552Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="37e2831ec85007f1e073fef99cb68863"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.925396Z"/>
+<entry
+   committed-rev="11"
+   name="Calendar_rtl.css"
+   text-time="2013-09-03T13:58:34.656552Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f37f688bed84e3db3a79a84f7f933e30"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.929396Z"/>
+<entry
+   committed-rev="11"
+   name="TimePicker.css"
+   text-time="2013-09-03T13:58:34.660552Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b54cfe7ea21d5f04370d0c76030da980"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.933396Z"/>
+<entry
+   committed-rev="11"
+   name="ColorPalette.css"
+   text-time="2013-09-03T13:58:34.667552Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="25f62d3c993f2fe28aba0ec52d67d2a8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.937396Z"/>
+<entry
+   committed-rev="11"
+   name="soria_rtl.css"
+   text-time="2013-09-03T13:58:34.671553Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="82b896f658424e53276c0f472c2756af"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.940396Z"/>
+<entry
+   committed-rev="11"
+   name="Dialog.css"
+   text-time="2013-09-03T13:58:34.682553Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6a1d8a96c286336596a77be936e7a035"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.947397Z"/>
+<entry
+   committed-rev="11"
+   name="Tree.css"
+   text-time="2013-09-03T13:58:34.676553Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ed66817a76ea8a7deb2e78bdd947222f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.944397Z"/>
+<entry
+   committed-rev="11"
+   name="Toolbar.css"
+   text-time="2013-09-03T13:58:34.686554Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e741cc78e89f11bf95e5b42b325bbe41"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:32.082405Z"/>
+<entry
+   committed-rev="11"
+   name="Menu.css"
+   text-time="2013-09-03T13:58:34.691554Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="28344e48be1b7426d7c3a1c1bcf0a215"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:32.098406Z"/>
+<entry
+   committed-rev="11"
+   name="TitlePane_rtl.css"
+   text-time="2013-09-03T13:58:34.699554Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="63ef794247f22221eac4a346654265e1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:32.111406Z"/>
+<entry
+   committed-rev="11"
+   name="Editor_rtl.css"
+   text-time="2013-09-03T13:58:34.703555Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="68895be438f4ae094be9b382e7b0151a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:32.115406Z"/>
+<entry
+   committed-rev="11"
+   name="Calendar.css"
+   text-time="2013-09-03T13:58:34.708555Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0572ff9ea00f683ae5e8da8dfe0d0212"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:32.118407Z"/>
+<entry
+   name="form"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="soria.css"
+   text-time="2013-09-03T13:58:34.714555Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8fa881f49a6bc9f36b2f4b7821fda978"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:32.329419Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Tree_rtl.css"
+   text-time="2013-09-03T13:58:34.720556Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c3c4fecb0b9724d88ae20f4f6e94844c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:34.620550Z"/>
+<entry
+   committed-rev="11"
+   name="Dialog_rtl.css"
+   text-time="2013-09-03T13:58:34.724556Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e8f75f619772ff4f120941e30ba59684"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:34.623550Z"/>
+<entry
+   committed-rev="11"
+   name="TitlePane.css"
+   text-time="2013-09-03T13:58:34.635551Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b3e6c0ab9ef868dc2407fc9b19148e66"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.602377Z"/>
+<entry
+   committed-rev="11"
+   name="Menu_rtl.css"
+   text-time="2013-09-03T13:58:34.630550Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d56d889c9f91b8941e0216250a5d9d4f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.596377Z"/>
+<entry
+   committed-rev="11"
+   name="Editor.css"
+   text-time="2013-09-03T13:58:34.641551Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e2ee12540068d2d5df353b01dcfe3f0d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:31.838391Z"/>
+<entry
+   name="layout"
+   kind="dir"/>
+</wc-entries>

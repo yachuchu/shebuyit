@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/js"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="jquery.ui.core.min.js"
+   text-time="2013-09-03T13:43:38.472293Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="59d36f72856b62cfb46167c0f8b8e356"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:36.881202Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.dataTables.min.js"
+   text-time="2013-09-03T13:43:38.465293Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3f583b2edaa2eb8f08094a738976fa44"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:36.875202Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.validate_pack.js"
+   text-time="2013-09-03T13:43:38.477293Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8a4a91f6cdd5c4dca3c7e2532823da7b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:37.047212Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.ui.datepicker.js"
+   text-time="2013-09-03T13:43:38.483294Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8aba595cb11ed239be27a1470a0ef520"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.212278Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.ui.tabs.min.js"
+   text-time="2013-09-03T13:43:38.489294Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8b7ec7c16450f91e039f67af713f89cc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.382288Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.superfish.min.js"
+   text-time="2013-09-03T13:43:38.495294Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="40f7a3c0adcce4e7579ec5097986fd55"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.386288Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.tipTip.min.js"
+   text-time="2013-09-03T13:43:38.502295Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6eb77adc1ed55d94c3c598d424843dd1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:38.390288Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.wysiwyg.min.js"
+   text-time="2013-09-03T13:43:38.399289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8d8610cf5d9c32a5b46e849af1889701"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:32.976979Z"/>
+<entry
+   committed-rev="11"
+   name="administry.js"
+   text-time="2013-09-03T13:43:38.404289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="cd7962b0c468a8ba22b7cdae307eb32a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:32.980979Z"/>
+<entry
+   committed-rev="11"
+   name="IE8.js"
+   text-time="2013-09-03T13:43:38.409289Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ca241abc32c35ea504d258b674dd12f1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:33.421004Z"/>
+<entry
+   committed-rev="11"
+   name="swfobject.js"
+   text-time="2013-09-03T13:43:38.416290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="892a543f3abb54e8ec1ada55be3b0649"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:33.581013Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.sparkline.min.js"
+   text-time="2013-09-03T13:43:38.422290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7a5a36dc9f1b4b68a4127a4d932d62c8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:33.911032Z"/>
+<entry
+   committed-rev="11"
+   name="html5.js"
+   text-time="2013-09-03T13:43:38.427290Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="69431f1ec831bacf31013dff2872cba0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:33.919033Z"/>
+<entry
+   name="flot"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="jquery.supersubs.min.js"
+   text-time="2013-09-03T13:43:38.438291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="211571ba3208671835118ef569db159b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:34.595071Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.tagInput.min.js"
+   text-time="2013-09-03T13:43:38.433291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="558e0a6c1a3cc54f3a0e9e3af5ee7494"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:34.591071Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.ui.widget.min.js"
+   text-time="2013-09-03T13:43:38.451292Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bcef20451dcc3063758b3e47f463b29e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:34.906089Z"/>
+<entry
+   committed-rev="11"
+   name="jquery.nyroModal.pack.js"
+   text-time="2013-09-03T13:43:38.445291Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="786f751fc173ec0ff636b9ed42a7ce40"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:34.752080Z"/>
+<entry
+   committed-rev="11"
+   name="jquery-1.4.2.min.js"
+   text-time="2013-09-03T13:43:38.459292Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="10092eee563dec2dca82b77d2cf5a1ae"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:35.909146Z"/>
+</wc-entries>

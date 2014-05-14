@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/src/com/shebuyit/common/util"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ResourseBundleUtil.java"
+   text-time="2013-09-03T13:43:19.321198Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6e9740ba0cae5d817445bd8dbd8bc6ed"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.296196Z"/>
+<entry
+   committed-rev="11"
+   name="Paging.java"
+   text-time="2013-09-03T13:43:19.306197Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="551c6e09740198ddf9feefb55e2881b6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.285196Z"/>
+<entry
+   committed-rev="11"
+   name="ReflectionUtils.java"
+   text-time="2013-09-03T13:43:19.313197Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8a96289261df08058ee02e6e6c7d47db"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:43:19.290196Z"/>
+</wc-entries>

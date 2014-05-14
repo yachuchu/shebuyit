@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/charting/plot2d"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Markers.js"
+   text-time="2013-09-03T14:01:23.431205Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b2692d121eec44184baac7cdb5c34d79"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.038183Z"/>
+<entry
+   committed-rev="11"
+   name="Scatter.js"
+   text-time="2013-09-03T14:01:23.437206Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d39081c234b2f441c678adf3dfbb1048"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.175191Z"/>
+<entry
+   committed-rev="11"
+   name="MarkersOnly.js"
+   text-time="2013-09-03T14:01:23.443206Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a9f5a915fae8778c465274cb7d1c6005"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.180191Z"/>
+<entry
+   committed-rev="11"
+   name="Candlesticks.js"
+   text-time="2013-09-03T14:01:23.447206Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ac5c5263fcc6ae3d4186de00b7f7022d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.184191Z"/>
+<entry
+   committed-rev="11"
+   name="StackedLines.js"
+   text-time="2013-09-03T14:01:23.452206Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="276b464c4f18255f808794d00ebc7643"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.188191Z"/>
+<entry
+   committed-rev="11"
+   name="Base.js"
+   text-time="2013-09-03T14:01:23.457207Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e360059edcbe14ebb8827cc41fec68ea"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.192192Z"/>
+<entry
+   committed-rev="11"
+   name="Lines.js"
+   text-time="2013-09-03T14:01:23.465207Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="078bf7dbbdb84f9df9cb652039270c28"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.196192Z"/>
+<entry
+   committed-rev="11"
+   name="Pie.js"
+   text-time="2013-09-03T14:01:23.471207Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b22f83e31f819e6eec507b44e0e7f21a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.200192Z"/>
+<entry
+   committed-rev="11"
+   name="Stacked.js"
+   text-time="2013-09-03T14:01:23.476208Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="865f0c019bb042c42d61b63c7540309a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.355201Z"/>
+<entry
+   committed-rev="11"
+   name="StackedColumns.js"
+   text-time="2013-09-03T14:01:23.481208Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="26338151c1ab9f041df0ed3d2d8e04c5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.361201Z"/>
+<entry
+   committed-rev="11"
+   name="Columns.js"
+   text-time="2013-09-03T14:01:23.486208Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9abe328369c7b636075a1bf145862870"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.366201Z"/>
+<entry
+   committed-rev="11"
+   name="Default.js"
+   text-time="2013-09-03T14:01:23.491209Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9fccda0e271d4d6803258b0891aa2db0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.371202Z"/>
+<entry
+   committed-rev="11"
+   name="Grid.js"
+   text-time="2013-09-03T14:01:23.382202Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="12dc32df1e4d2b5533c4eac70303372f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:22.844172Z"/>
+<entry
+   committed-rev="11"
+   name="OHLC.js"
+   text-time="2013-09-03T14:01:23.377202Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="42f749362c554bb783403bf45dfc01e8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:22.841171Z"/>
+<entry
+   committed-rev="11"
+   name="StackedBars.js"
+   text-time="2013-09-03T14:01:23.388203Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="412e10372d5255f2f87114e98081bdb1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:22.848172Z"/>
+<entry
+   committed-rev="11"
+   name="Bars.js"
+   text-time="2013-09-03T14:01:23.395203Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e2bf8ef1585aa9a737dadec87c735a1e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.009181Z"/>
+<entry
+   committed-rev="11"
+   name="common.js"
+   text-time="2013-09-03T14:01:23.400203Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="137c58bc4a34ff29f896459e2ea8e418"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.015181Z"/>
+<entry
+   committed-rev="11"
+   name="StackedAreas.js"
+   text-time="2013-09-03T14:01:23.406204Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="11504eda86f3cd0e19f95dbea915ab5a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.019182Z"/>
+<entry
+   committed-rev="11"
+   name="ClusteredColumns.js"
+   text-time="2013-09-03T14:01:23.421205Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b34fd9f2a507319cf45b5a20bc09ba3d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.031182Z"/>
+<entry
+   committed-rev="11"
+   name="Bubble.js"
+   text-time="2013-09-03T14:01:23.416204Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4f328c5583f7024c1718c970edc122f5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.027182Z"/>
+<entry
+   committed-rev="11"
+   name="Areas.js"
+   text-time="2013-09-03T14:01:23.411204Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="52dbed94b97103147a0e04675fe909c5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.023182Z"/>
+<entry
+   committed-rev="11"
+   name="ClusteredBars.js"
+   text-time="2013-09-03T14:01:23.426205Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="417c03e0a3e5efdd49632f043cad3716"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:23.035183Z"/>
+</wc-entries>

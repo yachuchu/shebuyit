@@ -1,0 +1,609 @@
+<style type="text/css">
+@charset "utf-8";
+body, h1, h2, h3, h4, h5, h6, p, pre, blockquote, dl, dt, dd, ul, ol, li, form, fieldset, legend, input, textarea, button, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol {
+    list-style: none outside none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal;
+	line-height: 3.25;
+}
+
+body {
+    font: 12px/1.5 arial;
+}
+body {
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.box, .box-sub {
+    border: 1px solid #E4E4E4;
+    margin-bottom: 10px;
+}
+.box .hd, .box-sub .hd {
+    position: relative;
+}
+.box h2, .box-sub h2, .box .h2, .box-sub .h2 .hp-box .h2{
+    display: inline;
+    font-family: "Georgia";
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box .bd, .box-sub .bd {
+}
+.box .bd:after, .box-sub .bd:after {
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.box .act, .box-sub .act {
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+.box .act a, .box-sub .act a {
+    color: #666666;
+}
+.box .act a:hover, .box-sub .act a:hover {
+    color: #CC0000;
+}
+.box .hd {
+    background-color: #F9F9F9;
+    height: 35px;
+    line-height: 35px;
+}
+.box-sub .hd {
+    
+    height: 26px;
+    line-height: 26px;
+}
+.box-sub h2, .box-sub h2 a, .box-sub .h2, .box-sub .h2 a {
+    color: #990000;
+}
+
+.box {
+    padding: 0;
+}
+
+a:hover {
+    color: #CC0000;
+    text-decoration: underline;
+}
+
+.shadow {
+    background-color: #D4D4D4;
+    padding: 999em;
+    position: absolute;
+    z-index: -1;
+}
+
+.box-prdsort {
+    margin-bottom: 0;
+    width: 728px;
+}
+.box-prdsort .hd {
+    background-color: #FFFFFF;
+    height: 32px;
+    line-height: 32px;
+}
+
+.prdsort-list {
+    border-top: 1px solid #F2F2F2;
+    float: left;
+    height: 65px;
+    position: relative;
+    width: 364px;
+}
+.prdsort-flow, .prdsort-fixed {
+    height: 65px;
+    overflow: hidden;
+    position: relative;
+    width: 364px;
+}
+.prdsort-list h3 {
+    background-color: #EDEDED;
+    font-weight: bold;
+    height: 65px;
+    line-height: 65px;
+    overflow: hidden;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    width: 80px;
+    word-wrap: break-word;
+}
+.prdsort-list h3 a {
+    color: #333333;
+}
+.prdsort-list h3 a:hover {
+    color: #FEFEFE;
+}
+.prdsort-list h3.hp-linefeed a {
+    display: block;
+    line-height: 1.5;
+    padding-top: 16px;
+}
+.prdsort-item {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF #FFFFFF #FFFFFF -moz-use-text-color;
+    border-image: none;
+    border-style: solid solid solid none;
+    border-width: 0px 0px 0px medium;
+    height: 61px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 253px;
+}
+.prdsort-item li {
+    float: left;
+    height: 30px;
+    line-height: 2.58;
+    margin-left: -1px;
+    padding: 0 8px;
+}
+.prdsort-item a {
+    color: #666666;
+    float: left;
+    white-space: nowrap;
+}
+.prdsort-item a:hover {
+    color: #CC0000;
+}
+
+.prdsort-item .ico-hot {
+    background-position: 100% -218px;
+    padding-right: 20px;
+}
+.prdsort-item .ico-new {
+    background-position: 100% -238px;
+    padding-right: 23px;
+}
+.prdsort-item .ico-sale {
+    background-position: 100% -258px;
+    padding-right: 26px;
+}
+.prdsort-item ul {
+    height: 61px;
+    overflow: hidden;
+    padding-bottom: 2px;
+}
+
+.prdsort-list-b, .prdsort-list-b .prdsort-fixed, .prdsort-list-b .prdsort-flow {
+    width: 728px;
+}
+.prdsort-list-b .prdsort-item {
+    width: 617px;
+}
+
+.prdsort-list-hover {
+    z-index: 999;
+}
+.prdsort-list-hover h3 {
+    background-color: #AA0000;
+}
+.prdsort-list-hover h3 a {
+    color: #FEFEFE;
+}
+.box-hotbrand {
+    width: 220px;
+	height: 495px;
+}
+.box-hotbrand .hd {
+    background-color: #FFFFFF;
+    height: 32px;
+    line-height: 32px;
+}
+
+
+
+
+.hp-hd {
+    border-bottom: 2px solid #CC0000;
+    height: 30px;
+    position: relative;
+}
+
+.hp-bd {
+    border: 1px solid #E4E4E4;
+    overflow: hidden;
+}
+.hp-more {
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 6px;
+}
+.hp-more a {
+    color: #999999;
+}
+.hp-more a:hover {
+    color: #CC0000;
+}
+.hp-more li {
+    float: left;
+    margin-left: 10px;
+    margin-right: -1px;
+    padding-right: 10px;
+}
+.hp-more li {
+    background-position: right -760px;
+}
+.pic-box {
+    background-color: #ffffff;
+}
+.hp-list ul {
+    padding: 0 0 12px 5px;
+}
+.hp-list li a {
+    color: #666666;
+}
+.hp-list li a:hover {
+    color: #CC0000;
+    text-decoration: none;
+}
+.hp-list li img {
+    height: 228px;
+    margin-bottom: 5px;
+    width: 175px;
+}
+.list-item {
+    float: left;
+    margin: 0 0 0 15px;
+    overflow: hidden;
+    width: 175px;
+}
+.list-item-tit {
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 175px;
+}
+.list-item-price {
+    background-position: left -1007px;
+    color: #CC0000;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.hp-list a:hover .list-item-tit {
+    text-decoration: underline;
+}
+
+
+.hp-box-sub {
+    border: 1px solid #E4E4E4;
+    margin-bottom: 25px;
+}
+.hp-hd-sub {
+    background-color: #F9FAFA;
+    border-bottom: 1px solid #E4E4E4;
+    height: 29px;
+    line-height: 29px;
+    position: relative;
+}
+.hp-hd-sub h2 {
+    color: #999999;
+    font-weight: bold;
+    margin-left: 12px;
+}
+.hp-more-sub {
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+.hp-more-sub a, .hp-more-sub a:visited {
+    color: #999999;
+}
+.hp-more-sub a:hover {
+    color: #CC0000;
+}
+
+
+</style>
+
+<table border="0">
+<tr>
+<td>
+<div name="__RMFLE" class="box box-prdsort fl">
+ <div class="hd">
+    <h2>SHOP ALL CATEGORIES</h2>
+      <div class="act"><a target="_blank" href="#"></a></div>
+   </div>
+<div id="j-prdsort" class="bd">
+  <div class="prdsort-list prdsort-list-b">
+    <div class="prdsort-fixed"> 
+        <h3><a target="_blank" href="{{store url=tops}}outerwear.html">Outerwear</a></h3>
+		  <div class="prdsort-item">
+			 <ul> 
+             <li><a target="_blank" href="">On sale</a></li>
+				<li><a target="_blank" href="">New</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=918">Hot sales</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=914">Coats</a></li>
+                <li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=918">Down Coat</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=916">Wool Coat</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=917">Trench Coat</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=919">Padded Coat</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=920">Jackets</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=915">Parka</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=921">Capes</a></li>
+				<li><a target="_blank" href="{{store url=tops}}outerwear.html?sb_types=922">Vests </a></li>
+			</ul>
+			</div>
+        </div>
+      </div>
+	  <div class="prdsort-list prdsort-list-b">
+        <div class="prdsort-flow prdsort-flow-b">
+             <h3><a target="_blank" href="{{store url=tops}}sweaters.html" target="_blank">Sweaters</a></h3>
+			 <div class="prdsort-item">
+			 <ul class="prdsort-item-ul">
+				<li><a target="_blank"  href="{{store url=tops}}sweaters.html?sb_style=878">Vintage Sweaters</a></li>
+				<li><a target="_blank"  href="{{store url=tops}}sweaters.html?sb_pattern_type=829">Plain Sweaters</a></li>
+				<li><a target="_blank"  href="{{store url=tops}}sweaters.html?sb_types=930">Long Sweaters</a></li>
+				<li><a target="_blank"  href="{{store url=tops}}sweaters.html?sb_types=932">Loose Sweaters</a></li>
+				<li><a target="_blank"  href="{{store url=tops}}sweaters.html?sb_types=937">Oversized Sweaters</a></li>
+				<li><a target="_blank"  href="{{store url=tops/sweaters.html}}">10% off sweater sason</a></li>
+			 </ul>
+			</div>
+        </div>
+      </div>
+
+	  <div class="prdsort-list prdsort-list-b">
+        <div class="prdsort-flow prdsort-flow-b">
+            <h3><a target="_blank" href="{{store url=tops}}dresses.html" target="_blank">Dresses</a></h3>
+			<div class="prdsort-item">
+			<ul class="prdsort-item-ul">
+			<li ><a href="{{store url=dresses}}fashion-dresses.html?sb_style=879">Casual Dresses </a></li>
+			<li><a href="{{store url=dresses}}fashion-dresses.html?sb_style=887">Street Dresses </a></li>
+			<li><a href="{{store url=dresses}}fashion-dresses.html?sb_style=886">Honey girl Dresses </a></li>
+			<li><a href="{{store url=dresses}}fashion-dresses.html?sb_style=878">Vintage Dresses </a></li>
+			<li><a href="{{store url=dresses}}fashion-dresses.html?sb_style=888">Sexy Dresses </a></li>
+			<li><a href="{{store url=dresses}}fashion-dresses.html?sb_style=889">Going Out Dresses </a></li>
+			<li><a href="{{store url=dresses}}fashion-dresses.html?sb_style=884">Star Stalker Dresses </a></li>
+			<li><a href="{{store url=dresses}}fashion-dresses.html?sb_style=890">Vacation Dresses </a></li>
+			</ul>
+			</div>
+        </div>
+      </div>
+
+<div class="prdsort-list">
+   <div class="prdsort-flow">
+     <h3><a target="_blank" href="{{store url=tops}}suits.html" target="_blank">Suits</a></h3>
+	 <div class="prdsort-item">
+	 <ul>
+      <li><a target="_blank"  href="{{store url=tops}}suits.html?sb_types=928">Fitted Suits </a></li>
+	  <li><a target="_blank"  href="{{store url=tops}}suits.html?sb_types=929">Boyfriend Suits</a></li>	  
+	  <li><a target="_blank"  href="{{store url=tops}}suits.html?sb_types=931">Cropped Suits</a></li>
+	  <li><a target="_blank"  href="{{store url=tops}}suits.html?sb_style=309">Fashion Suits</a></li>
+     </ul>
+	 </div>
+    </div>
+   </div>   
+   
+<div class="prdsort-list">
+  <div class="prdsort-flow">
+     <h3><a target="_blank" href="{{store url=tops}}blouses.html" target="_blank">Blouses</a></h3>
+	 <div class="prdsort-item">
+	 <ul>
+        <li><a target="_blank"  href="{{store url=tops}}blouses.html?sb_sleeve_length=870">Long Sleeve Blouses</a></li>
+		<li><a target="_blank"  href="{{store url=tops}}blouses.html?sb_sleeve_length=871">Short  Sleeve Blouses</a></li>
+		<li><a target="_blank"  href="{{store url=tops}}blouses.html?sb_pattern_type=831">Color-Block Blouses </a></li>
+		<li><a target="_blank"  href="{{store url=tops}}blouses.html?sb_material=762">Chiffon Blouses </a></li>
+     </ul>
+	</div>
+   </div>
+</div>
+
+
+<div class="prdsort-list">
+   <div class="prdsort-flow">
+     <h3><a target="_blank" href="{{store url=tops}}sweatshirts.html" target="_blank">Sweatshirts</a></h3>
+	 <div class="prdsort-item">
+	 <ul>
+     <li><a target="_blank" href="{{store url=tops}}sweatshirts.html?sb_types=938">Pullovers Sweatshirts </a></li>
+	 <li><a target="_blank" href="{{store url=tops}}sweatshirts.html?sb_types=939">Zip Up Sweatshirts</a></li>
+	 <li><a target="_blank" href="{{store url=tops}}sweatshirts.html?sb_neckline=814">Hoodie Sweatshirts</a></li>
+	 
+     </ul>
+	 </div>
+    </div>
+   </div>   
+   
+<div class="prdsort-list">
+  <div class="prdsort-flow">
+     <h3><a target="_blank" href="{{store url=tops}}t-shirt.html" target="_blank">T-Shirt</a></h3>
+	 <div class="prdsort-item">
+	 <ul>
+        <li><a target="_blank" href="{{store url=tops}}t-shirt.html?sb_tyle=879">Casual T-Shirt</a></li>
+		<li><a target="_blank" href="{{store url=tops}}t-shirt.html?sb_sleeve_length=870">Long Sleeve T-Shirt</a></li>
+     </ul>
+	</div>
+   </div>
+</div>
+
+<div class="prdsort-list">
+   <div class="prdsort-flow">
+     <h3><a target="_blank" href="{{store url=bottoms}}pants.html" target="_blank">Pants</a></h3>
+	 <div class="prdsort-item">
+	 <ul>
+     <li><a target="_blank" href="{{store url=bottoms}}pants.html?sb_types=924">Leggings</a></li>
+	 <li><a target="_blank" href="{{store url=bottoms}}pants.html?sb_types=925">Shorts</a></li>
+	 <li><a target="_blank" href="{{store url=bottoms}}pants.html?sb_types=927">Jeans</a></li>
+	 <li><a target="_blank" href="{{store url=bottoms}}pants.html?sb_tyle=879">Casual Pants</a></li>
+	 <li><a target="_blank" href="{{store url=bottoms}}pants.html?sb_tyle=878">Vintage Pants</a></li>
+	 <li><a target="_blank" href="{{store url=bottoms}}pants.html?sb_tyle=881">Fashion Pants</a></li>	 
+     </ul>
+	 </div>
+    </div>
+   </div>
+
+   <div class="prdsort-list">
+   <div class="prdsort-flow">
+     <h3><a target="_blank" href="{{store url=bottoms}}skirts.html" target="_blank">Skirts</a></h3>
+	 <div class="prdsort-item">
+	 <ul>
+     <li><a target="_blank" href="{{store url=bottoms}}skirts.html?sb_dresses_length=750">Mini Skirts</a></li>
+	 <li><a target="_blank" href="{{store url=bottoms}}skirts.html?sb_dresses_length=751">Maxi Skirts</a></li>
+	 <li><a target="_blank" href="{{store url=bottoms}}skirts.html?sb_tyle=878">Vintage Skirts</a></li>
+	 <li><a target="_blank" href="{{store url=bottoms}}skirts.html?sb_tyle=881">Fashion Skirts</a></li>
+     </ul>
+	 </div>
+    </div>
+   </div>
+   
+
+
+<div class="prdsort-list">
+   <div class="prdsort-flow">
+     <h3><a target="_blank" href="{{store url}}shoes.html" target="_blank">Shoes</a></h3>
+	 <div class="prdsort-item">
+	 <ul>
+     <li><a target="_blank" href="{{store url=shoes}}boots.html}}">Boots</a></li>
+		<li><a target="_blank" href="{{store url=shoes}}flats.html">Flats</a></li>
+		<li><a target="_blank" href="{{store url=shoes}}heels.html">Heels</a></li>
+		<li><a target="_blank" href="{{store url=shoes}}boots.html">Boots</a></li>
+		<li><a target="_blank" href="{{store url=shoes}}leisure-shoes.html">Leisure Shoes</a></li>
+		<li><a target="_blank" href="{{store url=shoes}}sneakers.html">Sneakers</a></li>
+		<li><a target="_blank" href="{{store url=shoes}}trainers.html">Trainers</a></li>
+     </ul>
+	 </div>
+    </div>
+   </div>   
+   
+<div class="prdsort-list">
+  <div class="prdsort-flow">
+     <h3><a target="_blank" href="{{store url}}jewelry.html" target="_blank">Jewelry</a></h3>
+	 <div class="prdsort-item">
+	 <ul>
+      <li><a target="_blank" href="{{store url=jewelry}}bracelets.html">Bracelet</a></li>
+	  <li><a target="_blank" href="{{store url=jewelry}}rings.html">Rings</a></li>
+	  <li><a target="_blank" href="{{store url=jewelry}}necklaces.html">Necklaces</a></li>
+	  <li><a target="_blank" href="{{store url=jewelry}}earrings.html">Earrings</a></li>
+     </ul>
+	</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div name="__RMPPE" class="box box-hotbrand fr">
+    <div class="hd">
+      <h2>HOT BRANDS</h2>
+            <div class="act"><a target="_blank" href=""></a></div>
+    </div>
+    <div class="bd">
+      <ul class="hp-brand-list">
+             <li class="brand-item">
+			 <a href="http://static.m18.com/brand/euromoda.shtml#rel=mpp02E" target="_blank">
+			 <img width="110" height="58" src="http://img.m18.com/web/pic/hp/1111/1118/110411_Euromoda_110x58.jpg" alt="Euromoda"></a></li>
+			 <li class="brand-item">
+			 <a href="http://static.m18.com/brand/jeans.shtml#rel=mpp03E" target="_blank">
+			 <img width="110" height="58" src="http://img.m18.com/web/pic/hp/1111/1118/110411_Jeans_110x58.jpg" alt="Jeans"></a></li>
+			 <li class="brand-item">
+			 <a href="http://static.m18.com/brand/college.shtml#rel=mpp05E" target="_blank">
+			 <img width="110" height="58" src="http://img.m18.com/web/pic/hp/1207/0706/120706j_college_110x58.jpg" alt="College"></a></li>
+			 <li class="brand-item">
+			 <a href="http://static.m18.com/brand/idole.shtml#rel=mpp09E" target="_blank">
+			 <img width="110" height="58" src="http://img.m18.com/web/pic/hp/1208/0816/120816_idole_110x58.jpg" alt="Idole"></a></li>
+      </ul>
+    </div>
+  </div>
+
+</td>
+</tr>
+<tr>
+<td>
+  <div name="__CXJPE" class="hp-box best">
+  <div class="hp-hd">
+    <h2>
+	<a target="_blank"  href="#"><span>BEST</span></a>
+	</h2>
+  </div>
+  <div class="hp-bd">
+    <div class="hp-list">
+       <ul class="cf">
+        <li class="list-item">
+		1
+		</li>
+		<li class="list-item">
+		2
+		</li>
+		<li class="list-item">
+		3
+		</li>
+		<li class="list-item">
+		4
+		</li>
+		<li class="list-item">
+		5
+		</li>
+      </ul>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+
+<div name="__CLNZE" class="hp-box fashion">
+  <div class="hp-hd"> 
+   <h2><a target="_blank" title="FASHION" href="#"><span>FASHION</span></a></h2><div class="hp-more"></div>
+       
+  </div>
+  <div class="hp-bd">
+	<div class="pic-box bb mb10 cf">
+     
+     test
+    </div>
+    <div class="hp-list">
+      <ul class="cf">
+        <li class="list-item">
+		1
+		</li>
+		<li class="list-item">
+		2
+		</li>
+		<li class="list-item">
+		3
+		</li>
+		<li class="list-item">
+		4
+		</li>
+		<li class="list-item">
+		5
+		</li>
+      </ul>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+</table>
+
+           
+
+ 

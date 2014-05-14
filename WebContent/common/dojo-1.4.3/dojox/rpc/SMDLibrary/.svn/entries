@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/rpc/SMDLibrary"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="geonames.smd"
+   text-time="2013-09-03T14:00:17.838454Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f87f24b59688fc1779faffe77944405a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.625441Z"/>
+<entry
+   committed-rev="11"
+   name="yahoo.smd"
+   text-time="2013-09-03T14:00:17.843454Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ae71e811e84353bc7b8e82a03ada9540"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.809452Z"/>
+<entry
+   committed-rev="11"
+   name="dojo-api.smd"
+   text-time="2013-09-03T14:00:17.817452Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f7a35c19a54f1bd3102c44383bb86a20"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.319424Z"/>
+<entry
+   committed-rev="11"
+   name="wikipedia.smd"
+   text-time="2013-09-03T14:00:17.822453Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="336644ddd8164651a08ac5a184d0a7ab"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.324424Z"/>
+<entry
+   committed-rev="11"
+   name="friendfeed.smd"
+   text-time="2013-09-03T14:00:17.828453Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="61040f7acb46f400c23871dbf4ac565f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.456432Z"/>
+<entry
+   committed-rev="11"
+   name="google.smd"
+   text-time="2013-09-03T14:00:17.833453Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4de44d27d05cfdc059b98373a0a8150c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:17.461432Z"/>
+</wc-entries>

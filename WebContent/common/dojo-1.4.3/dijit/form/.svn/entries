@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/form"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_FormWidget.js"
+   text-time="2013-09-03T13:58:22.630864Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3b10b9871e0082fcf5a82c0a3f09c956"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:16.261500Z"/>
+<entry
+   committed-rev="11"
+   name="NumberTextBox.js"
+   text-time="2013-09-03T13:58:22.624864Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e2ffe14dab7bc708dee11f155c28fd78"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:15.408451Z"/>
+<entry
+   committed-rev="11"
+   name="CurrencyTextBox.js"
+   text-time="2013-09-03T13:58:22.645865Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5bfe37c2c3a3f45f9820cefff49dcab5"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:18.404622Z"/>
+<entry
+   committed-rev="11"
+   name="ValidationTextBox.js"
+   text-time="2013-09-03T13:58:22.640865Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ee2eeece1f616e54574f593e8694f63b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:18.239613Z"/>
+<entry
+   committed-rev="11"
+   name="ComboBox.js"
+   text-time="2013-09-03T13:58:22.636864Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a3312fdc6414f1f85776845089a851a6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:17.766586Z"/>
+<entry
+   committed-rev="11"
+   name="TimeTextBox.js"
+   text-time="2013-09-03T13:58:22.652865Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="db524fcf0d4fdf3aa9b32240f7db62df"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:18.409623Z"/>
+<entry
+   committed-rev="11"
+   name="Textarea.js"
+   text-time="2013-09-03T13:58:22.661866Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c0b4f3537e113c3b8652a3f781484657"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:19.085661Z"/>
+<entry
+   committed-rev="11"
+   name="_Spinner.js"
+   text-time="2013-09-03T13:58:22.656866Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a5d9c6192b6cae8e9c44506bc9fff327"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:18.913651Z"/>
+<entry
+   name="nls"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="VerticalRuleLabels.js"
+   text-time="2013-09-03T13:58:22.665866Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7b68802d24d9e3783b638ae44cb737f3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:21.031773Z"/>
+<entry
+   committed-rev="11"
+   name="NumberSpinner.js"
+   text-time="2013-09-03T13:58:22.670866Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="19563646ee97b37e05c3d535a506d142"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:21.036773Z"/>
+<entry
+   committed-rev="11"
+   name="DateTextBox.js"
+   text-time="2013-09-03T13:58:22.675867Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="edc80a83b4a02ec713ab272d1c8b5b08"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:21.041773Z"/>
+<entry
+   committed-rev="11"
+   name="TextBox.js"
+   text-time="2013-09-03T13:58:22.679867Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="38dbc9081d13a5da0545d12c816779ab"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:21.519800Z"/>
+<entry
+   committed-rev="11"
+   name="VerticalRule.js"
+   text-time="2013-09-03T13:58:22.711869Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="53543146e5c5744dad5107b09341ea43"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:21.526801Z"/>
+<entry
+   committed-rev="11"
+   name="Form.js"
+   text-time="2013-09-03T13:58:22.717869Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="310b0861747c2ba63feb8d46c23cdfc6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:21.678810Z"/>
+<entry
+   committed-rev="11"
+   name="HorizontalRuleLabels.js"
+   text-time="2013-09-03T13:58:22.722869Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="89d290e4fda4846bebff4d542b28c033"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:21.844819Z"/>
+<entry
+   committed-rev="11"
+   name="_FormSelectWidget.js"
+   text-time="2013-09-03T13:58:22.726870Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3a627d07bc94d4a39e1968a292b5d665"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:22.177838Z"/>
+<entry
+   committed-rev="11"
+   name="_FormMixin.js"
+   text-time="2013-09-03T13:58:22.731870Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="68d7ad28df5a72f182cd3a7d6724584d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:22.352848Z"/>
+<entry
+   committed-rev="11"
+   name="_DateTimeTextBox.js"
+   text-time="2013-09-03T13:58:22.736870Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="043408c2d28070cce346b286f0d9af91"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:22.521858Z"/>
+<entry
+   committed-rev="11"
+   name="Button.js"
+   text-time="2013-09-03T13:58:22.534859Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="22f32ab3204a500295cb21948d6e10fe"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.527343Z"/>
+<entry
+   committed-rev="11"
+   name="VerticalSlider.js"
+   text-time="2013-09-03T13:58:22.543859Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2e57c2f459800514d8ccf06efb79af7a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.695353Z"/>
+<entry
+   committed-rev="11"
+   name="ToggleButton.js"
+   text-time="2013-09-03T13:58:22.550859Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d99fb448df502466f65113d76c1f42a2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.727355Z"/>
+<entry
+   committed-rev="11"
+   name="Select.js"
+   text-time="2013-09-03T13:58:22.556860Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="27b538283d4dc19d84361a52f1a6a249"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.786358Z"/>
+<entry
+   committed-rev="11"
+   name="HorizontalRule.js"
+   text-time="2013-09-03T13:58:22.562860Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8d9df517650e14275c2d83ccbe87d649"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.860362Z"/>
+<entry
+   committed-rev="11"
+   name="Slider.js"
+   text-time="2013-09-03T13:58:22.567860Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="3f3c2271bb24b0b04a49927c7e7f1957"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.866363Z"/>
+<entry
+   committed-rev="11"
+   name="FilteringSelect.js"
+   text-time="2013-09-03T13:58:22.574861Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="37b445d6bed6436de23473c2981475b4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:13.951368Z"/>
+<entry
+   committed-rev="11"
+   name="MappedTextBox.js"
+   text-time="2013-09-03T13:58:22.579861Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0aa9a1f93794484b859a9eb692468cc2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:14.029372Z"/>
+<entry
+   committed-rev="11"
+   name="CheckBox.js"
+   text-time="2013-09-03T13:58:22.583861Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1b2007a1655133dc7dcc31974de45a7c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:14.194381Z"/>
+<entry
+   committed-rev="11"
+   name="SimpleTextarea.js"
+   text-time="2013-09-03T13:58:22.589862Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="862fec59d7fc99b8c615369127fe5988"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:14.197382Z"/>
+<entry
+   committed-rev="11"
+   name="DropDownButton.js"
+   text-time="2013-09-03T13:58:22.594862Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e61a1313cb990e7894ca8c8a72090c5f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:14.201382Z"/>
+<entry
+   committed-rev="11"
+   name="RadioButton.js"
+   text-time="2013-09-03T13:58:22.599862Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0809bafbd8ce4d37922a7d09d0e6ad1f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:14.715411Z"/>
+<entry
+   committed-rev="11"
+   name="MultiSelect.js"
+   text-time="2013-09-03T13:58:22.603862Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="9eac6857be554acdc311156598f4470d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:14.719412Z"/>
+<entry
+   committed-rev="11"
+   name="ComboButton.js"
+   text-time="2013-09-03T13:58:22.609863Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fe85d1d230144031839bdcdb2df3ae76"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:14.722412Z"/>
+<entry
+   committed-rev="11"
+   name="HorizontalSlider.js"
+   text-time="2013-09-03T13:58:22.613863Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="95d33729659af285183d72ee970d7549"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:15.237441Z"/>
+<entry
+   committed-rev="11"
+   name="RangeBoundTextBox.js"
+   text-time="2013-09-03T13:58:22.618863Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4a78ff8232da7b8f66a5d0f7964ab83b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:15.244442Z"/>
+</wc-entries>

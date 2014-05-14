@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/io/proxy"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="xip_client.html"
+   text-time="2013-09-03T14:01:39.253110Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="56371e5c0d2cb58edad4a14997e1ff62"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.227109Z"/>
+<entry
+   committed-rev="11"
+   name="xip_server.html"
+   text-time="2013-09-03T14:01:39.234109Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="61776256f9e226eb3dc4f35029fb2d64"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.212108Z"/>
+<entry
+   committed-rev="11"
+   name="xip.js"
+   text-time="2013-09-03T14:01:39.241109Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f2731194113b79e01d45530da9c787bc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.218108Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:39.247110Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c499dc832c83c58ce48f0f2efe045bc4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:39.223108Z"/>
+</wc-entries>

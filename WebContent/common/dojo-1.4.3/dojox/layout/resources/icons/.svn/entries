@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/layout/resources/icons"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="resize.png"
+   text-time="2013-09-03T14:01:25.112301Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="25501f65b13fd591372eae9d39c6e4ef"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.089300Z"/>
+<entry
+   committed-rev="11"
+   name="pixel.gif"
+   text-time="2013-09-03T14:01:25.119302Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="bbfd7b49dc892a72a8a87d8d1ae3e4ee"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.094300Z"/>
+<entry
+   committed-rev="11"
+   name="grip_bg.gif"
+   text-time="2013-09-03T14:01:25.101301Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ecfe3b84af73126ed85363eddd483e30"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.075299Z"/>
+<entry
+   committed-rev="11"
+   name="rotator.png"
+   text-time="2013-09-03T14:01:25.106301Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f0cabe1534d5e33bdec6d0f027bef3e7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.082300Z"/>
+</wc-entries>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/collections"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="BinaryTree.js"
+   text-time="2013-09-03T14:00:08.907943Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8010101b0774a00038030b55ad308185"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.542922Z"/>
+<entry
+   committed-rev="11"
+   name="Queue.js"
+   text-time="2013-09-03T14:00:08.918943Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d2f29fdd4782e3144afad227864bde5c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.546922Z"/>
+<entry
+   committed-rev="11"
+   name="Dictionary.js"
+   text-time="2013-09-03T14:00:08.927944Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="540e06fe1135dc346372fbfe5b5a5aef"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.705931Z"/>
+<entry
+   committed-rev="11"
+   name="Stack.js"
+   text-time="2013-09-03T14:00:08.933944Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6c6be80fea6f76940f23013a0c24b7d1"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.709931Z"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T14:00:08.940945Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="30399eaeb089bffa566b830d1ceeedcf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.712932Z"/>
+<entry
+   committed-rev="11"
+   name="ArrayList.js"
+   text-time="2013-09-03T14:00:08.946945Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="495915e2172a72cd747da6c8878f14e4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.715932Z"/>
+<entry
+   committed-rev="11"
+   name="Set.js"
+   text-time="2013-09-03T14:00:08.953945Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="46fd0f038449236107c6a3036d2b72f2"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.875941Z"/>
+<entry
+   committed-rev="11"
+   name="SortedList.js"
+   text-time="2013-09-03T14:00:08.957946Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c432d42fb2f8fe85aa0e03cc2be01e37"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.882941Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:00:08.894942Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="49d2a54c31c988e85cfac3046da36b01"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:08.540922Z"/>
+</wc-entries>

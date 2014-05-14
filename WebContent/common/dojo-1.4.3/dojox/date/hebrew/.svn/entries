@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/date/hebrew"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="numerals.js"
+   text-time="2013-09-03T14:00:07.607868Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d8a18f6ce1cccd0290e2b767d5a3a21d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:07.585867Z"/>
+<entry
+   committed-rev="11"
+   name="Date.js"
+   text-time="2013-09-03T14:00:07.594868Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="34ca57c72bbf7393de6c2b8df5c1b754"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:07.220846Z"/>
+<entry
+   committed-rev="11"
+   name="locale.js"
+   text-time="2013-09-03T14:00:07.601868Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fd4c13b3190260f7c4f65b2ab3a3ee0f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:07.580867Z"/>
+</wc-entries>

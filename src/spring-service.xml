@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/tx   
+	   http://www.springframework.org/schema/tx/spring-tx-2.0.xsd"
+       default-lazy-init="true">
+       
+      
+       <bean id="productService" class="com.shebuyit.service.impl.ProductServiceImpl">
+       		<property name="productDAO" ref="productDAO"/>
+       </bean>
+       
+       <bean id="shopService" class="com.shebuyit.service.impl.ShopServiceImpl">
+       		<property name="shopDAO" ref="shopDAO"/>
+       </bean>
+       
+       <bean id="configService" class="com.shebuyit.service.impl.ConfigServiceImpl">
+       		<property name="configDAO" ref="configDAO"/>
+       </bean>
+       
+       <bean id="dictService" class="com.shebuyit.service.impl.DictServiceImpl">
+       		<property name="dictDAO" ref="dictDAO"/>
+       </bean>
+       
+       <bean id="translationService" class="com.shebuyit.service.impl.TranslationServiceImpl">
+       		<property name="translationDAO" ref="translationDAO"/>
+       </bean>
+       
+       <bean id="userService" class="com.shebuyit.service.impl.UserServiceImpl">
+       		<property name="userDAO" ref="userDAO"/>
+       </bean>
+       
+       <bean id="orderService" class="com.shebuyit.service.impl.OrderServiceImpl">
+       		<property name="orderDAO" ref="orderDAO"/>
+       </bean>
+         
+       <bean id="orderItemService" class="com.shebuyit.service.impl.OrderItemServiceImpl">
+       		<property name="orderItemDAO" ref="orderItemDAO"/>
+       </bean>
+       
+       <tx:annotation-driven transaction-manager="transactionManager"/>
+</beans>

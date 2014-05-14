@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/io"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="script.js"
+   text-time="2013-09-03T13:57:32.564000Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="916055766c18e94a3b97479e3bc58d31"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:32.541999Z"/>
+<entry
+   committed-rev="11"
+   name="iframe.js"
+   text-time="2013-09-03T13:57:32.555000Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ac8888184161dc5365e333d2c9e8eca6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:32.535999Z"/>
+</wc-entries>

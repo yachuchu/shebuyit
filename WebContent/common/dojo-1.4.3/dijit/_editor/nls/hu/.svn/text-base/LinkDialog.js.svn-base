@@ -1,0 +1,1 @@
+({"text":"Leírás:","insertImageTitle":"Kép tulajdonságai","set":"Beállítás","newWindow":"Új ablak","topWindow":"Legfelső ablak","target":"Cél:","createLinkTitle":"Hivatkozás tulajdonságai","parentWindow":"Szülőablak","currentWindow":"Aktuális ablak","url":"URL:"})

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/tree"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="_dndSelector.js"
+   text-time="2013-09-03T13:58:53.067605Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ab9e583d3d3d993e2d8070c9ff55d632"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:51.693526Z"/>
+<entry
+   committed-rev="11"
+   name="dndSource.js"
+   text-time="2013-09-03T13:58:53.076605Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ff07702c2d260d6b11550bd7fb78a92a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:52.380566Z"/>
+<entry
+   committed-rev="11"
+   name="_dndContainer.js"
+   text-time="2013-09-03T13:58:53.085606Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="106abd5870ff8b7c157a96624b4f216e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:52.387566Z"/>
+<entry
+   committed-rev="11"
+   name="TreeStoreModel.js"
+   text-time="2013-09-03T13:58:53.090606Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c6983cdd2eac5f2badf372c0e33bac19"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:52.721585Z"/>
+<entry
+   committed-rev="11"
+   name="ForestStoreModel.js"
+   text-time="2013-09-03T13:58:53.095606Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="362ad46753b75b3b32f60b97b7a029e3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:53.048604Z"/>
+<entry
+   committed-rev="11"
+   name="model.js"
+   text-time="2013-09-03T13:58:53.099607Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f1ed2dcfcd556784650cbf5eb33d4806"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:53.055604Z"/>
+</wc-entries>

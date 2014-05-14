@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/analytics"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   name="profiles"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="Urchin.js"
+   text-time="2013-09-03T13:59:41.985403Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="216ab5b12cba8b5eb33820d8703adfa4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.885397Z"/>
+<entry
+   committed-rev="11"
+   name="_base.js"
+   text-time="2013-09-03T13:59:41.990403Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5e9e92b21451d856114747533f3c98bf"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.971402Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T13:59:41.979402Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a916f6772efa614a79e7dd47614f118d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:41.546378Z"/>
+</wc-entries>

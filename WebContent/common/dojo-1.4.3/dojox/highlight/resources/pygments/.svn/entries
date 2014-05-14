@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/highlight/resources/pygments"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="emacs.css"
+   text-time="2013-09-03T13:59:50.553893Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="296cb007b34b1bfa7fc1b2f63764dfed"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.041864Z"/>
+<entry
+   committed-rev="11"
+   name="perldoc.css"
+   text-time="2013-09-03T13:59:50.558893Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8ee1463d7f03ce2a696afb7c3ad89f68"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.182872Z"/>
+<entry
+   committed-rev="11"
+   name="autumn.css"
+   text-time="2013-09-03T13:59:50.565894Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="91ecd05b0e2b85da6928024b018a6a0c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.186872Z"/>
+<entry
+   committed-rev="11"
+   name="trac.css"
+   text-time="2013-09-03T13:59:50.571894Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a6c71de6c3bc883061ba72d540bccf73"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.341881Z"/>
+<entry
+   committed-rev="11"
+   name="friendly.css"
+   text-time="2013-09-03T13:59:50.577894Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="10e606769527663e58131e1202c508bd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.345881Z"/>
+<entry
+   committed-rev="11"
+   name="borland.css"
+   text-time="2013-09-03T13:59:50.582895Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0fab601a4cc39dd107675b96124b01c8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.348881Z"/>
+<entry
+   committed-rev="11"
+   name="fruity.css"
+   text-time="2013-09-03T13:59:50.588895Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ccf01d5e3f08549fccb8f07a726ad102"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.352881Z"/>
+<entry
+   committed-rev="11"
+   name="manni.css"
+   text-time="2013-09-03T13:59:50.595895Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="d0c7202b8bb0119b632c10978c442953"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.503890Z"/>
+<entry
+   committed-rev="11"
+   name="default.css"
+   text-time="2013-09-03T13:59:50.520891Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="27c6e856c7d1dd84b193a843e130cf71"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.008862Z"/>
+<entry
+   committed-rev="11"
+   name="murphy.css"
+   text-time="2013-09-03T13:59:50.526891Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="4002e9c149ce3877dd415f99d21e1ed7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.012862Z"/>
+<entry
+   committed-rev="11"
+   name="colorful.css"
+   text-time="2013-09-03T13:59:50.532892Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="64ae75dff5e9740bbe0a3a0805271386"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.016862Z"/>
+<entry
+   committed-rev="11"
+   name="pastie.css"
+   text-time="2013-09-03T13:59:50.540892Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7b62b05a8a5c6f3fd249dc52e463397c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.022863Z"/>
+<entry
+   committed-rev="11"
+   name="native.css"
+   text-time="2013-09-03T13:59:50.546893Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="ddc358fcf90cd1cce8f0724ad5226a4f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:59:50.037863Z"/>
+</wc-entries>

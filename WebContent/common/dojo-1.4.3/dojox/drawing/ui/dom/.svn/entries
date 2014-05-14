@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/drawing/ui/dom"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="Zoom.js"
+   text-time="2013-09-03T14:00:46.711105Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f64854f0bd8cc45879320085d926b880"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.690104Z"/>
+<entry
+   committed-rev="11"
+   name="Pan.js"
+   text-time="2013-09-03T14:00:46.698104Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0e121c597470c57ebb983d1605c2e2bc"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.669103Z"/>
+<entry
+   committed-rev="11"
+   name="Toolbar.js"
+   text-time="2013-09-03T14:00:46.704105Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="974269ebacb8568dba3428199bf57b44"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:46.683103Z"/>
+</wc-entries>

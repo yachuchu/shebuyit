@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/layout"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="FloatingPane.js"
+   text-time="2013-09-03T14:01:26.627388Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6b27dfccef9274b8f74dec7d0d591e0b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.395318Z"/>
+<entry
+   committed-rev="11"
+   name="ToggleSplitter.js"
+   text-time="2013-09-03T14:01:26.633388Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="39268626432bfa27ef680ea43a72fbcd"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.437320Z"/>
+<entry
+   committed-rev="11"
+   name="RadioGroup.js"
+   text-time="2013-09-03T14:01:26.637389Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="17571038a6a2b4b3cc193dfa34fa6592"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.442320Z"/>
+<entry
+   committed-rev="11"
+   name="ResizeHandle.js"
+   text-time="2013-09-03T14:01:26.642389Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f693485e129e2880314df19b9d7616f7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.566327Z"/>
+<entry
+   committed-rev="11"
+   name="ContentPane.js"
+   text-time="2013-09-03T14:01:26.649389Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="532c35e8b180c421f480ffb22ed79372"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.740337Z"/>
+<entry
+   committed-rev="11"
+   name="BorderContainer.js"
+   text-time="2013-09-03T14:01:26.653390Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="18cf04a70405dea3d925ee578eb4dbef"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.744338Z"/>
+<entry
+   committed-rev="11"
+   name="DragPane.js"
+   text-time="2013-09-03T14:01:26.658390Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c9dd28dae1a79497b889a22ae2bf7350"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.748338Z"/>
+<entry
+   committed-rev="11"
+   name="README"
+   text-time="2013-09-03T14:01:26.664390Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f01686f63e2417fec0b4b6c79d5b43c9"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.900346Z"/>
+<entry
+   name="ext-dijit"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="GridContainer.js"
+   text-time="2013-09-03T14:01:26.668390Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="6c525bbcad4c82f15e648576968f10b8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.217365Z"/>
+<entry
+   name="dnd"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="TableContainer.js"
+   text-time="2013-09-03T14:01:26.675391Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fc925f44f3e92a6c71460c1b637d225b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:26.373373Z"/>
+<entry
+   committed-rev="11"
+   name="RotatorContainer.js"
+   text-time="2013-09-03T14:01:26.604387Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="33488b13054e71da6edf89e2af5205ca"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:24.881288Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+<entry
+   committed-rev="11"
+   name="ScrollPane.js"
+   text-time="2013-09-03T14:01:26.622388Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="e43d34078a55900363146848e843cbe6"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.322313Z"/>
+<entry
+   committed-rev="11"
+   name="ExpandoPane.js"
+   text-time="2013-09-03T14:01:26.614387Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b2fab8f58dbb0e88660183824697e282"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:01:25.308313Z"/>
+</wc-entries>

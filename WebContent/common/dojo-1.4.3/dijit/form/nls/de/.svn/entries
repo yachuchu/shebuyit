@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dijit/form/nls/de"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ComboBox.js"
+   text-time="2013-09-03T13:58:19.566689Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="21829eeb772e975cf70cf94e3bd6fc4a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:19.553688Z"/>
+<entry
+   committed-rev="11"
+   name="validate.js"
+   text-time="2013-09-03T13:58:19.570689Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="34fa4469cb637c1f24aede046901ec5b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:19.556688Z"/>
+<entry
+   committed-rev="11"
+   name="Textarea.js"
+   text-time="2013-09-03T13:58:19.575689Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7179dd2ff616c135dbc91cf6909e891f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:58:19.559688Z"/>
+</wc-entries>

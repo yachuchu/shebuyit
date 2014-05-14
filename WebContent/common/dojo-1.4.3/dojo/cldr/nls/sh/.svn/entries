@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/cldr/nls/sh"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ethiopic.js"
+   text-time="2013-09-03T13:57:57.992455Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="867c6f6e372edf023d0f979c39a9bbf8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.941452Z"/>
+<entry
+   committed-rev="11"
+   name="buddhist.js"
+   text-time="2013-09-03T13:57:57.996455Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b637f8e3af7d6c41d1eeb91063c3f21b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.944452Z"/>
+<entry
+   committed-rev="11"
+   name="japanese.js"
+   text-time="2013-09-03T13:57:58.001455Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="17e389b4f92690c58f5e7eb951d8b49d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.947452Z"/>
+<entry
+   committed-rev="11"
+   name="number.js"
+   text-time="2013-09-03T13:57:58.005456Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b50d2a40143f970824095f122f0edf85"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.950452Z"/>
+<entry
+   committed-rev="11"
+   name="currency.js"
+   text-time="2013-09-03T13:57:58.010456Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="37e3acfed80261e8653670394f744209"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.953453Z"/>
+<entry
+   committed-rev="11"
+   name="hebrew.js"
+   text-time="2013-09-03T13:57:58.014456Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8692e05037bbd5379f8d6a6a95225eae"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.955453Z"/>
+<entry
+   committed-rev="11"
+   name="gregorian.js"
+   text-time="2013-09-03T13:57:58.018456Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="368192160dad8a8dbcfc9908027c120e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.959453Z"/>
+<entry
+   committed-rev="11"
+   name="chinese.js"
+   text-time="2013-09-03T13:57:58.023457Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1edd88e2929d40915ee4e7d12e93a594"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.962453Z"/>
+<entry
+   committed-rev="11"
+   name="coptic.js"
+   text-time="2013-09-03T13:57:57.967453Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1aeace2588e7669eb90f42475e57fa28"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.923451Z"/>
+<entry
+   committed-rev="11"
+   name="islamic.js"
+   text-time="2013-09-03T13:57:57.971454Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7807021a8606fe8f94043e93059abc7f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.926451Z"/>
+<entry
+   committed-rev="11"
+   name="persian.js"
+   text-time="2013-09-03T13:57:57.977454Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="870d0f2ecc0b553a6da9196b2d2f260d"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.930451Z"/>
+<entry
+   committed-rev="11"
+   name="indian.js"
+   text-time="2013-09-03T13:57:57.983454Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a6ea0eb98b9aa617a950c00e07248de3"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.934451Z"/>
+<entry
+   committed-rev="11"
+   name="roc.js"
+   text-time="2013-09-03T13:57:57.988455Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="eea703ed31ed7648459ae8fb192df9f8"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:57.938452Z"/>
+</wc-entries>

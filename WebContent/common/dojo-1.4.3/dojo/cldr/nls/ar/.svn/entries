@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/cldr/nls/ar"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="ethiopic.js"
+   text-time="2013-09-03T13:57:53.282185Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="50e4ad89353053826587c9f6eef15699"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.066173Z"/>
+<entry
+   committed-rev="11"
+   name="islamic-civil.js"
+   text-time="2013-09-03T13:57:53.291186Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="2d0743bacf854e0283eb0dc107c2195e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.069173Z"/>
+<entry
+   committed-rev="11"
+   name="buddhist.js"
+   text-time="2013-09-03T13:57:53.296186Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="f3890407c147367fbf3bf4f9a74f1a5b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.076174Z"/>
+<entry
+   committed-rev="11"
+   name="japanese.js"
+   text-time="2013-09-03T13:57:53.301186Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="5bb80596e6953b127ea9e758384d6089"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.080174Z"/>
+<entry
+   committed-rev="11"
+   name="number.js"
+   text-time="2013-09-03T13:57:53.306187Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a1ca677cd5662a0111b78fca50c02e01"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.109175Z"/>
+<entry
+   committed-rev="11"
+   name="currency.js"
+   text-time="2013-09-03T13:57:53.310187Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="1e30794ffe18aa888c816f827fd13ae7"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.113176Z"/>
+<entry
+   committed-rev="11"
+   name="hebrew.js"
+   text-time="2013-09-03T13:57:53.315187Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="19509b129ae8e6446d31599fc93d5445"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.243183Z"/>
+<entry
+   committed-rev="11"
+   name="gregorian.js"
+   text-time="2013-09-03T13:57:53.319187Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="58e73e28fccf7d68eb2d75a0ef279de4"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.247183Z"/>
+<entry
+   committed-rev="11"
+   name="coptic.js"
+   text-time="2013-09-03T13:57:53.253184Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="26b730c45f6cfc927235c577f8d62eba"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.052172Z"/>
+<entry
+   committed-rev="11"
+   name="islamic.js"
+   text-time="2013-09-03T13:57:53.258184Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c88bb01c5084bff01d3546f521267c6c"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.055172Z"/>
+<entry
+   committed-rev="11"
+   name="persian.js"
+   text-time="2013-09-03T13:57:53.271185Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c57da58bfd5f972206cc22ac98684410"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:53.059173Z"/>
+</wc-entries>

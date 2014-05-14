@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/_base/_loader"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="hostenv_rhino.js"
+   text-time="2013-09-03T13:57:34.271098Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="8a2e75336816b17b8970997ce7be2478"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:33.545056Z"/>
+<entry
+   committed-rev="11"
+   name="loader.js"
+   text-time="2013-09-03T13:57:34.276098Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7ded3473acf6117b24c4e7823a6a0d26"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:33.866075Z"/>
+<entry
+   committed-rev="11"
+   name="hostenv_browser.js"
+   text-time="2013-09-03T13:57:34.280099Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="a0a9a14e58e957073da9da4a3eb6a975"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:34.032084Z"/>
+<entry
+   committed-rev="11"
+   name="loader_debug.js"
+   text-time="2013-09-03T13:57:34.285099Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b7deb023ae9360ced15f23c3a2da71a0"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:34.038085Z"/>
+<entry
+   committed-rev="11"
+   name="bootstrap.js"
+   text-time="2013-09-03T13:57:34.289099Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="607c64e06ae068bdac3204bce43cb873"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:34.250097Z"/>
+<entry
+   committed-rev="11"
+   name="hostenv_spidermonkey.js"
+   text-time="2013-09-03T13:57:34.256097Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="564b9dae34ba6d083403b7fd0f460322"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:32.955023Z"/>
+<entry
+   committed-rev="11"
+   name="hostenv_ff_ext.js"
+   text-time="2013-09-03T13:57:34.260097Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="89bfb473e2c560bd00eb3bfc7c7a5c9e"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:33.110032Z"/>
+<entry
+   committed-rev="11"
+   name="loader_xd.js"
+   text-time="2013-09-03T13:57:34.266098Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="0db88ab322bb3b79e718260d3036fc77"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:33.446051Z"/>
+</wc-entries>

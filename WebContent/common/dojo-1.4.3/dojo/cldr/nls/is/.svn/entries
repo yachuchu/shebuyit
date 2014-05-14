@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojo/cldr/nls/is"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="number.js"
+   text-time="2013-09-03T13:57:54.370248Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="c96caf896829ebb20564e7a6142b3b7a"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:54.334246Z"/>
+<entry
+   committed-rev="11"
+   name="currency.js"
+   text-time="2013-09-03T13:57:54.375248Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b4df85db3ce38cdb09f240530f7ed675"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:54.338246Z"/>
+<entry
+   committed-rev="11"
+   name="gregorian.js"
+   text-time="2013-09-03T13:57:54.403249Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="7e45c941a2f32f7528737a597e7e498f"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T13:57:54.344246Z"/>
+</wc-entries>

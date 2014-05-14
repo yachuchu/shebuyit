@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-09-03T06:43:29.309602Z"
+   url="svn://www.shebuysmart.com/buysmart/shebuyit/WebContent/common/dojo-1.4.3/dojox/fx/ext-dojo"
+   last-author="chuchu"
+   kind="dir"
+   uuid="678a5eae-d4c6-41e2-a054-67dd413346c9"
+   repos="svn://www.shebuysmart.com/buysmart"
+   revision="11"/>
+<entry
+   committed-rev="11"
+   name="NodeList-style.js"
+   text-time="2013-09-03T14:00:04.687701Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="fc588d7cdc3d3d78afde4370f44eab5b"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.678701Z"/>
+<entry
+   committed-rev="11"
+   name="NodeList.js"
+   text-time="2013-09-03T14:00:04.696702Z"
+   committed-date="2013-09-03T06:43:29.309602Z"
+   checksum="b404c70e219392a82337b53d1f924675"
+   last-author="chuchu"
+   kind="file"
+   prop-time="2013-09-03T14:00:04.681701Z"/>
+</wc-entries>
